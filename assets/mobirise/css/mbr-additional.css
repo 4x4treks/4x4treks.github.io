@@ -4648,28 +4648,13 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-rUoZvbrn3k {
-  padding-top: 45px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/out-there-north-sb-27-600x400.jpg");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/pb030116-2000x1500.jpeg");
 }
 .cid-rUoZvbrn3k .mbr-text,
 .cid-rUoZvbrn3k .mbr-section-btn {
   text-align: left;
-}
-.cid-rZFNw46mlR {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: linear-gradient(45deg, #3e2926, #efefef);
-}
-@media (min-width: 992px) {
-  .cid-rZFNw46mlR .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rZFNw46mlR .mbr-figure {
-    padding-top: 3rem;
-  }
 }
 .cid-spZjaMeDOq {
   padding-top: 15px;
