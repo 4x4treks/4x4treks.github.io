@@ -112,7 +112,7 @@
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://4x4treks.com.au",
-    "uniqCompNum": 752,
+    "uniqCompNum": 755,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "google-analytics": "",
@@ -2432,7 +2432,7 @@
           },
           "_name": "gallery5",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-gallery gallery5\" group=\"Gallery\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <header>Images</header>\n        <input type=\"checkbox\" title=\"Auto Size\" name=\"autoSize\" checked>\n        <input type=\"checkbox\" title=\"No Spacing\" name=\"noSpacing\">\n        <!-- <input type=\"range\" title=\"Spacing\" name=\"spacing\" min=\"0\" max=\"3\" step=\"0.1\" value=\"1\"> -->\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background5-1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <header condition=\"bg.type!==color\">Overlay</header>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n            Your Guide, Tony.</h3>\n        <h4 class=\"mbr-section-subtitle align-center pb-4 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\"><a href=\"about.html\" class=\"text-primary\" target=\"_blank\"></a><a href=\"about.html\" class=\"text-danger\" target=\"_blank\" style=\"font-size: 1.6rem; background-color: rgb(255, 255, 255); display: inline !important;\">Find out more about Tony's qualifications and experience here...</a><br><a href=\"about.html\" class=\"text-primary\" target=\"_blank\"></a><a href=\"about.html\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1.6rem; background-color: rgb(255, 255, 255); display: inline !important;\"><i>\"Amazing trip! Tony is the best guide. Safety is always his priority. His knowledge of every aspect of the desert is amazing. Fun to be around and just a great bloke. Awesome adventure!\" - </i>Jill Maw, Simpson Double Crossing 2022</a><br></h4>\n        <div class=\"row mbr-gallery\" data-toggle=\"modal\" data-target=\"#{{idGallery}}Modal\">\n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/20220912-181609-510x594.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"0\" data-bs-slide-to=\"0\">\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/received-554455876432508-510x397.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"1\" data-bs-slide-to=\"1\">\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/20221003-110437-510x746.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"2\" data-bs-slide-to=\"2\">\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/screenshot-20221001-073644-facebook-510x530.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"3\" data-bs-slide-to=\"3\">\n                </div>\n            </div><div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/sgl-logo-enterprise.webp\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"4\" data-bs-slide-to=\"4\">\n                </div>\n            </div><div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/sa-parks-logo.webp\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"5\" data-bs-slide-to=\"5\">\n                </div>\n            </div><div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/savannah-guides-logo-transparent-1-800x456.png\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"6\" data-bs-slide-to=\"6\">\n                </div>\n            </div><div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/qpws-800x800.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"7\" data-bs-slide-to=\"7\">\n                </div>\n            </div>\n        </div>\n\n        <div class=\"modal mbr-slider fade\" id=\"{{idGallery}}Modal\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">\n            <div class=\"modal-dialog\" role=\"document\">\n                <div class=\"modal-content\">\n                    <div class=\"modal-body\">\n                        <div id=\"lb-{{idGallery}}\" class=\"carousel slide\" data-ride=\"carousel\">\n                            <div class=\"carousel-inner\">\n                                <div class=\"carousel-item active\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/background1.jpg\" alt>\n                                </div>\n                                <div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/background2.jpg\" alt>\n                                </div>\n                                <div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/background3.jpg\" alt>\n                                </div>\n                                <div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/background4.jpg\" alt>\n                                </div><div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/sgl-logo-enterprise.webp\" alt>\n                                </div><div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/savannah-guides-logo-transparent-1-800x456.png\" alt>\n                                </div><div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/savannah-guides-logo-transparent-1-800x456.png\" alt>\n                                </div><div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/qpws-800x800.jpg\" alt>\n                                </div>\n                            </div>\n                            <ol class=\"carousel-indicators\">\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"0\" class=\"active\" data-bs-slide-to=\"0\"></li>\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"1\" data-bs-slide-to=\"1\"></li>\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"2\" data-bs-slide-to=\"2\"></li>\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"3\" data-bs-slide-to=\"3\"></li><li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"4\" data-bs-slide-to=\"4\"></li><li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"5\" data-bs-slide-to=\"5\"></li><li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"6\" data-bs-slide-to=\"6\"></li><li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"7\" data-bs-slide-to=\"7\"></li>\n                            </ol>\n                            <a role=\"button\" href class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\">\n                            </a>\n                            <a class=\"carousel-control-prev carousel-control\" href=\"#lb-{{idGallery}}\" role=\"button\" data-slide=\"prev\">\n                                <span class=\"mbri-left mbr-iconfont\" aria-hidden=\"true\"></span>\n                                <span class=\"sr-only\">Previous</span>\n                            </a>\n                            <a class=\"carousel-control-next carousel-control\" href=\"#lb-{{idGallery}}\" role=\"button\" data-slide=\"next\">\n                                <span class=\"mbri-right mbr-iconfont\" aria-hidden=\"true\"></span>\n                                <span class=\"sr-only\">Next</span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery gallery5\" group=\"Gallery\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <header>Images</header>\n        <input type=\"checkbox\" title=\"Auto Size\" name=\"autoSize\" checked>\n        <input type=\"checkbox\" title=\"No Spacing\" name=\"noSpacing\">\n        <!-- <input type=\"range\" title=\"Spacing\" name=\"spacing\" min=\"0\" max=\"3\" step=\"0.1\" value=\"1\"> -->\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background5-1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <header condition=\"bg.type!==color\">Overlay</header>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n            Your Guide, Tony.</h3>\n        <h4 class=\"mbr-section-subtitle align-center pb-4 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\"><a href=\"about.html\" class=\"text-primary\" target=\"_blank\"></a><a href=\"about.html\" class=\"text-danger\" target=\"_blank\" style=\"font-size: 1.6rem; background-color: rgb(255, 255, 255); display: inline !important;\">Find out more about Tony's qualifications and experience here...</a><br><br><a href=\"about.html\" class=\"text-primary\" target=\"_blank\"></a><a href=\"about.html\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1.6rem; background-color: rgb(255, 255, 255); display: inline !important;\"><i>\"Amazing trip! Tony is the best guide. Safety is always his priority. His knowledge of every aspect of the desert is amazing. Fun to be around and just a great bloke. Awesome adventure!\" - </i>Jill Maw, Simpson Double Crossing 2022</a><br></h4>\n        <div class=\"row mbr-gallery\" data-toggle=\"modal\" data-target=\"#{{idGallery}}Modal\">\n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/20220912-181609-510x594.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"0\" data-bs-slide-to=\"0\">\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/received-554455876432508-510x397.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"1\" data-bs-slide-to=\"1\">\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/20221003-110437-510x746.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"2\" data-bs-slide-to=\"2\">\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/screenshot-20221001-073644-facebook-510x530.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"3\" data-bs-slide-to=\"3\">\n                </div>\n            </div><div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/sgl-logo-enterprise.webp\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"4\" data-bs-slide-to=\"4\">\n                </div>\n            </div><div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/sa-parks-logo.webp\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"5\" data-bs-slide-to=\"5\">\n                </div>\n            </div><div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/savannah-guides-logo-transparent-1-800x456.png\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"6\" data-bs-slide-to=\"6\">\n                </div>\n            </div><div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/qpws-800x800.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"7\" data-bs-slide-to=\"7\">\n                </div>\n            </div>\n        </div>\n\n        <div class=\"modal mbr-slider fade\" id=\"{{idGallery}}Modal\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">\n            <div class=\"modal-dialog\" role=\"document\">\n                <div class=\"modal-content\">\n                    <div class=\"modal-body\">\n                        <div id=\"lb-{{idGallery}}\" class=\"carousel slide\" data-ride=\"carousel\">\n                            <div class=\"carousel-inner\">\n                                <div class=\"carousel-item active\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/background1.jpg\" alt>\n                                </div>\n                                <div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/background2.jpg\" alt>\n                                </div>\n                                <div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/background3.jpg\" alt>\n                                </div>\n                                <div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/background4.jpg\" alt>\n                                </div><div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/sgl-logo-enterprise.webp\" alt>\n                                </div><div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/savannah-guides-logo-transparent-1-800x456.png\" alt>\n                                </div><div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/savannah-guides-logo-transparent-1-800x456.png\" alt>\n                                </div><div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/qpws-800x800.jpg\" alt>\n                                </div>\n                            </div>\n                            <ol class=\"carousel-indicators\">\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"0\" class=\"active\" data-bs-slide-to=\"0\"></li>\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"1\" data-bs-slide-to=\"1\"></li>\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"2\" data-bs-slide-to=\"2\"></li>\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"3\" data-bs-slide-to=\"3\"></li><li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"4\" data-bs-slide-to=\"4\"></li><li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"5\" data-bs-slide-to=\"5\"></li><li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"6\" data-bs-slide-to=\"6\"></li><li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"7\" data-bs-slide-to=\"7\"></li>\n                            </ol>\n                            <a role=\"button\" href class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\">\n                            </a>\n                            <a class=\"carousel-control-prev carousel-control\" href=\"#lb-{{idGallery}}\" role=\"button\" data-slide=\"prev\">\n                                <span class=\"mbri-left mbr-iconfont\" aria-hidden=\"true\"></span>\n                                <span class=\"sr-only\">Previous</span>\n                            </a>\n                            <a class=\"carousel-control-next carousel-control\" href=\"#lb-{{idGallery}}\" role=\"button\" data-slide=\"next\">\n                                <span class=\"mbri-right mbr-iconfont\" aria-hidden=\"true\"></span>\n                                <span class=\"sr-only\">Next</span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "gallery5-kv",
           "_isUserblock": true,
           "_cid": "tmyBh8IpW4",
@@ -2440,6 +2440,36 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "P": {
+              "color": "#767676"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#000000"
+            }
+          },
+          "_name": "header16",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><i>\"We simply had to turn up with our prepared vehicle - Tony did all the planning and permit applications along with shouldering the decisions regarding route changes getting to Birdsville because of unseasonal wet weather and road closures. Tony is knowledgeable, practical, and personable. We have no hesitation in doing another tour with Tony and recommending him to others. 5 out of 5 stars.\"</i> - Ian &amp; Ann Collard, Simpson Desert Tour 2022</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">LEARN MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_cid": "tmyZ1d9TgK",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header16-ky"
         },
         {
           "alias": false,
@@ -2523,212 +2553,10 @@
           },
           "_name": "features3",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"features3\" group=\"Features\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\t<mbr-parameters>\n\t\t\t<header>Size</header>\n\t\t\t<input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n\t\t\t<input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\t\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n\t\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n\t\t\t<input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"6\">\n\t\t\t<input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n\t\t\t<header>Show/Hide</header>\n\t\t\t<input type=\"checkbox\" title=\"Remove Padding\" name=\"imageFullWidth\" condition=\"fullWidth\">\n\t\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t\t<input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n\t\t\t<header>Background</header>\n\t\t\t<fieldset type=\"background\" name=\"bg\">\n\t\t\t\t\t<input type=\"color\" title=\"Color\" value=\"#efefef\" selected>\n                    <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/dots-1.svg\">\n\t\t\t</fieldset>\n            <input type=\"checkbox\" title=\"Pattern\" name=\"pattern\" condition=\"bg.type !== 'color'\" checked>\n\t\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n\t\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n\t\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n\t<div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n\t\t\t<div class=\"row justify-content-center align-items-start\">\n\t\t\t\t\t<div class=\"col-12 col-md-{{imageWidth}}\">\n                        <div class=\"image-wrapper\">\n                            <h1 class=\"mbr-section-title mbr-fonts-style mb-5\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">What is a tag-along tour &amp; why travel with our tag-along group?</h1>\n\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/dscn1064-654x381.jpg\" alt>\n                        </div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-12 col-md\">\n\t\t\t\t\t\t\t<div class=\"text-wrapper\">\n\t\t\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>SAFE AND HASSLE FREE - LIKE MINDED COMPANIONS</b><br>We provide a safe and hassle-free way for people to travel to remote locations. Our carefully planned tours are designed to let you safely experience incredible 4X4 locations with like-minded and enthusiastic companions in places many people would not go by themselves.\n<br>\n<br><b>FOLLOW THE LEADER - NO EXPERIENCE NECESSARY</b><br>Very simply put, you follow the tour leader in your own or a hired 4X4 vehicle. And you don't need to have any off-road driving experience because our professional tour guides provide instruction and support throughout each tour to help clients successfully and safely tackle challenging terrain in isolated situations. <br><br><b>LIFE-LONG SKILLS</b><br>You will come away from a tour with us with a real sense of achievement and 4X4 skills to last you a lifetime. \n<br>\n<br><b>LIMITED NUMBERS - VARIED ITINERARIES</b><br>We use a network of travel experts to provide a seamless experience for our clients. Up to 8 clients' vehicles come on our tag-along tours which are a mix of self, part and fully catered and accommodated or camping, depending on the location. \n<br>\n<br><b>EXPERIENCED AND QUALIFIED GUIDES</b><br>Our guides are qualified in both tour guiding and 4WD instruction, and have extensive experience in remote area travel.<br></p>\n\t\t\t\t\t\t\t\t\t<div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Explore\n\t\t\t\t\t\t\t\t\t\t\t\t\tall features</a></div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t</div>\n\t</div>\n</section>",
+          "_customHTML": "<section class=\"features3\" group=\"Features\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\t<mbr-parameters>\n\t\t\t<header>Size</header>\n\t\t\t<input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n\t\t\t<input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\t\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n\t\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n\t\t\t<input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"6\">\n\t\t\t<input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n\t\t\t<header>Show/Hide</header>\n\t\t\t<input type=\"checkbox\" title=\"Remove Padding\" name=\"imageFullWidth\" condition=\"fullWidth\">\n\t\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t\t<input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\">\n\t\t\t<header>Background</header>\n\t\t\t<fieldset type=\"background\" name=\"bg\">\n\t\t\t\t\t<input type=\"color\" title=\"Color\" value=\"#cccccc\" selected>\n                    <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/dots-1.svg\">\n\t\t\t</fieldset>\n            <input type=\"checkbox\" title=\"Pattern\" name=\"pattern\" condition=\"bg.type !== 'color'\" checked>\n\t\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n\t\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n\t\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n\t<div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n\t\t\t<div class=\"row justify-content-center align-items-start\">\n\t\t\t\t\t<div class=\"col-12 col-md-{{imageWidth}}\">\n                        <div class=\"image-wrapper\">\n                            <h1 class=\"mbr-section-title mbr-fonts-style mb-5\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">What is a tag-along tour &amp; why travel with our tag-along group?</h1>\n\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/dscn1064-654x381.jpg\" alt>\n                        </div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"col-12 col-md\">\n\t\t\t\t\t\t\t<div class=\"text-wrapper\">\n\t\t\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>SAFE AND HASSLE FREE - LIKE MINDED COMPANIONS</b><br>We provide a safe and hassle-free way for people to travel to remote locations. Our carefully planned tours are designed to let you safely experience incredible 4X4 locations with like-minded and enthusiastic companions in places many people would not go by themselves.\n<br>\n<br><b>FOLLOW THE LEADER - NO EXPERIENCE NECESSARY</b><br>Very simply put, you follow the tour leader in your own or a hired 4X4 vehicle. And you don't need to have any off-road driving experience because our professional tour guides provide instruction and support throughout each tour to help clients successfully and safely tackle challenging terrain in isolated situations. <br><br><b>LIFE-LONG SKILLS</b><br>You will come away from a tour with us with a real sense of achievement and 4X4 skills to last you a lifetime. \n<br>\n<br><b>LIMITED NUMBERS - VARIED ITINERARIES</b><br>We use a network of travel experts to provide a seamless experience for our clients. Up to 8 clients' vehicles come on our tag-along tours which are a mix of self, part and fully catered and accommodated or camping, depending on the location. \n<br>\n<br><b>EXPERIENCED AND QUALIFIED GUIDES</b><br>Our guides are qualified in both tour guiding and 4WD instruction, and have extensive experience in remote area travel.<br></p>\n\t\t\t\t\t\t\t\t\t<div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">Explore\n\t\t\t\t\t\t\t\t\t\t\t\t\tall features</a></div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t</div>\n\t</div>\n</section>",
           "_anchor": "features3-hy",
           "_isUserblock": true,
           "_cid": "sO8fAVNO5k",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
-            "overflow": "hidden",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bgColor2) and (@bg-type = 'color')": {
-              ".two__background:before": {
-                "content": "''",
-                "position": "absolute",
-                "top": "0",
-                "right": "0",
-                "max-width": "49%",
-                "width": "100%",
-                "height": "100%",
-                "background-color": "@twoBgColor",
-                "z-index": "0"
-              }
-            },
-            ".carousel-inner when (@showArrows)": {
-              "margin-bottom": "70px"
-            },
-            ".slider__content": {
-              "padding-top": "52px",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#050505",
-              "margin-bottom": "13px",
-              "position": "relative",
-              "z-index": "1",
-              "& when (@showFigure)": {
-                "&:after": {
-                  "content": "''",
-                  "position": "absolute",
-                  "left": "-92px",
-                  "top": "147px",
-                  "width": "85px",
-                  "height": "85px",
-                  "z-index": "-1",
-                  "background-repeat": "no-repeat",
-                  "background-size": "cover",
-                  "background-image": "url(@figure)"
-                }
-              }
-            },
-            ".mbr-section-title": {
-              "margin-bottom": "33px"
-            },
-            ".slider__image": {
-              "margin-left": "11.8%"
-            },
-            ".img-wrap": {
-              "max-width": "100%",
-              "img": {
-                "width": "100%",
-                "object-fit": "cover"
-              }
-            },
-            ".carousel-indicators": {
-              "display": "flex",
-              "flex-direction": "column",
-              "margin": "0",
-              "transition": "all 0.25s",
-              "height": "100%",
-              "width": "50px",
-              "left": "44.5%",
-              "right": "auto",
-              ".active": {
-                "background": "@indicatorsColor",
-                "opacity": "1",
-                "border": "none",
-                "&:before": {
-                  "content": "''",
-                  "display": "block",
-                  "position": "absolute",
-                  "top": "-14px",
-                  "left": "-14px",
-                  "width": "40px",
-                  "height": "40px",
-                  "border-radius": "50%",
-                  "background-color": "inherit",
-                  "opacity": "0.2"
-                }
-              },
-              "li": {
-                "width": "12px",
-                "height": "12px",
-                "border": "none",
-                "margin-bottom": "32px",
-                "box-sizing": "border-box",
-                "background-color": "@indicatorsColor",
-                "border-radius": "50%",
-                "position": "relative",
-                "opacity": "0.2"
-              }
-            },
-            ".carousel-controls": {
-              "a": {
-                "border-radius": "50%",
-                "border": "2px solid @indicatorsColor",
-                "background-color": "transparent",
-                "span": {
-                  "transition": "all 0.3s",
-                  "color": "@indicatorsColor",
-                  "font-size": "18px"
-                },
-                "&:hover": {
-                  ".mobi-mbri-left": {
-                    "transform": "translateX(-5px)"
-                  },
-                  ".mobi-mbri-right": {
-                    "transform": "translateX(5px)"
-                  }
-                }
-              },
-              ".carousel-control-next, .carousel-control-prev": {
-                "opacity": "1",
-                "width": "44px",
-                "height": "44px"
-              },
-              ".carousel-control-next": {
-                "right": "40%",
-                "bottom": "5px",
-                "top": "auto",
-                "left": "auto"
-              },
-              ".carousel-control-prev": {
-                "right": "45%",
-                "bottom": "5px",
-                "top": "auto",
-                "left": "auto"
-              }
-            },
-            "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
-              ".image-element": {
-                "min-width": "50%"
-              },
-              ".media-container-row": {
-                "width": "100%"
-              }
-            },
-            "@media (max-width: 991px)": {
-              ".two__background:before": {
-                "max-width": "90%"
-              },
-              ".carousel-indicators": {
-                "flex-direction": "row",
-                "height": "50px",
-                "width": "100%",
-                "left": "auto",
-                "bottom": "0",
-                "right": "auto",
-                "li": {
-                  "margin": "0 16px"
-                }
-              },
-              ".slider__content": {
-                "padding-top": "0",
-                "margin-bottom": "72px"
-              },
-              ".mbr-section-subtitle": {
-                "margin-bottom": "6px",
-                "&:after": {
-                  "content": "none"
-                }
-              },
-              ".mbr-section-title": {
-                "margin-bottom": "18px"
-              },
-              ".slider__image": {
-                "margin-left": "0",
-                "margin-bottom": "100px"
-              },
-              ".img-wrap": {
-                "width": "100%"
-              },
-              ".carousel-controls": {
-                "display": "none"
-              },
-              ".carousel-inner": {
-                "margin-bottom": "0"
-              }
-            }
-          },
-          "_name": "slider3",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"slider3 voyagem4_slider3 carousel slide testimonials-slider extSlider\" group=\"Sliders & Galleries\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider\" data-interval=\"false\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" inline>\n\t\t<input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" inline>\n\t\t<header>Show/Hide</header>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t<input type=\"checkbox\" title=\"Figure\" name=\"showFigure\" condition=\"showSubtitle\">\n\t\t<input type=\"image\" title=\"Figure\" name=\"figure\" value=\"@PROJECT_PATH@/assets/images/compass-1.svg\" condition=\"showFigure && showSubtitle\">\n\t\t<header>Slider</header>\n\t\t<input type=\"range\" inline title=\"Count Items\" name=\"testimonialsSlides\" min=\"1\" max=\"10\" step=\"1\" value=\"1\">\n\t\t<input type=\"checkbox\" title=\"Show Indicators\" name=\"showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Show Arrows\" name=\"showArrows\">\n\t\t<input type=\"color\" title=\"Arrows/Indicators Color\" name=\"indicatorsColor\" value=\"#003d59\" condition=\"showArrows || showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n\t\t<input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"6000\" condition=\"showAutoplay\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background-2.jpg\">\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"2 BG Color\" name=\"bgColor2\" condition=\"bg.type == 'color'\" checked>\n\t\t<input type=\"color\" title=\"2 Background Color\" value=\"#cce4f0\" name=\"twoBgColor\" condition=\"bgColor2 && bg.type == 'color'\">\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\t<div class=\"two__background\"></div>\n\t<div class=\"container-fluid\">\n\n\t\t<div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n\t\t\t<div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n\t\t\t\t<div class=\"carousel-item\">\n\t\t\t\t\t<div class=\"media-container-row\">\n\t\t\t\t\t\t<div class=\"col-12 col-lg-4 offset-lg-1 slider__content\">\n\t\t\t\t\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">What our customers have to say...<br></h4>\n\t\t\t\t\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">Dr. Bruce Lyon - Cape York Tour, Aug 2021<br><br><i>\"...confidence in the ability of all drivers and their vehicles was seen to grow exponentially.\"</i></h3>\n\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\"I've just returned from an <b>exhilarating 21-day tour of the Cape York Peninsula with Australian 4x4 Treks</b>. It was a tagalong tour, with a total of seven 4WD vehicles, made up of adventure-minded travellers, some with slide-on campers, others with tents, and ably led by energetic guide Tony Davys. <b>Tony has an impressive record as a 4WD instructor, tour guide and tourism operator in both Australia and New Zealand, and currently offers tagalong treks into the central deserts and northern Australia.\n</b><br>\n<br><b>Tony provided excellent guidance</b>, particularly through such choke points on the Track, generally via comprehensive radio communications, but sometimes by wading through watercourses to give individual instructions for safe passage. <b>Under such guidance, confidence in the ability of all drivers and their vehicles was seen to grow exponentially.\n</b><br>\n<br><b>Other highlights were reaching Pajinka, the northernmost point of the Australian continent, the trip to Thursday Island, swimming at refreshing waterfalls, and the numerous sightings of wildlife</b> such as fresh and saltwater crocodiles, wallabies and rare birds including the Papuan Frogmouth, Palm Cockatoo and Magnificent Riflebird.\n<br>\n<br>If you are looking for a little adventure and would like to visit one of the most remote places in Australia, but perhaps lack the confidence or knowledge to embark on a tour of the Cape by yourself, <b>I would highly recommend a tagalong tour, and in particular the comprehensive tour offered by Australian 4x4 Treks</b>. You will leave the trek having experienced one of the best adventure holiday destinations available in Australia, with the added bonus of gaining enhanced confidence in your ability to travel to some remote places on your own.\"<br></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-12 col-lg-7\">\n\t\t\t\t\t\t\t<div class=\"slider__image\">\n\t\t\t\t\t\t\t\t<div class=\"img-wrap\">\n\t\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/img-91-2535x1690.jpeg\" alt=\"Bruce at Cape York\" title>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"carousel-indicators\" mbr-if=\"showIndicators\">\n\t\t\t\t<li data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 1\" data-slide-to=\"1\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 2\" data-slide-to=\"2\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 3\" data-slide-to=\"3\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 4\" data-slide-to=\"4\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 5\" data-slide-to=\"5\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 6\" data-slide-to=\"6\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 7\" data-slide-to=\"7\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 8\" data-slide-to=\"8\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 9\" data-slide-to=\"9\"></li>\n\t\t\t</div>\n\n\t\t\t<div class=\"carousel-controls\" mbr-if=\"showArrows\">\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-prev\" role=\"button\" data-slide=\"prev\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-left mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Previous</span>\n\t\t\t\t</a>\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-next\" role=\"button\" data-slide=\"next\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Next</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
-          "_anchor": "slider3-gs",
-          "_isUserblock": true,
-          "_cid": "sHCslgdt7q",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -8296,6 +8124,72 @@
           "_anchor": "header16-ki",
           "_isUserblock": true,
           "_cid": "tlq41mUsIV",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background": "@bgColor",
+            ".images-container.container-fluid": {
+              "padding": "0"
+            },
+            ".media-container-row": {
+              "margin": "0 auto",
+              "align-items": "stretch",
+              "-webkit-align-items": "stretch",
+              ".img-item": {
+                "display": "-webkit-flex",
+                "flex-direction": "column",
+                "justify-content": "center",
+                "position": "relative",
+                "width": "100%",
+                "z-index": "1",
+                "-webkit-flex-direction": "column",
+                "-webkit-justify-content": "center",
+                "img": {
+                  "width": "100%",
+                  "min-height": "1px"
+                },
+                ".img-caption": {
+                  "background": "@cpBg",
+                  "z-index": "2",
+                  "padding": "1rem 1rem",
+                  "word-break": "break-word",
+                  "p": {
+                    "margin-bottom": "0"
+                  }
+                },
+                "&.item1": {
+                  "padding": "0 2rem 0 0"
+                }
+              },
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".img-item": {
+                "width": "100% !important",
+                "&.item1": {
+                  "width": "100%",
+                  "flex-basis": "initial !important",
+                  "padding": "0 0 2rem 0 !important",
+                  "-webkit-flex-basis": "initial !important"
+                }
+              }
+            }
+          },
+          "_name": "image4",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section group=\"Images & Videos\">\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Width\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"87\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Sizes\" name=\"proportions\" min=\"30\" max=\"300\" value=\"99\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Caption\" name=\"showCaption\">\n        <input type=\"color\" title=\"Caption Background\" name=\"cpBg\" value=\"#ffffff\" condition=\"showCaption\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <!-- End block parameters -->\n    <div class=\"container images-container\" mbr-class=\"{'container-fluid':fullWidth,container:fullWidth==false}\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/img-0875-1-740x493.jpg\" alt>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Responsive\n                        </p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/collard-review-662x484.png\" alt>\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Mobile friendly\n                        </p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
+          "_anchor": "image4-kx",
+          "_isUserblock": true,
+          "_cid": "tmyYb1xpfi",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
