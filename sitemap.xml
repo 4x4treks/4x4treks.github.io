@@ -24,9 +24,6 @@
 		<loc>https://4x4treks.com.au/canning_part_2.html</loc>
 	</url>
 	<url>
-		<loc>https://4x4treks.com.au/videos.html</loc>
-	</url>
-	<url>
 		<loc>https://4x4treks.com.au/top_10_touring_tips.html</loc>
 	</url>
 	<url>
@@ -46,5 +43,8 @@
 	</url>
 	<url>
 		<loc>https://4x4treks.com.au/cape_york.html</loc>
+	</url>
+	<url>
+		<loc>https://4x4treks.com.au/reviews.html</loc>
 	</url>
 </urlset>
