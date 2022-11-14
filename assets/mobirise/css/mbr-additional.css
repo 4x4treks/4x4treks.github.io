@@ -11574,8 +11574,21 @@ section.lazy-placeholder:after {
   color: #050505;
   text-align: center;
 }
-.cid-tmJEVIeOix {
+.cid-tn8H4CT27w {
   padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-tn8H4CT27w P {
+  color: #767676;
+}
+.cid-tn8H4CT27w .mbr-text,
+.cid-tn8H4CT27w .mbr-section-btn {
+  color: #050505;
+  text-align: left;
+}
+.cid-tmJEVIeOix {
+  padding-top: 0px;
   padding-bottom: 0px;
   background: #ffffff;
 }
