@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Australian 4X4 Treks",
-    "currentPage": "index.html",
+    "currentPage": "checklists.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -134,7 +134,7 @@
         "main": true,
         "title": "Australian 4X4 Treks - Tag-along 4WD tours",
         "meta_descr": "Tag-along 4WD tours to remote and inspiring locations in Australia and New Zealand",
-        "header_custom": "<meta name=\"facebook-domain-verification\" content=\"8iir43u86vu5cqt2b64rv1f3u3biuq\" />",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BSMTVCCB5N\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BSMTVCCB5N');\n</script><meta name=\"facebook-domain-verification\" content=\"8iir43u86vu5cqt2b64rv1f3u3biuq\" />",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/img-557.jpeg"
@@ -2960,7 +2960,8 @@
         "meta_descr": "How can we help you?",
         "title": "Contact",
         "order": 3,
-        "meta_image": "@PROJECT_PATH@/assets/images/00100dportrait-00100-burst20190830133540316-cover-1.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/00100dportrait-00100-burst20190830133540316-cover-1.jpeg",
+        "header_custom": ""
       },
       "components": [
         {
@@ -3876,7 +3877,8 @@
         "meta_descr": "What makes us tick",
         "title": "About",
         "order": 2,
-        "meta_image": "@PROJECT_PATH@/assets/images/00100dportrait-00100-burst20190830133220429-cover-2-952x1269.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/00100dportrait-00100-burst20190830133220429-cover-2-952x1269.jpeg",
+        "header_custom": ""
       },
       "components": [
         {
@@ -5215,7 +5217,8 @@
         "meta_descr": "Join us for a breathtaking journey through New Zealand's South Island High Country. Experience incredible scenery on this self-drive adventure, while spending the evenings in comfort with resort style accommodation and gorgeous food.",
         "title": "New Zealand High Country Tag-along 4WD Experience",
         "order": 18,
-        "meta_image": "@PROJECT_PATH@/assets/images/20090421-godley-valley-z1c5245-0292godley-valley-2000x1333.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/20090421-godley-valley-z1c5245-0292godley-valley-2000x1333.jpg",
+        "header_custom": ""
       },
       "components": [
         {
@@ -6076,7 +6079,8 @@
         "meta_descr": "Something to think about before hitting the road.",
         "title": "Medical Misadventures",
         "order": 27,
-        "meta_image": "@PROJECT_PATH@/assets/images/img-6825.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/img-6825.jpg",
+        "header_custom": ""
       },
       "components": [
         {
@@ -6589,7 +6593,8 @@
         "meta_descr": "The story of how my family and I came to live in Australia",
         "title": "Our Earthquake Story",
         "order": 29,
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1276.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1276.jpeg",
+        "header_custom": ""
       },
       "components": [
         {
@@ -7105,7 +7110,8 @@
         "meta_descr": "The Good, the Bad and the Awesome",
         "title": "Canning Stock Route part 1",
         "order": 25,
-        "meta_image": "@PROJECT_PATH@/assets/images/img-1970.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/img-1970.jpeg",
+        "header_custom": ""
       },
       "components": [
         {
@@ -7588,7 +7594,8 @@
         "meta_descr": "The Good, the Bad and the Awesome",
         "title": "Canning Stock Route part 2",
         "order": 26,
-        "meta_image": "@PROJECT_PATH@/assets/images/img-6722-960x640-768x432.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/img-6722-960x640-768x432.jpeg",
+        "header_custom": ""
       },
       "components": [
         {
@@ -8100,7 +8107,8 @@
         "meta_descr": "10 Top Things this 4X4 Tour Guide Wouldn't be Without",
         "title": "Top 10 Things for 4X4 Touring",
         "order": 28,
-        "meta_image": "@PROJECT_PATH@/assets/images/img-795.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/img-795.jpeg",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BSMTVCCB5N\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BSMTVCCB5N');\n</script>"
       },
       "components": [
         {
@@ -8724,7 +8732,8 @@
         "meta_descr": "More Things this 4X4 Tour Guide Wouldn't be Without",
         "title": "Another 10 Top Things",
         "order": 30,
-        "meta_image": "@PROJECT_PATH@/assets/images/afn-photo.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/afn-photo.jpg",
+        "header_custom": ""
       },
       "components": [
         {
@@ -9281,7 +9290,8 @@
         "meta_descr": "This is as remote as you can get in Australia. Traverse the four deserts of central Western Australia on this legendary overland tour. 25 days gives you time to take in your surroundings and appreciate the ever-changing environment. Includes the Tanami Track, Canning Stock Route, the Gunbarrel Highway, the Great Central Road, Kata Tjuta and Uluru (The Olgas and Ayers Rock).",
         "title": "Canning Stock Route 4WD Tag-along Tour - The Ultimate Desert Experience",
         "order": 12,
-        "meta_image": "@PROJECT_PATH@/assets/images/prado-on-canning-w-blurred-rego.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/prado-on-canning-w-blurred-rego.jpg",
+        "header_custom": ""
       },
       "components": [
         {
@@ -10241,7 +10251,8 @@
         "meta_descr": "Join us for an un-hurried 15 days exploring the Simpson Desert and surrounds. We spend a total of 10 days in the desert, far more than any other tag-along tour. Starts in Windorah, ends in Birdsville.",
         "title": "Simpson Desert Double Crossing 4WD Tag-along Adventure",
         "order": 8,
-        "meta_image": "@PROJECT_PATH@/assets/images/img-241-2000x1333.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/img-241-2000x1333.jpg",
+        "header_custom": ""
       },
       "components": [
         {
@@ -12410,7 +12421,8 @@
         "meta_descr": "Suggestions of what food and gear to take on tour",
         "title": "4X4 Trek Checklists",
         "order": 31,
-        "meta_image": "@PROJECT_PATH@/assets/images/afn-photo.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/afn-photo.jpg",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BSMTVCCB5N\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BSMTVCCB5N');\n</script>"
       },
       "components": [
         {
@@ -13077,7 +13089,8 @@
         "meta_descr": "This 15 night tour explores the legendary Cape York. There's much more to the Cape than just getting to the Tip. Discover the hidden gems, history, and amazing wildlife with your experienced and qualified guide.",
         "title": "Cape York 4WD Tag-along Adventure",
         "order": 6,
-        "meta_image": "@PROJECT_PATH@/assets/images/twin1-800x533.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/twin1-800x533.jpg",
+        "header_custom": ""
       },
       "components": [
         {
@@ -14426,7 +14439,8 @@
         "meta_descr": "See what Aus 4X4 Treks customers have to say about their experiences.",
         "title": "Reviews",
         "order": 4,
-        "meta_image": "@PROJECT_PATH@/assets/images/ripl_image-5082195b-f1fc-49a5-a4fb-71cf73168d13-1080x1080.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/ripl_image-5082195b-f1fc-49a5-a4fb-71cf73168d13-1080x1080.png",
+        "header_custom": ""
       },
       "components": [
         {
