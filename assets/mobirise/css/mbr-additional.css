@@ -1326,7 +1326,7 @@ section.lazy-placeholder:after {
 }
 .cid-tuijUryoOT {
   padding-top: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-tuijUryoOT h2 {
@@ -1381,7 +1381,7 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 991px) {
   .cid-tuijUryoOT .mbr-figure {
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
     padding-top: 1rem;
   }
 }
