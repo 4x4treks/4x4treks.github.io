@@ -1461,7 +1461,7 @@ section.lazy-placeholder:after {
 .cid-tsY2NTtaa8 {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #efefef;
+  background-color: #cccccc;
 }
 .cid-tsY2NTtaa8 h2 {
   text-align: left;
@@ -2026,6 +2026,83 @@ section.lazy-placeholder:after {
 }
 .cid-ttfyKeS2Pb LABEL {
   color: #ffffff;
+}
+.cid-txZ2JqAD4S {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #cccccc;
+}
+.cid-txZ2JqAD4S h2 {
+  text-align: left;
+}
+.cid-txZ2JqAD4S h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-txZ2JqAD4S p {
+  color: #767676;
+  text-align: left;
+}
+.cid-txZ2JqAD4S .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-txZ2JqAD4S .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-txZ2JqAD4S .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-txZ2JqAD4S .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-txZ2JqAD4S .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-txZ2JqAD4S .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-txZ2JqAD4S .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-txZ2JqAD4S .media-container-row {
+    -webkit-flex-direction: row-reverse;
+  }
+}
+@media (max-width: 991px) {
+  .cid-txZ2JqAD4S .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-txZ2JqAD4S .media-container-row {
+    -webkit-flex-direction: column-reverse;
+  }
+}
+@media (max-width: 300px) {
+  .cid-txZ2JqAD4S .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-txZ2JqAD4S .mbr-text {
+  color: #000000;
 }
 .cid-tpcZRu1v3d {
   padding-top: 15px;
@@ -10388,10 +10465,87 @@ section.lazy-placeholder:after {
 .cid-sgyMLXNKgz H1 {
   text-align: left;
 }
+.cid-txZ42olZJo {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #cccccc;
+}
+.cid-txZ42olZJo h2 {
+  text-align: left;
+}
+.cid-txZ42olZJo h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-txZ42olZJo p {
+  color: #767676;
+  text-align: left;
+}
+.cid-txZ42olZJo .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-txZ42olZJo .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-txZ42olZJo .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-txZ42olZJo .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-txZ42olZJo .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-txZ42olZJo .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-txZ42olZJo .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-txZ42olZJo .media-container-row {
+    -webkit-flex-direction: row-reverse;
+  }
+}
+@media (max-width: 991px) {
+  .cid-txZ42olZJo .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-txZ42olZJo .media-container-row {
+    -webkit-flex-direction: column-reverse;
+  }
+}
+@media (max-width: 300px) {
+  .cid-txZ42olZJo .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-txZ42olZJo .mbr-text {
+  color: #000000;
+}
 .cid-sgyMM2K4u4 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #cccccc;
+  background-color: #4b3330;
 }
 .cid-sgyMM2K4u4 .title {
   margin-bottom: 2rem;
@@ -10408,6 +10562,12 @@ section.lazy-placeholder:after {
 }
 .cid-sgyMM2K4u4 textarea.form-control {
   min-height: 188px;
+}
+.cid-sgyMM2K4u4 H2 {
+  color: #ffffff;
+}
+.cid-sgyMM2K4u4 LABEL {
+  color: #ffffff;
 }
 .cid-tuiqnuubt9 {
   padding-top: 30px;
