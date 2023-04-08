@@ -6280,6 +6280,108 @@ section.lazy-placeholder:after {
 .cid-ssfAYPI403 .mbr-section-title {
   text-align: left;
 }
+.cid-tANvQwoxY6 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #cccccc;
+}
+@media (max-width: 1000px) {
+  .cid-tANvQwoxY6 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-tANvQwoxY6 {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-tANvQwoxY6 .text-wrapper {
+    padding-left: 2.25rem;
+  }
+  .cid-tANvQwoxY6 .image-wrapper {
+    padding-right: 2.25rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-tANvQwoxY6 .image-wrapper {
+    padding-bottom: 2rem;
+  }
+}
+.cid-tANvQwoxY6 .image-wrapper img {
+  width: 80%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-tANvQwoxY6 .image-wrapper img {
+    width: 100%;
+  }
+}
+.cid-tANvQwoxY6 .mbr-text,
+.cid-tANvQwoxY6 .mbr-section-btn {
+  text-align: left;
+  color: #000000;
+}
+.cid-tANvQwoxY6 .mbr-section-title DIV {
+  text-align: left;
+}
+.cid-tANvQwoxY6 .mbr-section-title {
+  text-align: left;
+  color: #000000;
+}
+.cid-tANqmP3ewV {
+  padding-top: 5rem;
+  padding-bottom: 1rem;
+  background-color: #e4d295;
+}
+@media (max-width: 1000px) {
+  .cid-tANqmP3ewV {
+    padding-top: 2.5rem;
+    padding-bottom: 0.5rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-tANqmP3ewV {
+    padding-top: 1.5rem;
+    padding-bottom: 0.3rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-tANqmP3ewV .text-wrapper {
+    padding-left: 2.25rem;
+  }
+  .cid-tANqmP3ewV .image-wrapper {
+    padding-right: 2.25rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-tANqmP3ewV .image-wrapper {
+    padding-bottom: 2rem;
+  }
+}
+.cid-tANqmP3ewV .image-wrapper img {
+  width: 80%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-tANqmP3ewV .image-wrapper img {
+    width: 100%;
+  }
+}
+.cid-tANqmP3ewV .mbr-text,
+.cid-tANqmP3ewV .mbr-section-btn {
+  text-align: left;
+  color: #000000;
+}
+.cid-tANqmP3ewV .mbr-section-title DIV {
+  text-align: left;
+}
+.cid-tANqmP3ewV .mbr-section-title {
+  text-align: left;
+  color: #000000;
+}
 .cid-rUBIMr3Gsc {
   padding-top: 60px;
   padding-bottom: 60px;
