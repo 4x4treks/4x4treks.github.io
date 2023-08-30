@@ -1459,7 +1459,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-toOyOtY3oQ {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -1660,6 +1660,9 @@ section.lazy-placeholder:after {
 }
 .cid-toOyOtY3oQ a.img {
   pointer-events: none;
+}
+.cid-toOyOtY3oQ H4 {
+  color: #82786e;
 }
 .cid-tp6hRt57Vd {
   padding-top: 0px;
@@ -1865,7 +1868,7 @@ section.lazy-placeholder:after {
   pointer-events: none;
 }
 .cid-ttfyKeS2Pb {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #767676;
 }
@@ -18329,7 +18332,9 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-tt5uFs2q6x {
-  background-image: url("../../../assets/images/flora-fauna-meta.jpeg");
+  padding-top: 30px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/20220527-134647.jpg");
 }
 .cid-tt5uFs2q6x .mbr-figure {
   margin: 0 auto;
@@ -18344,6 +18349,38 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 991px) {
   .cid-tt5uFs2q6x .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-tOsHGEiQj3 {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-tOsHGEiQj3 P {
+  color: #767676;
+}
+.cid-tOsHGEiQj3 H1 {
+  color: #ffffff;
+}
+.cid-tOsHm04FRP {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/20230503-70606.jpg");
+}
+.cid-tOsHm04FRP .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-tOsHm04FRP .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-tOsHm04FRP .mbr-figure img {
     width: 100% !important;
   }
 }
