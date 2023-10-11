@@ -6793,18 +6793,81 @@ section.lazy-placeholder:after {
 .cid-rUoZv7Atia .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rUoZv8J9dT {
-  background-image: url("../../../assets/images/20090421-godley-valley-z1c5245-0292godley-valley-2000x1333.jpg");
+.cid-tSlEF0iqAx {
+  background-image: url("../../../assets/images/20090424-omarama-saddle-z1c6458-2-2000x1214-800x450.jpeg");
 }
-.cid-rUoZv8J9dT .mbr-text,
-.cid-rUoZv8J9dT .mbr-section-btn {
-  text-align: left;
+.cid-tSlEF0iqAx .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-rUoZv8J9dT H1 {
-  text-align: left;
+.cid-tSlEF0iqAx .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
-.cid-rUoZv8J9dT P {
-  text-align: left;
+.cid-tSlEF0iqAx .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.cid-tSlEF0iqAx .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.cid-tSlEF0iqAx .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
+.cid-tSlRNKEEe1 {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tSlRNKEEe1 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tSlRNKEEe1 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tSlRNKEEe1 .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.cid-tSlRNKEEe1 .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.cid-tSlRNKEEe1 .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
+.cid-tSlRNKEEe1 .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-tSlRNKEEe1 .mbr-text,
+.cid-tSlRNKEEe1 .mbr-section-btn,
+.cid-tSlRNKEEe1 .social-row {
+  color: #000000;
 }
 .cid-rUBtab1xLR {
   padding-top: 15px;
@@ -7595,14 +7658,6 @@ section.lazy-placeholder:after {
 }
 .cid-spZjaMeDOq textarea.form-control {
   min-height: 188px;
-}
-.cid-tllb2K78yd {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-tllb2K78yd P {
-  color: #767676;
 }
 .cid-tllb3zZN9C {
   padding-top: 30px;
