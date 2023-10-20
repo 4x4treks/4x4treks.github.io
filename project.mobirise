@@ -7416,8 +7416,8 @@
         "meta_descr": "Join us for a breathtaking journey through New Zealand's South Island High Country. Experience incredible scenery on this self-drive adventure, while spending the evenings in comfort with resort style accommodation and gorgeous food.",
         "title": "New Zealand High Country Tag-along 4WD Experience",
         "order": 18,
-        "meta_image": "@PROJECT_PATH@/assets/images/20090421-godley-valley-z1c5245-0292godley-valley-2000x1333.jpg",
-        "header_custom": ""
+        "header_custom": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/20090422-out-there-z1c5512-69-2000x1333-800x450.jpeg"
       },
       "components": [
         {
