@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Australian 4X4 Treks",
-    "currentPage": "index.html",
+    "currentPage": "cape_york.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -17479,7 +17479,7 @@
         "meta_descr": "This 16 night tour explores the legendary Cape York. There's much more to the Cape than just getting to the Tip. Discover the hidden gems, history, & amazing wildlife with your experienced and qualified guide.",
         "title": "Cape York 4WD Tag Along Adventure Tour",
         "order": 6,
-        "meta_image": "@PROJECT_PATH@/assets/images/twin1-800x533.jpg",
+        "meta_image": "@PROJECT_PATH@/assets/images/cape-2024-og.png",
         "header_custom": ""
       },
       "components": [
