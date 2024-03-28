@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Australian 4X4 Treks",
-    "currentPage": "beadell_highways_trek.html",
+    "currentPage": "central_aus_desert_loop.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -112,7 +112,7 @@
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://4x4treks.com.au",
-    "uniqCompNum": 1113,
+    "uniqCompNum": 1125,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "google-analytics": "",
@@ -13551,7 +13551,7 @@
           },
           "_name": "header1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/fb-img-1661986164786-834x960.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#7f1933\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><br><br></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\"><br>\n                </h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b><br></b><br><b>WHAT'S INCLUDED?\n</b><br>\n<br>• First night's accommodation &amp; dinner at Lasseters Crowne Plaza Hotel, Alice Springs&nbsp;<br>• StarLink Wifi - internet when we're camped in remote areas<br>• Pre-tour help and advice on vehicle and gear setup.<br>• All the arrangements and bookings for the tour (just get yourself, your gear and vehicle to Alice Springs for the first night's included accommodation and dinner).<br>• Full-time, professional tour guide/4WD instructor with a Cert IV qualification in 4WD training and current remote area first aid certificate.<br>• Mechanical assistance and tyre changing.<br>\n• Reliable lead vehicle with all safety, recovery, communications and emergency equipment - Starlink, Satphone and Garmin inReach (tracker, emergency beacon &amp; satellite texting), winch, snatch straps, Max Trax etc (meaning you only need to carry minimal recovery gear).<br>• All camping fees; all National Park access fees (incl. Uluru); all Aboriginal Land entry permits.<br>• \"On-tour\" training over the 2-way radio. You will be given help and advice throughout the entire trip and warned of oncoming traffic and hazards. Your guide will co-ordinate dune crossings with oncoming vehicles, talking to them on another UHF channel so there's no confusion about what to do. On difficult sections, your guide will be out of their vehicle to help you and instruct you personally.<br>• Night spotlighting sessions for animals; bird/animal ID books and apps&nbsp;<br>• Final breakfast at Yulara<br>\n<br>\n<br><b>WHAT'S NOT INCLUDED?\n</b><br>\n<br> • 4WD Vehicle, fuel, food (other than stated above), camping gear, insurance<br>• Optional accommodation upgrades<br>\n<br>\n<br><b>WHAT ARE THE 4X4 VEHICLE REQUIREMENTS?\n</b><br>\n<br>• This tour is not suitable for off-road camper trailers.\n<br>• A high clearance 4X4 vehicle with low range.<br>• Upgraded, heavy duty suspension - even on a new vehicle. Standard suspension will not cope on the corrugations and dune moguls.<br>• One spare front shock and one spare rear shock as appropriate.<br>•&nbsp; Six Light Truck construction (LT) tyres&nbsp;with over 70% tread remaining.<br>• Fuel range of <b>1,100 km</b> is required for the Canning Tour.&nbsp;<br>• 60 - 80 litre water storage.<br>• Good quality UHF radio base set (Uniden, GME or Oricom recommended) fitted into your vehicle by a UHF specialist installer, and a substantial aerial - 6.6dbi, 1 metre in length, with large 30mm base - not the slim springy ones.&nbsp;<br>• Good quality sand flag with lynch pin base. Not a hose fitting type, and not the spring base type. Bushranger flag from ARB recommended.<br>• Tyre deflator and tyre pressure gauge.<br>\n• Tyre pressure monitors.<br>• Good quality air compressor.<br>• Some spares are required to be carried. A full list is provided on booking.\n<br>• A mechanical checklist is to be completed and returned by a qualified mechanic at least 2 weeks prior to the start of the tour.\n<br>• An medical form is to be completed and submitted at least 2 weeks before departure.\n<br>• A tent, roof tent, or camp set up that is EASY TO PUT UP AND TAKE DOWN. This should take no longer than 15 mins each time (this will make or break your trip - ie. not an awning tent connected to your vehicle).<br>• Vehicle Insurance - make sure your insurance company covers your vehicle for off-road driving. NRMA/RACQ etc will not recover your vehicle from remote tracks. Only Club 4X4 Insurance will cover your vehicle recovery costs in remote situations. There is an option with Club 4X4 to get up to $30,000 for remote recoveries. (Our vehicle is insured with Club 4X4 but we are NOT sponsored by them).\n<br>• Travel Insurance - as with any holiday, you should get travel insurance in case of unforeseen circumstances (such as remote medical evacuation).<br><br><br> \n<b>FUEL CONSUMPTION</b><br>\n<br>Desert driving fuel consumption is as follows (NB. indicative only):\n<br>- Diesel utes eg. Hilux, D-Max, Ranger, BT-50 use about 15 - 18L/100km, <br>- Landrover Discovery 4 uses about 18L diesel/100km<br>- Diesel V8 200 Series Landcruiser uses 20 - 22L/100km<br>- Petrol 4.6L Nissan Patrol uses about 28L/100km&nbsp;<br><br>&nbsp;<br><b>WHERE CAN I GET SUPPLIES AND FUEL?\n</b><br>\n<br>Fuel is available along our route, however, you will need to have a fuel range of 1,100 km for the longest stretch with no fuel stops. All care will be taken to check in advance whether fuel is available where we are going. Water and food is also available in these locations but fresh food is not always available and variety is limited.<br><br><br><b>WHAT HAPPENS IF THERE IS FLOODING OR ROAD CLOSURES IN AND AROUND THE DESERT AT THE TIME OF OUR TOUR?\n</b><br>We have alternative itineraries in the event of flooding or track closures, so unless all access roads are closed, the tour will go ahead. It is not always possible to run tours as planned in the Outback and desert. This is all part of travel in these remote areas.<br><br><br><b>WHEN CAN I SEE THE FULL ITINERARY?\n</b><br>\n<br>Itineraries will be provided once your deposit is paid.<br>\n<br>Please note that the itinerary is subject to change depending on track conditions, weather, vehicle issues, border restrictions etc. We have also factored in some spare days that can be used if necessary for contingencies.&nbsp;<br><br><br><b>HOW ROUGH IS THE TRACK?</b><br><br>The simple answer is \"quite rough\". It's also very long, very remote and very scratchy on vehicles. Tour guide Tony describes the Canning as \"2000 km of roughness\", however, it's still the most amazing place he's been in Australia. It is advisable to get some form of paint protection on your vehicle to prevent damage. We recommend <i>Bush Barrier</i> magnetic paint protection (<a href=\"https://bushbarrier.com.au/\" class=\"text-danger\" target=\"_blank\">follow this link</a>).<br><br><b><br></b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-danger\" href=\"https://www.facebook.com/groups/AU4X4TREKSTeam/\" data-app-placeholder=\"Type Text\">\n                        Join our Facebook Team Members' Group to receive special offers and discounts</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/fb-img-1661986164786-834x960.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#7f1933\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><br><br></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\"><br>\n                </h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b><br></b><br><b>WHAT'S INCLUDED?\n</b><br>\n<br>• First night's accommodation &amp; dinner at Lasseters Crowne Plaza Hotel, Alice Springs&nbsp;<br>• StarLink Wifi - internet when we're camped in remote areas<br>• Pre-tour help and advice on vehicle and gear setup.<br>• All the arrangements and bookings for the tour (just get yourself, your gear and vehicle to Alice Springs for the first night's included accommodation and dinner).<br>• Full-time, professional tour guide/4WD instructor with a Cert IV qualification in 4WD training and current remote area first aid certificate.<br>• Mechanical assistance and tyre changing.<br>\n• Reliable lead vehicle with all safety, recovery, communications and emergency equipment - Starlink, Satphone and Garmin inReach (tracker, emergency beacon &amp; satellite texting), winch, snatch straps, Max Trax etc (meaning you only need to carry minimal recovery gear).<br>• All camping fees; all National Park access fees (incl. Uluru); all Aboriginal Land entry permits.<br>• \"On-tour\" training over the 2-way radio. You will be given help and advice throughout the entire trip and warned of oncoming traffic and hazards. Your guide will co-ordinate dune crossings with oncoming vehicles, talking to them on another UHF channel so there's no confusion about what to do. On difficult sections, your guide will be out of their vehicle to help you and instruct you personally.<br>• Night spotlighting sessions for animals; bird/animal ID books and apps&nbsp;<br>• Final breakfast at Yulara<br>\n<br>\n<br><b>WHAT'S NOT INCLUDED?\n</b><br>\n<br> • 4WD Vehicle, fuel, food (other than stated above), camping gear, insurance<br>• Optional accommodation upgrades<br>\n<br>\n<br><b>WHAT ARE THE 4X4 VEHICLE REQUIREMENTS?\n</b><br>\n<br>• This tour is not suitable for off-road camper trailers.\n<br>• A high clearance 4X4 vehicle with low range.<br>• Upgraded, heavy duty suspension - even on a new vehicle. Standard suspension will not cope on the corrugations and dune moguls.<br>• One spare front shock and one spare rear shock as appropriate.<br>•&nbsp; Six Light Truck construction (LT) tyres&nbsp;with over 70% tread remaining.<br>• Fuel range of <b>1,100 km</b> is required for the Canning Tour.&nbsp;<br>• 60 - 80 litre water storage.<br>• Good quality UHF radio base set (Uniden, GME or Oricom recommended) fitted into your vehicle by a UHF specialist installer, and a substantial aerial - 6.6dbi, 1 metre in length, with large 30mm base - not the slim springy ones.&nbsp;<br>• Good quality sand flag with lynch pin base. Not a hose fitting type, and not the spring base type. Bushranger flag from ARB recommended.<br>• Tyre deflator and tyre pressure gauge.<br>\n• Tyre pressure monitors.<br>• Good quality air compressor.<br>• Some spares are required to be carried. A full list is provided on booking.\n<br>• A mechanical checklist is to be completed and returned by a qualified mechanic at least 2 weeks prior to the start of the tour.\n<br>• An medical form is to be completed and submitted at least 2 weeks before departure.\n<br>• A tent, roof tent, or camp set up that is EASY TO PUT UP AND TAKE DOWN. This should take no longer than 15 mins each time (this will make or break your trip - ie. not an awning tent connected to your vehicle).<br>• Vehicle Insurance - make sure your insurance company covers your vehicle for off-road driving. NRMA/RACQ etc will not recover your vehicle from remote tracks. Only Club 4X4 Insurance will cover your vehicle recovery costs in remote situations. There is an option with Club 4X4 to get up to $30,000 for remote recoveries. (Our vehicle is insured with Club 4X4 but we are NOT sponsored by them).\n<br>• Travel Insurance - as with any holiday, you should get travel insurance in case of unforeseen circumstances (such as remote medical evacuation).<br><br><br> \n<b>FUEL CONSUMPTION</b><br>\n<br>Desert driving fuel consumption is as follows (NB. indicative only):\n<br>- Diesel utes eg. Hilux, D-Max, Ranger, BT-50 use about 15 - 18L/100km, <br>- Landrover Discovery 4 uses about 18L diesel/100km<br>- Diesel V8 200 Series Landcruiser uses 20 - 22L/100km<br>- Petrol 4.6L Nissan Patrol uses about 28L/100km&nbsp;<br><br>&nbsp;<br><b>WHERE CAN I GET SUPPLIES AND FUEL?\n</b><br>\n<br>Fuel is available along our route, however, you will need to have a fuel range of 1,100 km for the longest stretch with no fuel stops. All care will be taken to check in advance whether fuel is available where we are going. Water and food is also available in these locations but fresh food is not always available and variety is limited.<br><br><b>CAN I HIRE A 4WD VEHICLE &amp; CAMPING GEAR?\n</b><br>\n<br>Yes you can. Talk to us about hiring a vehicle and all the gear from Darwin, Broome or Perth. Priced from about $499/day.<br><br><b>WHAT HAPPENS IF THERE IS FLOODING OR ROAD CLOSURES IN AND AROUND THE DESERT AT THE TIME OF OUR TOUR?\n</b><br>We have alternative itineraries in the event of flooding or track closures, so unless all access roads are closed, the tour will go ahead. It is not always possible to run tours as planned in the Outback and desert. This is all part of travel in these remote areas.<br><br><br><b>WHEN CAN I SEE THE FULL ITINERARY?\n</b><br>\n<br>Itineraries will be provided once your deposit is paid.<br>\n<br>Please note that the itinerary is subject to change depending on track conditions, weather, vehicle issues, border restrictions etc. We have also factored in some spare days that can be used if necessary for contingencies.&nbsp;<br><br><br><b>HOW ROUGH IS THE TRACK?</b><br><br>The simple answer is \"quite rough\". It's also very long, very remote and very scratchy on vehicles. Tour guide Tony describes the Canning as \"2000 km of roughness\", however, it's still the most amazing place he's been in Australia. It is advisable to get some form of paint protection on your vehicle to prevent damage. We recommend <i>Bush Barrier</i> magnetic paint protection (<a href=\"https://bushbarrier.com.au/\" class=\"text-danger\" target=\"_blank\">follow this link</a>).<br><br><b><br></b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-danger\" href=\"https://www.facebook.com/groups/AU4X4TREKSTeam/\" data-app-placeholder=\"Type Text\">\n                        Join our Facebook Team Members' Group to receive special offers and discounts</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_anchor": "header1-az",
           "_isUserblock": true,
           "_cid": "skOmL872In",
@@ -15295,7 +15295,7 @@
           },
           "_name": "header1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/dji-342-2000x1125.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#7f1933\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><br><br></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\"><br>\n                </h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b><br>WHERE CAN I LEAVE MY CARAVAN OR&nbsp; CAMPER TRAILER?</b><br>• You can store your van or camper trailer at Windorah or Birdsville and collect it at the end of the tour. You can organise this directly with the pub at Windorah or the Caravan Park in Birdsville. The cost is about $200.<br><br><b>WHAT'S INCLUDED?</b><br><br>• First night's accommodation in a cabin or motel room &amp; dinner in Windorah's Western Star Hotel&nbsp;<br>• Last night's accommodation + dinner, bed &amp; breakfast at the Birdsville Hotel<br>• 3 Dinners out - Windorah, Mt Dare Hotel,&nbsp;Birdsville Hotel<br>• StarLink Wifi - internet when we're camped remotely<br>• All camping  fees (eg. Caravan Parks and National Parks)<br>• Madigan Line access fees (newly instated by the Central Land Council)<br>• 2 nights camping at Mt Dare half way through the tour.<br>• QAA Line, Poeppels Corner, French Line, WAA Line, Rig Road, Dalhousie Springs, Old Andado, Madigan Line, Adria Downs Station, Big Red.<br>• Pre-tour help and advice on vehicle and gear setup.<br>• All the arrangements and bookings for the tour (just get yourself, your gear and vehicle to Windorah).<br>• Full-time, professional tour guide/4WD instructor with a Cert IV qualification in 4WD training and current remote area first aid certificate.<br>• \"On-tour\" training over the 2-way radio. You will be given help and advice throughout the entire trip. You will be warned of oncoming traffic and hazards. Your guide will co-ordinate dune crossings with oncoming vehicles, talking to them on another UHF channel so there's no confusion about what to do. On difficult sections, your guide will be out of their vehicle to help you and instruct you personally.&nbsp;<br>• Reliable tour leader's vehicle with all safety, recovery, communications and emergency equipment - Starlink, Satphone and Garmin inReach (tracker, emergency beacon &amp; satellite texting), winch, snatch straps, Max Trax etc.<br>• Aboriginal Land Permits; National Park entry fees; Private property access arrangements.<br>• Tyre changing and mechanical assistance; spare 2-way radios.<br>• Night spotlighting sessions for animals; bird/animal ID books and apps.&nbsp;<br><br><br>\n<b>WHAT'S NOT INCLUDED?</b><br><br><b>&nbsp;•&nbsp;</b>4WD Vehicle, fuel, food (other than stated above), camping gear, insurance (vehicle and personal).<br>• Optional accommodation upgrades and scenic flights (recommended from Birdsville).<br><br><br><b>WHAT ARE THE 4X4 VEHICLE REQUIREMENTS?</b><br><br>• This tour is not suitable for off-road camper trailers.\n<br>• A high clearance 4X4 vehicle with low range.\n<br>• Upgraded, heavy duty suspension - even on a new vehicle.&nbsp;<br>• One spare front and and one spare rear shock as appropriate for your vehicle.\n<br>•  Six Light Truck construction (LT) tyres with over 70% tread remaining.\n<br>• Fuel range of 800 km.<br> \n• 50 - 80L water storage.<br>• Good quality UHF radio base set (Uniden, GME or Oricom recommended) fitted into your vehicle by a UHF specialist installer, and a substantial aerial - 6.6dbi, 1 metre in length, with large 30mm base - not the slim springy ones. These will break on the corrugations.\n<br>• Good quality sand flag with lynch pin base. Not a hose fitting type, and not the spring base type. Bushranger flag from ARB recommended.\n<br>• Tyre deflator and tyre pressure gauge.\n<br>• Tyre pressure monitors - TPMS.\n<br>• Good quality air compressor.\n<br>• Some spares are required to be carried (filters, belt etc). A full list is provided on booking.\n<br>• A Mechanical Checklist is to be completed by a qualified mechanic and returned&nbsp; at least 2 weeks prior to the start of the tour.\n<br>• An Medical Form is to be completed by each person in your vehicle and submitted at least 2 weeks before departure.\n<br>• A tent or camp set up that is EASY TO PUT UP AND TAKE DOWN. This should take no longer than 15 mins each time. This will make or break your trip. An awning tent connected to your vehicle in not recommended.&nbsp;<br>• Vehicle Insurance - make sure your insurance company covers your vehicle for off-road driving. NRMA/RACQ etc will not recover your vehicle from remote tracks. Only Club 4X4 Insurance will cover your vehicle recovery costs in remote situations. There is an option with Club 4X4 to get up to $30,000 for remote recoveries. (Our vehicle is insured with Club 4X4 but we are NOT sponsored by them).\n<br>• Travel Insurance - as with any holiday, you should get travel insurance in case of unforeseen circumstances (such as remote medical evacuation).<br><br>\n<br><b>FUEL CONSUMPTION\n</b><br>\n<br>Desert driving fuel consumption is as follows (NB. indicative only):\n<br>- Diesel utes eg. D-Max, Hilux, Ranger, BT-50 use 14 - 18L/100km,\n<br>- Landrover Discovery 4 uses about 18L diesel/100km\n<br>- Diesel V8 200 Series Landcruiser uses 20 - 22L/100km\n<br>- Petrol 4.6L Nissan Patrol uses close to 28L/100km&nbsp;<br><br><br><b>WHERE CAN I GET SUPPLIES AND FUEL?<br></b><br>Birdsville and Mt Dare are our fuel locations for the tour. All care will be taken to check in advance whether fuel is available where we are going. Water and food is also available in these locations but fresh food is not always available and variety is limited.<br><br><b><br>CAN I HIRE A 4WD VEHICLE &amp; CAMPING GEAR?</b><br><b>\n</b><br>You sure can. Talk to us about hiring a vehicle and all the gear, and the 10% discount on vehicle hire.<br><br><br><b>WHAT HAPPENS IF THERE IS FLOODING OR ROAD CLOSURES IN AND AROUND THE DESERT AT THE TIME OF OUR TOUR?</b><br>We have alternative itineraries in the event of flooding or track closures, so the tour will go ahead. It is not always possible to run tours as planned in the Outback and desert. This is all part of travel in these remote areas.<br><br><b>WHEN CAN I SEE THE FULL ITINERARY?</b><br><br>The full itinerary is provided to you once your deposit has been paid. Please see the \"loose itinerary\" below for an outline.<br><br>The following is a general outline. Please note that the itinerary is subject to change depending on track conditions, weather, vehicle issues, border restrictions etc. We have also factored in some spare days that can be used if necessary for contingencies.&nbsp;<b><br></b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-danger\" href=\"https://www.facebook.com/groups/AU4X4TREKSTeam/\" data-app-placeholder=\"Type Text\">\n                        Join our Facebook Team Members' Group to receive special offers and discounts</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/dji-342-2000x1125.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#7f1933\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><br><br></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\"><br>\n                </h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b><br>WHERE CAN I LEAVE MY CARAVAN OR&nbsp; CAMPER TRAILER?</b><br>• You can store your van or camper trailer at Windorah or Birdsville and collect it at the end of the tour. You can organise this directly with the pub at Windorah or the Caravan Park in Birdsville. The cost is about $200.<br><br><b>WHAT'S INCLUDED?</b><br><br>• First night's accommodation in a cabin or motel room &amp; dinner in Windorah's Western Star Hotel&nbsp;<br>• Last night's accommodation + dinner, bed &amp; breakfast at the Birdsville Hotel<br>• 3 Dinners out - Windorah, Mt Dare Hotel,&nbsp;Birdsville Hotel<br>• StarLink Wifi - internet when we're camped remotely<br>• All camping  fees (eg. Caravan Parks and National Parks)<br>• Madigan Line access fees (newly instated by the Central Land Council)<br>• 2 nights camping at Mt Dare half way through the tour.<br>• QAA Line, Poeppels Corner, French Line, WAA Line, Rig Road, Dalhousie Springs, Old Andado, Madigan Line, Adria Downs Station, Big Red.<br>• Pre-tour help and advice on vehicle and gear setup.<br>• All the arrangements and bookings for the tour (just get yourself, your gear and vehicle to Windorah).<br>• Full-time, professional tour guide/4WD instructor with a Cert IV qualification in 4WD training and current remote area first aid certificate.<br>• \"On-tour\" training over the 2-way radio. You will be given help and advice throughout the entire trip. You will be warned of oncoming traffic and hazards. Your guide will co-ordinate dune crossings with oncoming vehicles, talking to them on another UHF channel so there's no confusion about what to do. On difficult sections, your guide will be out of their vehicle to help you and instruct you personally.&nbsp;<br>• Reliable tour leader's vehicle with all safety, recovery, communications and emergency equipment - Starlink, Satphone and Garmin inReach (tracker, emergency beacon &amp; satellite texting), winch, snatch straps, Max Trax etc.<br>• Aboriginal Land Permits; National Park entry fees; Private property access arrangements.<br>• Tyre changing and mechanical assistance; spare 2-way radios.<br>• Night spotlighting sessions for animals; bird/animal ID books and apps.&nbsp;<br><br><br>\n<b>WHAT'S NOT INCLUDED?</b><br><br><b>&nbsp;•&nbsp;</b>4WD Vehicle, fuel, food (other than stated above), camping gear, insurance (vehicle and personal).<br>• Optional accommodation upgrades and scenic flights (recommended from Birdsville).<br><br><br><b>WHAT ARE THE 4X4 VEHICLE REQUIREMENTS?</b><br><br>• This tour is not suitable for off-road camper trailers.\n<br>• A high clearance 4X4 vehicle with low range.\n<br>• Upgraded, heavy duty suspension - even on a new vehicle.&nbsp;<br>• One spare front and and one spare rear shock as appropriate for your vehicle.\n<br>•  Six Light Truck construction (LT) tyres with over 70% tread remaining.\n<br>• Fuel range of 800 km.<br> \n• 50 - 80L water storage.<br>• Good quality UHF radio base set (Uniden, GME or Oricom recommended) fitted into your vehicle by a UHF specialist installer, and a substantial aerial - 6.6dbi, 1 metre in length, with large 30mm base - not the slim springy ones. These will break on the corrugations.\n<br>• Good quality sand flag with lynch pin base. Not a hose fitting type, and not the spring base type. Bushranger flag from ARB recommended.\n<br>• Tyre deflator and tyre pressure gauge.\n<br>• Tyre pressure monitors - TPMS.\n<br>• Good quality air compressor.\n<br>• Some spares are required to be carried (filters, belt etc). A full list is provided on booking.\n<br>• A Mechanical Checklist is to be completed by a qualified mechanic and returned&nbsp; at least 2 weeks prior to the start of the tour.\n<br>• An Medical Form is to be completed by each person in your vehicle and submitted at least 2 weeks before departure.\n<br>• A tent or camp set up that is EASY TO PUT UP AND TAKE DOWN. This should take no longer than 15 mins each time. This will make or break your trip. An awning tent connected to your vehicle in not recommended.&nbsp;<br>• Vehicle Insurance - make sure your insurance company covers your vehicle for off-road driving. NRMA/RACQ etc will not recover your vehicle from remote tracks. Only Club 4X4 Insurance will cover your vehicle recovery costs in remote situations. There is an option with Club 4X4 to get up to $30,000 for remote recoveries. (Our vehicle is insured with Club 4X4 but we are NOT sponsored by them).\n<br>• Travel Insurance - as with any holiday, you should get travel insurance in case of unforeseen circumstances (such as remote medical evacuation).<br><br>\n<br><b>FUEL CONSUMPTION\n</b><br>\n<br>Desert driving fuel consumption is as follows (NB. indicative only):\n<br>- Diesel utes eg. D-Max, Hilux, Ranger, BT-50 use 14 - 18L/100km,\n<br>- Landrover Discovery 4 uses about 18L diesel/100km\n<br>- Diesel V8 200 Series Landcruiser uses 20 - 22L/100km\n<br>- Petrol 4.6L Nissan Patrol uses close to 28L/100km&nbsp;<br><br><br><b>WHERE CAN I GET SUPPLIES AND FUEL?<br></b><br>Birdsville and Mt Dare are our fuel locations for the tour. All care will be taken to check in advance whether fuel is available where we are going. Water and food is also available in these locations but fresh food is not always available and variety is limited.<br><br><b><br>CAN I HIRE A 4WD VEHICLE &amp; CAMPING GEAR?</b><br><b>\n</b><br>You sure can. Talk to us about hiring a vehicle and all the gear, and the 10% discount on vehicle hire. Priced from $450/day.<br><br><br><b>WHAT HAPPENS IF THERE IS FLOODING OR ROAD CLOSURES IN AND AROUND THE DESERT AT THE TIME OF OUR TOUR?</b><br>We have alternative itineraries in the event of flooding or track closures, so the tour will go ahead. It is not always possible to run tours as planned in the Outback and desert. This is all part of travel in these remote areas.<br><br><b>WHEN CAN I SEE THE FULL ITINERARY?</b><br><br>The full itinerary is provided to you once your deposit has been paid. Please see the \"loose itinerary\" below for an outline.<br><br>The following is a general outline. Please note that the itinerary is subject to change depending on track conditions, weather, vehicle issues, border restrictions etc. We have also factored in some spare days that can be used if necessary for contingencies.&nbsp;<b><br></b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-danger\" href=\"https://www.facebook.com/groups/AU4X4TREKSTeam/\" data-app-placeholder=\"Type Text\">\n                        Join our Facebook Team Members' Group to receive special offers and discounts</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_anchor": "header1-b3",
           "_isUserblock": true,
           "_cid": "skTKvd2ipI",
@@ -18711,7 +18711,7 @@
           },
           "_name": "header1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/img-464-2000x1325.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#7f1933\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><br>Cape York Tour FAQ's&nbsp;</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\"><br>\n                </h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>WHAT'S INCLUDED?</b><br><br>• StarLink Wifi - internet when we're camped remotely.<br>• Exclusive riverside campsite on the first night.<br>• Dinner on the first night at the Lion's Den Hotel, with transfers.<br>• 3 dinners: Lion's Den, Atherton, and Bramwell Station dinner &amp; entertainment (an institution on the Cape!).<br>• 1 Lunch - prawn salad rolls on Chilli Beach from the Portland Roads \"Out of the Blue\" Café.<br>• Thursday Island Ferry and Sightseeing&nbsp; bus trip - full day tour.\n<br>• Weipa Mine &amp; Town Tour - 3 hour tour (get ready for a factual mind explosion! There's more to Weipa than holes in the ground).<br>• Western Cape Eco-Tour Sunset Cruise - 3 hour tour (complete with bubbly, beer &amp; nibbles while the sun goes down over the Gulf of Carpentaria).<br>• Jardine Ferry fees (camper trailers extra $100).<br>• All campground fees including: Archer River Roadhouse, Merluna Stn, Weipa Campground, Bramwell Stn, Loyalty Beach Campground, Hann River Roadhouse campground.<br>• National Park entrance &amp; camping fees including: Lakefield NP, Eliot Falls NP, Iron Range NP.<br>• Highlights of the Old Tele Track - Palm Creek, Gunshot Creek, Cockatoo Creek, Fruitbat &amp; Eliot Falls (without wrecking your vehicle).<br>•&nbsp;Pre-tour help and advice on vehicle and gear setup.<br>• All the arrangements and bookings for the tour (just get yourself, your gear and vehicle to Cooktown for our first night).&nbsp;<br>• Full-time, professional tour guide/4WD instructor with a Cert IV qualification in 4WD training &amp; current first aid certificate.<br>• \"On-tour\"&nbsp; help and advice throughout the entire trip over the 2-way radio. (You will be warned of oncoming traffic and hazards. Your guide will co-ordinate with oncoming vehicles on the tight tracks. On difficult sections, your guide will be out of their vehicle to help you and instruct you personally).<br>• Reliable lead vehicle with all safety, recovery, communications and emergency equipment - Satphone and Garmin inReach (tracker, emergency beacon &amp; satellite texting), winch, snatch straps, Max Trax etc. -&nbsp; You don't have to carry recovery gear, but you can if you like (most people carry a spade, Max Trax, a snatch strap and the appropriate shackles).<br>• A day off \"Up the Top\" for an optional fishing trip or just a day off.<br>• Tyre changing and mechanical assistance.<br>• Spare 2-way radios.<br>• Bird and Animal spotting, photography &amp; spotlighting sessions - esp. in Iron Range National Park; bird/animal ID books and apps.<br><br><br>\n<b>WHAT'S NOT INCLUDED?</b><br><br><b>&nbsp;•&nbsp;</b>4WD Vehicle, fuel, food (other than stated above), camping gear, insurance (vehicle and personal).&nbsp;&nbsp;<br> • Any other optional extras - eg. Fishing charters in Bamaga/Seisia. Arrange this well in advance if you want to go, spaces are limited; helicopter scenic flights at Weipa or Seisia.<br><br><br><b>WHAT ARE THE 4X4 VEHICLE AND GEAR REQUIREMENTS?</b><br><br>• This tour is suitable for off-road camper trailers - please discuss your trailer with us if applicable.&nbsp;<br>• A high clearance 4X4 vehicle with low range.&nbsp;<br>• Upgraded, heavy duty suspension - even on a new vehicle. Standard suspension will not cope with the rough roads (some exceptions apply).<br>• All terrain tread pattern LT tyres (<b>Light Truck construction</b>) with over 2/3 tread remaining. A second spare is <b>not </b>mandatory for this tour, but is recommended. Discuss suitable tyre types with us. Not all LT's are created equal.&nbsp;<br>• Fuel range of 600 km is required for this tour. There is generally plenty of fuel available along the way.<br>• 40L water storage - plenty of water available along the trip route.<br>• Tyre pressure gauge.<br>• Good quality compressor with a gauge with a trigger so that you can read the pressure quickly.<br>• Good quality UHF radio base set (Uniden, GME or Oricom recommended) fitted into your vehicle by a UHF specialist installer, and a substantial aerial - 6.6dbi, 1 - 1.2m in length, with large base - 30mm (not the slim springy ones. These will break on the corrugations).<br>• Some spares are required to be carried eg. air, oil and fuel filters, fan belt. A full list is provided on booking.<br>• A mechanical checklist is to be completed and returned by a qualified mechanic at least 2 weeks prior to the start of the tour. <br>• An medical form is to be completed and submitted at least 2 weeks before departure.<br> \n• A tent or camp set up that is EASY TO PUT UP AND TAKE DOWN. This should take no longer than 15 mins each time (this will make or break your trip).<br>• Insurance - make sure your insurance company covers your vehicle for off-road driving. NRMA/RACQ etc will not recover your vehicle from remote tracks. Only Club 4X4 Insurance will pay for your vehicle recovery in remote situations. There is an option with Club 4X4 to get up to $30,000 for remote recoveries. (Our vehicle is insured with Club 4X4 but we are NOT sponsored by them).<br>• Travel Insurance - as with any holiday, you should get travel insurance in case of unforeseen circumstances (such as remote medical evacuation).<br>\n<br><br><b>CAN I HIRE A 4WD VEHICLE &amp; CAMPING GEAR?</b><br><br>Yes you can. Hire a fully equipped 4WD Vehicle from our trusted supplier, Overlander Adventures, in Brisbane (other locations coming soon). <a href=\"https://www.overlanderadventures.com.au/tag-along-tours\" class=\"text-danger\" target=\"_blank\">Click here for information about the Hilux 4WD Camper.</a><br><br><br><b>WHEN CAN I SEE THE FULL ITINERARY?</b><br><br>Itineraries are provided once your deposit has been received.&nbsp;<br><br>Please note that the itinerary is subject to change depending on track conditions, weather, vehicle issues, border restrictions etc.&nbsp;<b><br></b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-danger\" href=\"https://www.facebook.com/groups/AU4X4TREKSTeam/\" data-app-placeholder=\"Type Text\">\n                        Join our Facebook Team Members' Group to receive special offers and discounts</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/img-464-2000x1325.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#7f1933\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><br>Cape York Tour FAQ's&nbsp;</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\"><br>\n                </h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>WHAT'S INCLUDED?</b><br><br>• StarLink Wifi - internet when we're camped remotely.<br>• Exclusive riverside campsite on the first night.<br>• Dinner on the first night at the Lion's Den Hotel, with transfers.<br>• 3 dinners: Lion's Den, Atherton, and Bramwell Station dinner &amp; entertainment (an institution on the Cape!).<br>• 1 Lunch - prawn salad rolls on Chilli Beach from the Portland Roads \"Out of the Blue\" Café.<br>• Thursday Island Ferry and Sightseeing&nbsp; bus trip - full day tour.\n<br>• Weipa Mine &amp; Town Tour - 3 hour tour (get ready for a factual mind explosion! There's more to Weipa than holes in the ground).<br>• Western Cape Eco-Tour Sunset Cruise - 3 hour tour (complete with bubbly, beer &amp; nibbles while the sun goes down over the Gulf of Carpentaria).<br>• Jardine Ferry fees (camper trailers extra $100).<br>• All campground fees including: Archer River Roadhouse, Merluna Stn, Weipa Campground, Bramwell Stn, Loyalty Beach Campground, Hann River Roadhouse campground.<br>• National Park entrance &amp; camping fees including: Lakefield NP, Eliot Falls NP, Iron Range NP.<br>• Highlights of the Old Tele Track - Palm Creek, Gunshot Creek, Cockatoo Creek, Fruitbat &amp; Eliot Falls (without wrecking your vehicle).<br>•&nbsp;Pre-tour help and advice on vehicle and gear setup.<br>• All the arrangements and bookings for the tour (just get yourself, your gear and vehicle to Cooktown for our first night).&nbsp;<br>• Full-time, professional tour guide/4WD instructor with a Cert IV qualification in 4WD training &amp; current first aid certificate.<br>• \"On-tour\"&nbsp; help and advice throughout the entire trip over the 2-way radio. (You will be warned of oncoming traffic and hazards. Your guide will co-ordinate with oncoming vehicles on the tight tracks. On difficult sections, your guide will be out of their vehicle to help you and instruct you personally).<br>• Reliable lead vehicle with all safety, recovery, communications and emergency equipment - Satphone and Garmin inReach (tracker, emergency beacon &amp; satellite texting), winch, snatch straps, Max Trax etc. -&nbsp; You don't have to carry recovery gear, but you can if you like (most people carry a spade, Max Trax, a snatch strap and the appropriate shackles).<br>• A day off \"Up the Top\" for an optional fishing trip or just a day off.<br>• Tyre changing and mechanical assistance.<br>• Spare 2-way radios.<br>• Bird and Animal spotting, photography &amp; spotlighting sessions - esp. in Iron Range National Park; bird/animal ID books and apps.<br><br><br>\n<b>WHAT'S NOT INCLUDED?</b><br><br><b>&nbsp;•&nbsp;</b>4WD Vehicle, fuel, food (other than stated above), camping gear, insurance (vehicle and personal).&nbsp;&nbsp;<br> • Any other optional extras - eg. Fishing charters in Bamaga/Seisia. Arrange this well in advance if you want to go, spaces are limited; helicopter scenic flights at Weipa or Seisia.<br><br><br><b>WHAT ARE THE 4X4 VEHICLE AND GEAR REQUIREMENTS?</b><br><br>• This tour is suitable for off-road camper trailers - please discuss your trailer with us if applicable.&nbsp;<br>• A high clearance 4X4 vehicle with low range.&nbsp;<br>• Upgraded, heavy duty suspension - even on a new vehicle. Standard suspension will not cope with the rough roads (some exceptions apply).<br>• All terrain tread pattern LT tyres (<b>Light Truck construction</b>) with over 2/3 tread remaining. A second spare is <b>not </b>mandatory for this tour, but is recommended. Discuss suitable tyre types with us. Not all LT's are created equal.&nbsp;<br>• Fuel range of 600 km is required for this tour. There is generally plenty of fuel available along the way.<br>• 40L water storage - plenty of water available along the trip route.<br>• Tyre pressure gauge.<br>• Good quality compressor with a gauge with a trigger so that you can read the pressure quickly.<br>• Good quality UHF radio base set (Uniden, GME or Oricom recommended) fitted into your vehicle by a UHF specialist installer, and a substantial aerial - 6.6dbi, 1 - 1.2m in length, with large base - 30mm (not the slim springy ones. These will break on the corrugations).<br>• Some spares are required to be carried eg. air, oil and fuel filters, fan belt. A full list is provided on booking.<br>• A mechanical checklist is to be completed and returned by a qualified mechanic at least 2 weeks prior to the start of the tour. <br>• An medical form is to be completed and submitted at least 2 weeks before departure.<br> \n• A tent or camp set up that is EASY TO PUT UP AND TAKE DOWN. This should take no longer than 15 mins each time (this will make or break your trip).<br>• Insurance - make sure your insurance company covers your vehicle for off-road driving. NRMA/RACQ etc will not recover your vehicle from remote tracks. Only Club 4X4 Insurance will pay for your vehicle recovery in remote situations. There is an option with Club 4X4 to get up to $30,000 for remote recoveries. (Our vehicle is insured with Club 4X4 but we are NOT sponsored by them).<br>• Travel Insurance - as with any holiday, you should get travel insurance in case of unforeseen circumstances (such as remote medical evacuation).<br>\n<br><br><b>CAN I HIRE A 4WD VEHICLE &amp; CAMPING GEAR?</b><br><br>Yes you can. Hire a fully equipped 4WD Vehicle from our trusted supplier, Overlander Adventures, in Cairns. Priced from $450/day.&nbsp;<a href=\"https://www.overlanderadventures.com.au/tag-along-tours\" class=\"text-danger\" target=\"_blank\">Click here for information about the Hilux 4WD Camper.</a><br><br><br><b>WHEN CAN I SEE THE FULL ITINERARY?</b><br><br>Itineraries are provided once your deposit has been received.&nbsp;<br><br>Please note that the itinerary is subject to change depending on track conditions, weather, vehicle issues, border restrictions etc.&nbsp;<b><br></b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-danger\" href=\"https://www.facebook.com/groups/AU4X4TREKSTeam/\" data-app-placeholder=\"Type Text\">\n                        Join our Facebook Team Members' Group to receive special offers and discounts</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_anchor": "header1-h8",
           "_isUserblock": true,
           "_cid": "sIu4OXm0ky",
@@ -24447,7 +24447,7 @@
     "beadell_highways_trek.html": {
       "settings": {
         "meta_descr": "A unique 15 night tour of several of the legendary Len Beadell's desert \"highways\" plus some other fantastic highlights. Includes Gary Highway, Sandy Blight, Surveyor General's Corner, Connie Sue Highway, Great Victoria Desert, Anne Beadell Highway, and Emu Field Nuclear Test Area.",
-        "title": "Beadell Highways Trek - Central Australian Deserts - Alice to Coober Pedy",
+        "title": "Beadell Highways Trek - Central Australian Deserts 4WD Adventure - Alice Springs to Coober Pedy",
         "order": 8,
         "meta_image": "@PROJECT_PATH@/assets/images/dji-208.jpg",
         "header_custom": ""
@@ -25618,7 +25618,7 @@
           },
           "_name": "header1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/dji-342-2000x1125.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#7f1933\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><br><br></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\"><br>\n                </h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b><br></b><b>WHAT'S INCLUDED?</b><br><br>• First night's accommodation in a hotel room &amp; dinner at Lasseters Crowne Plaza Hotel in Alice Springs<br>• Last night's accommodation in the Underground Motel and dinner in Coober Pedy<br>• StarLink Wifi - internet when we're camped remotely<br>• All access permits &amp; camping fees including Surveyor General's Corner, Woomera Military Zone, and Aboriginal land and transit permits<br>• Pre-tour help and advice on vehicle and gear setup.<br>• All the arrangements and bookings for the tour (just get yourself, your gear and vehicle to Alice Springs).<br>• Full-time, professional tour guide/4WD instructor with a Cert IV qualification in 4WD training and current remote area first aid certificate.<br>• \"On-tour\" training over the 2-way radio. You will be given help and advice throughout the entire trip. You will be warned of oncoming traffic and hazards. Your guide will co-ordinate dune crossings with oncoming vehicles, talking to them on another UHF channel so there's no confusion about what to do. On difficult sections, your guide will be out of their vehicle to help you and instruct you personally.&nbsp;<br>• Reliable tour leader's vehicle with all safety, recovery, communications and emergency equipment - Starlink, Satphone and Garmin inReach (tracker, emergency beacon &amp; satellite texting), winch, snatch straps, Max Trax etc.<br>• Tyre changing and mechanical assistance; spare 2-way radios.<br>• Night spotlighting sessions for animals; bird/animal ID books and apps.&nbsp;<br><br>\n<b>WHAT'S NOT INCLUDED?</b><br><br><b>&nbsp;•&nbsp;</b>4WD Vehicle, fuel, food (other than stated above), camping gear, insurance (vehicle and personal)<br><br><b>WHAT ARE THE 4X4 VEHICLE REQUIREMENTS?</b><br>- A full list of requirements, as well as the tour inclusions and Ts &amp; Cs is provided with our \"Pre-booking Info Pack\". Email Tony here <a href=\"contact.html\" class=\"text-danger\" target=\"_blank\">tony@4x4treks.com.au</a> to request an Info Pack for Beadell Highways Trek<br><br>• A high clearance 4X4 vehicle with low range.<br>\n• Off-road camper trailers are limited to particular specs (ask Tony about this)&nbsp;<br>• Upgraded, heavy duty suspension - even on a new vehicle.&nbsp;<br>• One spare front and and one spare rear shock as appropriate for your vehicle (and trailer).\n<br>•  Six Light Truck construction (LT) tyres with over 70% tread remaining.\n<br>• Fuel range of 1,000 km.<br> \n• 50 - 80L water storage.<br>• Good quality UHF radio base set (Uniden, GME or Oricom recommended) fitted into your vehicle by a UHF specialist installer, and a substantial aerial - 6.6dbi, 0.5-1 metre in length, with large 30mm base - not the slim springy ones. These will break on the corrugations.\n<br>• Good quality sand flag with lynch pin base. Not a hose fitting type, and not the spring base type. Bushranger flag from ARB recommended.\n<br>• Tyre pressure gauge.\n<br>• Tyre pressure monitors - TPMS.\n<br>• Good quality air compressor.\n<br>• Some spares are required to be carried (filters, belt etc). A full list is provided on booking.\n<br>• A Mechanical Checklist is to be completed by a qualified mechanic and returned&nbsp; at least 2 weeks prior to the start of the tour.\n<br>• An Medical Form is to be completed by each person in your vehicle and submitted at least 2 weeks before departure.\n<br>• A tent or camp set up that is EASY TO PUT UP AND TAKE DOWN. This should take no longer than 15 mins each time. This will make or break your trip. An awning tent connected to your vehicle in not recommended.&nbsp;<br>• Vehicle Insurance - make sure your insurance company covers your vehicle for off-road driving. NRMA/RACQ etc will not recover your vehicle from remote tracks. Only Club 4X4 Insurance will cover your vehicle recovery costs in remote situations. There is an option with Club 4X4 to get up to $30,000 for remote recoveries. (Our vehicle is insured with Club 4X4 but we are NOT sponsored by them).\n<br>• Travel Insurance - as with any holiday, you should get travel insurance in case of unforeseen circumstances (such as remote medical evacuation).<br>\n<br><b>FUEL CONSUMPTION\n</b><br>\n<br>Desert driving fuel consumption is as follows (NB. indicative only):\n<br>- Diesel utes eg. D-Max, Hilux, Ranger, BT-50 use 14 - 18L/100km,\n<br>- Landrover Discovery 4 uses about 18L diesel/100km\n<br>- Diesel V8 200 Series Landcruiser uses 20 - 22L/100km\n<br>- Petrol 4.6L Nissan Patrol uses close to 28L/100km&nbsp;<br><b><br>CAN I HIRE A 4WD VEHICLE FOR THIS TOUR?</b><br><b>\n</b><br>No.<br><br><b>WHAT HAPPENS IF THERE IS FLOODING OR ROAD CLOSURES IN AND AROUND THE DESERT AT THE TIME OF OUR TOUR?</b><br>We have alternative itineraries in the event of flooding or track closures, so the tour will go ahead. It is not always possible to run tours as planned in the Outback and desert. This is all part of travel in these remote areas.<br><br><b>WHEN CAN I SEE THE FULL ITINERARY?</b><br><br>The full itinerary is provided to you once your deposit has been paid.&nbsp;<b><br></b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-danger\" href=\"https://www.facebook.com/groups/AU4X4TREKSTeam/\" data-app-placeholder=\"Type Text\">\n                        Join our Facebook Team Members' Group to receive special offers and discounts</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/dji-342-2000x1125.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#7f1933\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><br><br></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\"><br>\n                </h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b><br></b><b>WHAT'S INCLUDED?</b><br><br>• First night's accommodation in a hotel room &amp; dinner at Lasseters Crowne Plaza Hotel in Alice Springs<br>• Last night's accommodation in the Underground Motel and dinner in Coober Pedy<br>• StarLink Wifi - internet when we're camped remotely<br>• All access permits &amp; camping fees including Surveyor General's Corner, Woomera Military Zone, and Aboriginal land and transit permits<br>• Pre-tour help and advice on vehicle and gear setup.<br>• All the arrangements and bookings for the tour (just get yourself, your gear and vehicle to Alice Springs).<br>• Full-time, professional tour guide/4WD instructor with a Cert IV qualification in 4WD training and current remote area first aid certificate.<br>• \"On-tour\" training over the 2-way radio. You will be given help and advice throughout the entire trip. You will be warned of oncoming traffic and hazards. Your guide will co-ordinate dune crossings with oncoming vehicles, talking to them on another UHF channel so there's no confusion about what to do. On difficult sections, your guide will be out of their vehicle to help you and instruct you personally.&nbsp;<br>• Reliable tour leader's vehicle with all safety, recovery, communications and emergency equipment - Starlink, Satphone and Garmin inReach (tracker, emergency beacon &amp; satellite texting), winch, snatch straps, Max Trax etc.<br>• Tyre changing and mechanical assistance; spare 2-way radios.<br>• Night spotlighting sessions for animals; bird/animal ID books and apps.&nbsp;<br><br>\n<b>WHAT'S NOT INCLUDED?</b><br><br><b>&nbsp;•&nbsp;</b>4WD Vehicle, fuel, food (other than stated above), camping gear, insurance (vehicle and personal)<br><br><b>WHAT ARE THE 4X4 VEHICLE REQUIREMENTS?</b><br>- A full list of requirements, as well as the tour inclusions and Ts &amp; Cs is provided with our \"Pre-booking Info Pack\". Email Tony here <a href=\"contact.html\" class=\"text-danger\" target=\"_blank\">tony@4x4treks.com.au</a> to request an Info Pack for Beadell Highways Trek<br><br>• A high clearance 4X4 vehicle with low range.<br>\n• Off-road camper trailers are limited to particular specs (ask Tony about this)&nbsp;<br>• Upgraded, heavy duty suspension - even on a new vehicle.&nbsp;<br>• One spare front and and one spare rear shock as appropriate for your vehicle (and trailer).\n<br>•  Six Light Truck construction (LT) tyres with over 70% tread remaining.\n<br>• Fuel range of 1,000 km.<br> \n• 50 - 80L water storage.<br>• Good quality UHF radio base set (Uniden, GME or Oricom recommended) fitted into your vehicle by a UHF specialist installer, and a substantial aerial - 6.6dbi, 0.5-1 metre in length, with large 30mm base - not the slim springy ones. These will break on the corrugations.\n<br>• Good quality sand flag with lynch pin base. Not a hose fitting type, and not the spring base type. Bushranger flag from ARB recommended.\n<br>• Tyre pressure gauge.\n<br>• Tyre pressure monitors - TPMS.\n<br>• Good quality air compressor.\n<br>• Some spares are required to be carried (filters, belt etc). A full list is provided on booking.\n<br>• A Mechanical Checklist is to be completed by a qualified mechanic and returned&nbsp; at least 2 weeks prior to the start of the tour.\n<br>• An Medical Form is to be completed by each person in your vehicle and submitted at least 2 weeks before departure.\n<br>• A tent or camp set up that is EASY TO PUT UP AND TAKE DOWN. This should take no longer than 15 mins each time. This will make or break your trip. An awning tent connected to your vehicle in not recommended.&nbsp;<br>• Vehicle Insurance - make sure your insurance company covers your vehicle for off-road driving. NRMA/RACQ etc will not recover your vehicle from remote tracks. Only Club 4X4 Insurance will cover your vehicle recovery costs in remote situations. There is an option with Club 4X4 to get up to $30,000 for remote recoveries. (Our vehicle is insured with Club 4X4 but we are NOT sponsored by them).\n<br>• Travel Insurance - as with any holiday, you should get travel insurance in case of unforeseen circumstances (such as remote medical evacuation).<br>\n<br><b>FUEL CONSUMPTION\n</b><br>\n<br>Desert driving fuel consumption is as follows (NB. indicative only):\n<br>- Diesel utes eg. D-Max, Hilux, Ranger, BT-50 use 14 - 18L/100km,\n<br>- Landrover Discovery 4 uses about 18L diesel/100km\n<br>- Diesel V8 200 Series Landcruiser uses 20 - 22L/100km\n<br>- Petrol 4.6L Nissan Patrol uses close to 28L/100km&nbsp;<br><b><br>CAN I HIRE A 4WD VEHICLE FOR THIS TOUR?</b><br><b>\n</b><br>Yes, from Darwin (return). Ask us about this if interested. Priced from $450-500/day.<br><br><b>WHAT HAPPENS IF THERE IS FLOODING OR ROAD CLOSURES IN AND AROUND THE DESERT AT THE TIME OF OUR TOUR?</b><br>We have alternative itineraries in the event of flooding or track closures, so the tour will go ahead. It is not always possible to run tours as planned in the Outback and desert. This is all part of travel in these remote areas.<br><br><b>WHEN CAN I SEE THE FULL ITINERARY?</b><br><br>The full itinerary is provided to you once your deposit has been paid.&nbsp;<b><br></b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-danger\" href=\"https://www.facebook.com/groups/AU4X4TREKSTeam/\" data-app-placeholder=\"Type Text\">\n                        Join our Facebook Team Members' Group to receive special offers and discounts</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_isUserblock": true,
           "_cid": "u8bIO0ky4J",
           "_anchor": "header1-uq",
@@ -25929,6 +25929,1351 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        }
+      ]
+    },
+    "central_aus_desert_loop.html": {
+      "settings": {
+        "meta_descr": "If you're pushed for time but still want to experience the remoteness and scenic beauty of the desert, then this is the tour for you. 7 Days/8 nights from Uluru/Ayers Rock to Alice Springs.",
+        "title": "7 Day Central Australian Desert Loop 4WD Adventure",
+        "order": 8,
+        "meta_image": "@PROJECT_PATH@/assets/images/dscn1631.jpg",
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            ".navbar": {
+              "padding": ".5rem 0",
+              "background": "@menuBgColor",
+              "transition": "none",
+              "min-height": "77px"
+            },
+            ".navbar-dropdown.bg-color.transparent.opened": {
+              "background": "@menuBgColor"
+            },
+            "a": {
+              "font-style": "normal"
+            },
+            ".nav-item": {
+              "& span": {
+                "padding-right": "0.4em",
+                "line-height": "0.5em",
+                "vertical-align": "text-bottom",
+                "position": "relative",
+                "text-decoration": "none"
+              },
+              "& a": {
+                "display": "-webkit-flex",
+                "align-items": "center",
+                "justify-content": "center",
+                "padding": "0.7rem 0 !important",
+                "margin": "0rem .65rem !important",
+                "-webkit-align-items": "center",
+                "-webkit-justify-content": "center"
+              }
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".btn": {
+              "padding": "0.4rem 1.5rem",
+              "display": "-webkit-inline-flex",
+              "align-items": "center",
+              "-webkit-align-items": "center",
+              ".mbr-iconfont": {
+                "font-size": "1.6rem"
+              }
+            },
+            ".menu-logo": {
+              "margin-right": "auto",
+              ".navbar-brand": {
+                "display": "flex",
+                "margin-left": "5rem",
+                "padding": "0",
+                "transition": "padding .2s",
+                "min-height": "3.8rem",
+                "-webkit-align-items": "center",
+                "align-items": "center",
+                ".navbar-caption-wrap": {
+                  "display": "flex",
+                  "-webkit-align-items": "center",
+                  "align-items": "center",
+                  "word-break": "break-word",
+                  "min-width": "7rem",
+                  "margin": ".3rem 0",
+                  ".navbar-caption": {
+                    "line-height": "1.2rem !important",
+                    "padding-right": "2rem"
+                  }
+                },
+                ".navbar-logo": {
+                  "font-size": "4rem",
+                  "transition": "font-size 0.25s",
+                  "& img": {
+                    "display": "flex"
+                  },
+                  ".mbr-iconfont": {
+                    "transition": "font-size 0.25s"
+                  },
+                  "a": {
+                    "display": "inline-flex"
+                  }
+                }
+              }
+            },
+            ".navbar-toggleable-sm .navbar-collapse": {
+              "justify-content": "flex-end",
+              "-webkit-justify-content": "flex-end",
+              "padding-right": "5rem",
+              "width": "auto",
+              ".navbar-nav": {
+                "flex-wrap": "wrap",
+                "-webkit-flex-wrap": "wrap",
+                "padding-left": "0",
+                ".nav-item": {
+                  "-webkit-align-self": "center",
+                  "align-self": "center"
+                }
+              },
+              ".navbar-buttons": {
+                "padding-left": "0",
+                "padding-bottom": "0"
+              }
+            },
+            ".dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                "display": "none",
+                "position": "absolute",
+                "min-width": "5rem",
+                "padding-top": "1.4rem",
+                "padding-bottom": "1.4rem",
+                "text-align": "left",
+                ".dropdown-item": {
+                  "width": "auto",
+                  "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
+                  "&::after": {
+                    "right": "0.5rem"
+                  }
+                },
+                ".dropdown-submenu": {
+                  "margin": "0"
+                }
+              },
+              "&.open > .dropdown-menu": {
+                "display": "block"
+              }
+            },
+            ".navbar-toggleable-sm": {
+              "&.opened:after": {
+                "position": "absolute",
+                "width": "100vw",
+                "height": "100vh",
+                "content": "''",
+                "background-color": "rgba(0, 0, 0, 0.1)",
+                "left": "0",
+                "bottom": "0",
+                "transform": "translateY(100%)",
+                "-webkit-transform": "translateY(100%)",
+                "z-index": "1000"
+              }
+            },
+            ".navbar.navbar-short": {
+              "min-height": "60px",
+              "transition": "all .2s",
+              "& .navbar-toggler-right": {
+                "top": "20px"
+              },
+              "& .navbar-logo a": {
+                "font-size": "2.5rem !important",
+                "line-height": "2.5rem",
+                "transition": "font-size 0.25s",
+                "& .mbr-iconfont": {
+                  "font-size": "2.5rem !important"
+                },
+                "& img": {
+                  "height": "3rem !important"
+                }
+              },
+              "& .navbar-brand": {
+                "min-height": "3rem"
+              }
+            },
+            "button.navbar-toggler": {
+              "width": "31px",
+              "height": "18px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "top": "1.5rem",
+              "right": "1rem",
+              "&:focus": {
+                "outline": "none"
+              },
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".collapsed": {
+              "&.navbar-expand": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".btn": {
+                "display": "-webkit-flex"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              "@media (min-width: 1024px)": {
+                "&:not(.navbar-short) .navbar-collapse when (@showLogo)": {
+                  "max-height": "~\"calc(98.5vh - @{logoSize}rem)\""
+                }
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "overflow": "hidden",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (max-width: 1023px)": {
+              ".navbar-expand": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              "img": {
+                "height": "3.8rem !important"
+              },
+              ".btn": {
+                "display": "-webkit-flex"
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "overflow": "hidden",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (min-width: 767px)": {
+              ".menu-logo": {
+                "flex-shrink": "0",
+                "-webkit-flex-shrink": "0"
+              }
+            },
+            ".navbar-collapse": {
+              "flex-basis": "auto",
+              "-webkit-flex-basis": "auto"
+            },
+            ".nav-link:hover, .dropdown-item:hover": {
+              "color": "@itemsHoverColor !important"
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"3.8\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\" checked>\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#c1c1c1\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#3e2926\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"index.html\">\n                         <img src=\"@PROJECT_PATH@/assets/images/logo-white-162x121.png\" alt=\"Logo\" mbr-style=\"{'height': logoSize + 'rem'}\" title=\"AU4X4TREKS\">\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Text\">\n                        AUSTRALIAN 4X4 TREKS</a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"fa fa-home mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Home</a>\n                </li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"about.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px;\"></span>\n                        \n                        About</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link text-white dropdown-toggle\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbrib-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>\n                        \n                        Tours</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a class=\"text-white dropdown-item dropdown-toggle\" href=\"australian_treks.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Australia</a><div class=\"dropdown-menu dropdown-submenu\"><a class=\"text-white dropdown-item text-primary\" href=\"canning_stock_route.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\">Canning Stock Route</a><a class=\"text-white dropdown-item text-primary\" href=\"simpson_desert.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\" aria-expanded=\"false\">Simpson Desert</a><a class=\"text-white dropdown-item text-primary\" href=\"cape_york.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\" aria-expanded=\"false\">Cape York</a><a class=\"text-white dropdown-item text-primary\" href=\"cape_caravan_tour.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\" aria-expanded=\"false\">Cape Caravan</a><a class=\"text-white dropdown-item text-primary\" href=\"https://www.seearoundcorners.com/kimberley\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\">Kimberley</a><a class=\"text-white dropdown-item text-primary\" href=\"https://www.seearoundcorners.com/arnhemland\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\">Arnhem Land</a></div></div><a class=\"text-white dropdown-item text-primary\" href=\"new_zealand_treks.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\">NZ South Island&nbsp; 2024</a><a class=\"text-white dropdown-item text-primary\" href=\"new_zealand_treks.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\">Himalayas - Nepal</a></div></li><li class=\"nav-item\"><a class=\"nav-link link text-white text-primary\" href=\"4wd_hire.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span>\n                        \n                        Vehicle Hire</a></li>\n                <li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"contact.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px;\"></span>\n                        \n                        Contact</a></li><li class=\"nav-item\"><a class=\"nav-link link text-white text-primary\" href=\"reviews.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-star mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px;\"></span>\n                        \n                        Reviews</a></li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"https://www.facebook.com/au4x4treks/\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link text-white dropdown-toggle\" href=\"page10.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Articles</a><div class=\"dropdown-menu\"><a class=\"text-white dropdown-item\" href=\"earthquake_story.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\">Earthquake story</a><a class=\"text-white dropdown-item\" href=\"Canning_part_1.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\">Canning Stock Route</a><a class=\"text-white dropdown-item\" href=\"top_10_touring_tips.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\">Top 10 Touring Tips</a><a class=\"text-white dropdown-item text-primary\" href=\"another_top_10_things.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\">Another Top 10 Touring Tips</a></div></li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"tel:+61-475-467402\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"socicon socicon-viber mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 20px;\"></span>(+61) 0475 467 402</a></li><li class=\"nav-item\"><a class=\"nav-link link text-white text-primary\" href=\"about.html#features3-nx\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Policies</a></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-danger\" href=\"https://rockhamptontours.rezdy.com/catalog/341054/tag-along-self-drive-tours\" data-app-placeholder=\"Type Text\" target=\"_blank\">\n                    \n                    Book Now</a></div>\n        </div>\n    </nav>\n</section>",
+          "_sourceTheme": "mobirise4",
+          "_cid": "u8hAuacrwH",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {},
+          "_anchor": "menu1-ux"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
+            },
+            "H1": {
+              "text-align": "left"
+            }
+          },
+          "_name": "header1",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/img-1539.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#7f1933\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\"><br><div><span style=\"font-weight: 400;\">Central Australian Desert Loop. Uluru/Ayers Rock to Alice Springs. 8 Nights.</span></div></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">1 June - 9 June 2025 - Bookings now open<br><br><div>$3843 per vehicle incl. 2 people. 8 Vehicles Max. Off-road camper trailers ok.</div></h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><br>If you're pushed for time but still want to experience the remoteness and scenic beauty of the desert, then this is the tour for you. <br><br>Starting with a complimentary 3 day pass to Uluru NP, our first night's accommodation in a cabin at the caravan park, and a welcome dinner in Yulara/Uluru, we head past the iconic Uluru and Kata Tjuta on our way West along the Great Central Road. Passing into WA, we visit the Giles Meteorological Station before making our way up the seldom travelled and very scenic Sandy Blight Road. Our route takes us through Aboriginal Communities where we can refuel, and through very remote desert country. We will loop back towards Alice Springs, stopping at some of the amazing gorges in the West MacDonald Ranges along the way. Our included final night and dinner is at Lasseters Crowne Plaza Hotel in Alice Springs. \n<br>\n<br>No off-road driving experience is necessary for this tour - just bring a sense of adventure and a well set up vehicle. Full instruction will be provided throughout the journey. Off-road camper trailers are ok on this trek, but they must meet our requirements.&nbsp;<br><br><b>Duration:</b>     8 Nights&nbsp;&nbsp;<br><b>Start/End:</b>&nbsp;Uluru/Ayers Rock to Alice Springs&nbsp;<br><b>Cost:</b>              $3843 per vehicle including 1 or 2 people. $600 each additional passenger. 10% Discount for returning customers<br><br>Contact us for more information or to book your adventure.<br><b><br></b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-white-outline\" href=\"contact.html\" data-app-placeholder=\"Type Text\">\n                        CONTACT US</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "u8hAuanuOA",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header1-uy"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@noSpacing)": {
+              ".row": {
+                "margin-left": "0",
+                "margin-right": "0"
+              },
+              ".item": {
+                "padding-left": "0",
+                "padding-right": "0"
+              }
+            },
+            "& when not (@noSpacing)": {
+              ".item": {
+                "padding-bottom": "2rem"
+              }
+            },
+            "& when (@autoSize)": {
+              ".item-wrapper": {
+                "height": "100%",
+                "img": {
+                  "height": "100%",
+                  "object-fit": "cover"
+                }
+              }
+            },
+            ".carousel-control, .close": {
+              "background": "#1b1b1b"
+            },
+            ".carousel-control-prev": {
+              "margin-left": "2.5rem"
+            },
+            ".carousel-control-next": {
+              "margin-right": "2.5rem"
+            },
+            ".close": {
+              "position": "fixed",
+              "opacity": "0.5",
+              "font-size": "35px",
+              "font-weight": "300",
+              "width": "70px",
+              "height": "70px",
+              "border-radius": "50%",
+              "color": "#fff",
+              "top": "2.5rem",
+              "right": "2.5rem",
+              "line-height": "70px",
+              "border": "none",
+              "text-align": "center",
+              "text-shadow": "none",
+              "z-index": "5",
+              "-webkit-transition": "opacity 0.3s ease",
+              "-moz-transition": "opacity 0.3s ease",
+              "-o-transition": "opacity 0.3s ease",
+              "transition": "opacity 0.3s ease",
+              "font-family": "'MobiriseIcons'",
+              "&::before": {
+                "content": "'\\e91a'"
+              },
+              "&:hover": {
+                "opacity": "1",
+                "background": "#000",
+                "color": "#fff"
+              }
+            },
+            ".carousel-control": {
+              "position": "fixed",
+              "width": "70px",
+              "height": "70px",
+              "top": "50%",
+              "margin-top": "-35px",
+              "line-height": "70px",
+              "border-radius": "50%",
+              "font-size": "35px",
+              "border": "0",
+              "opacity": "0.5",
+              "text-shadow": "none",
+              "z-index": "5",
+              "color": "#fff",
+              "-webkit-transition": "all 0.2s ease-in-out 0s",
+              "-o-transition": "all 0.2s ease-in-out 0s",
+              "transition": "all 0.2s ease-in-out 0s"
+            },
+            ".carousel-inner > .active": {
+              "display": "block"
+            },
+            ".carousel-control.left": {
+              "left": "0",
+              "margin-left": "2.5rem"
+            },
+            ".carousel-control.right": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".carousel-control .icon-next, .carousel-control .icon-prev": {
+              "margin-top": "-18px",
+              "font-size": "40px",
+              "line-height": "27px"
+            },
+            ".carousel-control:hover": {
+              "background": "#1b1b1b",
+              "color": "#fff",
+              "opacity": "1"
+            },
+            "@media (max-width: 768px)": {
+              ".carousel-control, .carousel-indicators, .modal .close": {
+                "position": "fixed"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".mbr-slider .carousel-control": {
+                "top": "auto",
+                "bottom": "20px"
+              },
+              ".mbr-slider > .container .carousel-control": {
+                "margin-bottom": "0"
+              }
+            },
+            ".carousel-indicators": {
+              "bottom": "0",
+              "margin-bottom": "3px",
+              "@media (max-width: 991px)": {
+                "margin-bottom": "3.625rem !important",
+                "padding-left": "2.5rem",
+                "padding-right": "2.5rem"
+              },
+              "@media (max-width: 767px)": {
+                "display": "none"
+              }
+            },
+            ".carousel-indicators .active, .carousel-indicators li": {
+              "width": "7px",
+              "height": "7px",
+              "margin": "3px",
+              "background": "#1b1b1b",
+              "opacity": "0.5",
+              "border": "4px solid #1b1b1b"
+            },
+            ".carousel-indicators .active": {
+              "background": "#fff"
+            },
+            ".carousel-indicators li": {
+              "max-width": "15px",
+              "max-height": "15px",
+              "border-radius": "50%"
+            },
+            ".modal": {
+              "padding-left": "0 !important",
+              "position": "fixed",
+              "overflow": "hidden",
+              "padding-right": "0 !important"
+            },
+            ".modal-dialog": {
+              "margin": "0 auto",
+              "max-width": "100%",
+              "padding-left": "1rem",
+              "padding-right": "1rem"
+            },
+            ".modal-content": {
+              "border-radius": "0",
+              "border": "none",
+              "background": "transparent"
+            },
+            ".modal-body": {
+              "padding": "0",
+              "display": "flex",
+              "align-items": "center",
+              ".carousel-item": {
+                "top": "50%",
+                "transform": "translateY(-50%)"
+              },
+              "img": {
+                "width": "100%",
+                "object-fit": "contain",
+                "max-height": "~\"calc(100vh - 1.75rem)\""
+              }
+            },
+            ".carousel": {
+              "width": "100%"
+            },
+            ".modal-backdrop.in": {
+              "opacity": "0.8"
+            },
+            ".modal.fade .modal-dialog": {
+              "-webkit-transition": "margin-top 0.3s ease-out",
+              "-moz-transition": "margin-top 0.3s ease-out",
+              "-o-transition": "margin-top 0.3s ease-out",
+              "transition": "margin-top 0.3s ease-out"
+            },
+            ".modal.fade .modal-dialog, .modal.in .modal-dialog": {
+              "-webkit-transform": "none",
+              "-ms-transform": "none",
+              "-o-transform": "none",
+              "transform": "none"
+            },
+            ".mbr-gallery .item-wrapper": {
+              "cursor": "pointer"
+            },
+            "a": {
+              "display": "block"
+            },
+            "a.img": {
+              "pointer-events": "none"
+            }
+          },
+          "_name": "gallery5",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-gallery gallery5\" group=\"Gallery\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <header>Images</header>\n        <input type=\"checkbox\" title=\"Auto Size\" name=\"autoSize\" checked>\n        <input type=\"checkbox\" title=\"No Spacing\" name=\"noSpacing\">\n        <!-- <input type=\"range\" title=\"Spacing\" name=\"spacing\" min=\"0\" max=\"3\" step=\"0.1\" value=\"1\"> -->\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background5-1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <header condition=\"bg.type!==color\">Overlay</header>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n            Your Guide, Tony.</h3>\n        <h4 class=\"mbr-section-subtitle align-center pb-4 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\"><a href=\"about.html\" class=\"text-primary\" target=\"_blank\"></a>To learn more about Tony's experience and our associated guides, please follow <i><a href=\"about.html\" class=\"text-danger\" target=\"_blank\">this link</a></i></h4>\n        <div class=\"row mbr-gallery\" data-toggle=\"modal\" data-target=\"#{{idGallery}}Modal\">\n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image active\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/20230822-141613.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"0\" data-bs-slide-to=\"0\">\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/20221118-101037-1-844x1374.jpeg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"1\" data-bs-slide-to=\"1\">\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/20221003-110437-510x746.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"2\" data-bs-slide-to=\"2\">\n                </div>\n            </div>\n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image\">\n                <div class=\"item-wrapper\">\n                    <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/20230916-102410.jpg\" alt data-target=\"#lb-{{idGallery}}\" data-slide-to=\"3\" data-bs-slide-to=\"3\">\n                </div>\n            </div>\n        </div>\n\n        <div class=\"modal mbr-slider fade\" id=\"{{idGallery}}Modal\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">\n            <div class=\"modal-dialog\" role=\"document\">\n                <div class=\"modal-content\">\n                    <div class=\"modal-body\">\n                        <div id=\"lb-{{idGallery}}\" class=\"carousel slide\" data-ride=\"carousel\">\n                            <div class=\"carousel-inner\">\n                                <div class=\"carousel-item active\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/background1.jpg\" alt>\n                                </div>\n                                <div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/background2.jpg\" alt>\n                                </div>\n                                <div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/background3.jpg\" alt>\n                                </div>\n                                <div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/background4.jpg\" alt>\n                                </div>\n                            </div>\n                            <ol class=\"carousel-indicators\">\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"0\" class=\"active\" data-bs-slide-to=\"0\"></li>\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"1\" data-bs-slide-to=\"1\"></li>\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"2\" data-bs-slide-to=\"2\"></li>\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"3\" data-bs-slide-to=\"3\"></li>\n                            </ol>\n                            <a role=\"button\" href class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\">\n                            </a>\n                            <a class=\"carousel-control-prev carousel-control\" href=\"#lb-{{idGallery}}\" role=\"button\" data-slide=\"prev\">\n                                <span class=\"mbri-left mbr-iconfont\" aria-hidden=\"true\"></span>\n                                <span class=\"sr-only\">Previous</span>\n                            </a>\n                            <a class=\"carousel-control-next carousel-control\" href=\"#lb-{{idGallery}}\" role=\"button\" data-slide=\"next\">\n                                <span class=\"mbri-right mbr-iconfont\" aria-hidden=\"true\"></span>\n                                <span class=\"sr-only\">Next</span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "u8hAuaxYrI",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "gallery5-uz"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@noSpacing)": {
+              ".row": {
+                "margin-left": "0",
+                "margin-right": "0"
+              },
+              ".item": {
+                "padding-left": "0",
+                "padding-right": "0"
+              }
+            },
+            "& when not (@noSpacing)": {
+              ".item": {
+                "padding-bottom": "2rem"
+              }
+            },
+            "& when (@autoSize)": {
+              ".item-wrapper": {
+                "height": "100%",
+                "img": {
+                  "height": "100%",
+                  "object-fit": "cover"
+                }
+              }
+            },
+            ".carousel-control, .close": {
+              "background": "#1b1b1b"
+            },
+            ".carousel-control-prev": {
+              "margin-left": "2.5rem"
+            },
+            ".carousel-control-next": {
+              "margin-right": "2.5rem"
+            },
+            ".close": {
+              "position": "fixed",
+              "opacity": "0.5",
+              "font-size": "35px",
+              "font-weight": "300",
+              "width": "70px",
+              "height": "70px",
+              "border-radius": "50%",
+              "color": "#fff",
+              "top": "2.5rem",
+              "right": "2.5rem",
+              "line-height": "70px",
+              "border": "none",
+              "text-align": "center",
+              "text-shadow": "none",
+              "z-index": "5",
+              "-webkit-transition": "opacity 0.3s ease",
+              "-moz-transition": "opacity 0.3s ease",
+              "-o-transition": "opacity 0.3s ease",
+              "transition": "opacity 0.3s ease",
+              "font-family": "'MobiriseIcons'",
+              "&::before": {
+                "content": "'\\e91a'"
+              },
+              "&:hover": {
+                "opacity": "1",
+                "background": "#000",
+                "color": "#fff"
+              }
+            },
+            ".carousel-control": {
+              "position": "fixed",
+              "width": "70px",
+              "height": "70px",
+              "top": "50%",
+              "margin-top": "-35px",
+              "line-height": "70px",
+              "border-radius": "50%",
+              "font-size": "35px",
+              "border": "0",
+              "opacity": "0.5",
+              "text-shadow": "none",
+              "z-index": "5",
+              "color": "#fff",
+              "-webkit-transition": "all 0.2s ease-in-out 0s",
+              "-o-transition": "all 0.2s ease-in-out 0s",
+              "transition": "all 0.2s ease-in-out 0s"
+            },
+            ".carousel-inner > .active": {
+              "display": "block"
+            },
+            ".carousel-control.left": {
+              "left": "0",
+              "margin-left": "2.5rem"
+            },
+            ".carousel-control.right": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".carousel-control .icon-next, .carousel-control .icon-prev": {
+              "margin-top": "-18px",
+              "font-size": "40px",
+              "line-height": "27px"
+            },
+            ".carousel-control:hover": {
+              "background": "#1b1b1b",
+              "color": "#fff",
+              "opacity": "1"
+            },
+            "@media (max-width: 768px)": {
+              ".carousel-control, .carousel-indicators, .modal .close": {
+                "position": "fixed"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".mbr-slider .carousel-control": {
+                "top": "auto",
+                "bottom": "20px"
+              },
+              ".mbr-slider > .container .carousel-control": {
+                "margin-bottom": "0"
+              }
+            },
+            ".carousel-indicators": {
+              "bottom": "0",
+              "margin-bottom": "3px",
+              "@media (max-width: 991px)": {
+                "margin-bottom": "3.625rem !important",
+                "padding-left": "2.5rem",
+                "padding-right": "2.5rem"
+              },
+              "@media (max-width: 767px)": {
+                "display": "none"
+              }
+            },
+            ".carousel-indicators .active, .carousel-indicators li": {
+              "width": "7px",
+              "height": "7px",
+              "margin": "3px",
+              "background": "#1b1b1b",
+              "opacity": "0.5",
+              "border": "4px solid #1b1b1b"
+            },
+            ".carousel-indicators .active": {
+              "background": "#fff"
+            },
+            ".carousel-indicators li": {
+              "max-width": "15px",
+              "max-height": "15px",
+              "border-radius": "50%"
+            },
+            ".modal": {
+              "padding-left": "0 !important",
+              "position": "fixed",
+              "overflow": "hidden",
+              "padding-right": "0 !important"
+            },
+            ".modal-dialog": {
+              "margin": "0 auto",
+              "max-width": "100%",
+              "padding-left": "1rem",
+              "padding-right": "1rem"
+            },
+            ".modal-content": {
+              "border-radius": "0",
+              "border": "none",
+              "background": "transparent"
+            },
+            ".modal-body": {
+              "padding": "0",
+              "display": "flex",
+              "align-items": "center",
+              ".carousel-item": {
+                "top": "50%",
+                "transform": "translateY(-50%)"
+              },
+              "img": {
+                "width": "100%",
+                "object-fit": "contain",
+                "max-height": "~\"calc(100vh - 1.75rem)\""
+              }
+            },
+            ".carousel": {
+              "width": "100%"
+            },
+            ".modal-backdrop.in": {
+              "opacity": "0.8"
+            },
+            ".modal.fade .modal-dialog": {
+              "-webkit-transition": "margin-top 0.3s ease-out",
+              "-moz-transition": "margin-top 0.3s ease-out",
+              "-o-transition": "margin-top 0.3s ease-out",
+              "transition": "margin-top 0.3s ease-out"
+            },
+            ".modal.fade .modal-dialog, .modal.in .modal-dialog": {
+              "-webkit-transform": "none",
+              "-ms-transform": "none",
+              "-o-transform": "none",
+              "transform": "none"
+            },
+            ".mbr-gallery .item-wrapper": {
+              "cursor": "pointer"
+            },
+            "a": {
+              "display": "block"
+            },
+            "a.img": {
+              "pointer-events": "none"
+            },
+            "H4": {
+              "text-align": "right"
+            }
+          },
+          "_name": "gallery5",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-gallery gallery5\" group=\"Gallery\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <header>Images</header>\n        <input type=\"checkbox\" title=\"Auto Size\" name=\"autoSize\" checked>\n        <input type=\"checkbox\" title=\"No Spacing\" name=\"noSpacing\">\n        <!-- <input type=\"range\" title=\"Spacing\" name=\"spacing\" min=\"0\" max=\"3\" step=\"0.1\" value=\"1\"> -->\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background5-1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <header condition=\"bg.type!==color\">Overlay</header>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n            Your Guide, Tony.</h3>\n        <h4 class=\"mbr-section-subtitle align-center pb-4 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\"><a href=\"about.html\" class=\"text-primary\" target=\"_blank\"></a>A surprising fact is that in Australia, tag along tour guides are not required to be accredited. Therefore, we think it’s important you know that Tony is&nbsp;<i>Savannah Guides </i>accredited, <i>EcoGuide Australia </i>accredited, and&nbsp;<i>Tour Guides Australia </i>accredited (these all require an accreditation process, not just a paid membership)<i>. </i><br><i><br></i>Tony also&nbsp;holds a&nbsp;<i>Cert IV in Training and Assessment in 4WD Instruction, a Degree in Tourism and a Masters Degree in Wildlife Management</i>. In addition to this, our business is the only tag along tour operator in Australia approved under the <i>Savannah Guides Enterprise accreditation scheme.</i><br></h4>\n        <div class=\"row mbr-gallery\" data-toggle=\"modal\" data-target=\"#{{idGallery}}Modal\">\n            \n            \n            \n            <div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image active\">\n                <div class=\"item-wrapper\">\n                    <a href=\"https://savannah-guides.com.au/\" target=\"_blank\"><img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/savannah-guides-logo-transparent-1-510x291.png\" alt=\"Savannah Guides\" data-target=\"#lb-{{idGallery}}\" data-slide-to=\"0\" data-bs-slide-to=\"0\"></a>\n                </div>\n            </div><div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image active\">\n                <div class=\"item-wrapper\">\n                    <a href=\"https://savannah-guides.com.au/\" target=\"_blank\"><img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/ecoguide-certifcation-logo-australia-510x281.jpg\" alt=\"Savannah Guides\" data-target=\"#lb-{{idGallery}}\" data-slide-to=\"1\" data-bs-slide-to=\"1\"></a>\n                </div>\n            </div><div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image active\">\n                <div class=\"item-wrapper\">\n                    <a href=\"https://savannah-guides.com.au/\" target=\"_blank\"><img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/tga-sticker-510x340.png\" alt=\"Savannah Guides\" data-target=\"#lb-{{idGallery}}\" data-slide-to=\"2\" data-bs-slide-to=\"2\"></a>\n                </div>\n            </div><div class=\"col-sm-6 col-md-4 col-lg-3 item gallery-image active\">\n                <div class=\"item-wrapper\">\n                    <a href=\"https://savannah-guides.com.au/\" target=\"_blank\"><img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/sgl-logo-enterprise.webp\" alt=\"Savannah Guides\" data-target=\"#lb-{{idGallery}}\" data-slide-to=\"3\" data-bs-slide-to=\"4\"></a>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"modal mbr-slider fade\" id=\"{{idGallery}}Modal\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">\n            <div class=\"modal-dialog\" role=\"document\">\n                <div class=\"modal-content\">\n                    <div class=\"modal-body\">\n                        <div id=\"lb-{{idGallery}}\" class=\"carousel slide\" data-ride=\"carousel\">\n                            <div class=\"carousel-inner\">\n                                \n                                \n                                \n                                <div class=\"carousel-item active\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/nt%20parks-594x599.png\" alt>\n                                </div><div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/ecoguide-certifcation-logo-australia-510x281.jpg\" alt>\n                                </div><div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/tga%20logo%201-358x141.png\" alt>\n                                </div><div class=\"carousel-item\">\n                                    <img class=\"d-block w-100\" src=\"@PROJECT_PATH@/assets/images/sgl-logo-enterprise.webp\" alt>\n                                </div>\n                            </div>\n                            <ol class=\"carousel-indicators\">\n                                <li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"0\" class=\"active\" data-bs-slide-to=\"0\"></li><li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"1\" class data-bs-slide-to=\"1\"></li><li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"2\" class data-bs-slide-to=\"2\"></li><li data-target=\"#lb-{{idGallery}}\" data-slide-to=\"3\" class data-bs-slide-to=\"3\"></li>\n                                \n                                \n                                \n                            </ol>\n                            <a role=\"button\" href class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\">\n                            </a>\n                            <a class=\"carousel-control-prev carousel-control\" href=\"#lb-{{idGallery}}\" role=\"button\" data-slide=\"prev\">\n                                <span class=\"mbri-left mbr-iconfont\" aria-hidden=\"true\"></span>\n                                <span class=\"sr-only\">Previous</span>\n                            </a>\n                            <a class=\"carousel-control-next carousel-control\" href=\"#lb-{{idGallery}}\" role=\"button\" data-slide=\"next\">\n                                <span class=\"mbri-right mbr-iconfont\" aria-hidden=\"true\"></span>\n                                <span class=\"sr-only\">Next</span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "u8hAuaRBm7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "gallery5-v0"
+        },
+        {
+          "_name": "aarticle1",
+          "_sourceTheme": "growthm5",
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".mbr-section-title": {
+              "color": "#272727",
+              "margin-bottom": "24px"
+            },
+            ".mbr-text": {
+              "color": "#272727"
+            }
+          },
+          "_customHTML": "<section class=\"article1 growthm5\" group=\"Article\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"12\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-4\">\n                    <b>Ultricies mi eget mauris pharetra</b>\n                </h3>\n                <p class=\"mbr-text mbr-fonts-style mb-0\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-5\">\"𝑂𝑢𝑟 𝑎𝑑𝑣𝑒𝑛𝑡𝑢𝑟𝑒, 𝑢𝑛𝑑𝑒𝑟 𝑇𝑜𝑛𝑦'𝑠 𝑣𝑒𝑟𝑦 𝑒𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒𝑑 𝑔𝑢𝑖𝑑𝑎𝑛𝑐𝑒, 𝑡𝑢𝑟𝑛𝑒𝑑 𝑚𝑦 𝑤𝑖𝑓𝑒'𝑠 𝑝𝑜𝑡𝑒𝑛𝑡𝑖𝑎𝑙 𝑛𝑖𝑔ℎ𝑡𝑚𝑎𝑟𝑒 𝑖𝑛𝑡𝑜 𝑜𝑢𝑟 𝑡𝑟𝑖𝑝 𝑜𝑓 𝑎 𝑙𝑖𝑓𝑒𝑡𝑖𝑚𝑒! 𝑇ℎ𝑒 ℎ𝑎𝑟𝑠ℎ 𝑏𝑒𝑎𝑢𝑡𝑦 𝑜𝑓 𝑡ℎ𝑒 𝑡𝑒𝑟𝑟𝑎𝑖𝑛, 𝑡ℎ𝑒 𝑒𝑥𝑐𝑖𝑡𝑖𝑛𝑔 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒 𝑜𝑓 𝑡ℎ𝑒 𝑑𝑟𝑖𝑣𝑖𝑛𝑔, 𝑓𝑟𝑖𝑒𝑛𝑑𝑠ℎ𝑖𝑝𝑠 𝑓𝑜𝑟𝑔𝑒𝑑 𝑡ℎ𝑟𝑜𝑢𝑔ℎ 𝑡ℎ𝑒 𝑔𝑟𝑜𝑢𝑝, 𝑐𝑎𝑚𝑝-𝑓𝑖𝑟𝑒𝑠 𝑎𝑛𝑑 𝑠𝑡𝑜𝑟𝑦 𝑡𝑒𝑙𝑙𝑖𝑛𝑔... 𝑡ℎ𝑒 𝑠ℎ𝑒𝑒𝑟 𝑖𝑠𝑜𝑙𝑎𝑡𝑖𝑜𝑛. 𝑇𝑜 𝑓𝑖𝑛𝑑 𝑦𝑜𝑢𝑟𝑠𝑒𝑙𝑓, 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒 𝑦𝑜𝑢𝑟𝑠𝑒𝑙𝑓. 𝐷𝑜 𝑠𝑜𝑚𝑒𝑡ℎ𝑖𝑛𝑔 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡 𝑎𝑛𝑑 𝑠𝑜 𝑚𝑢𝑐ℎ 𝑓𝑢𝑛!!\" - Bʀᴜᴄᴇ (&amp; Dᴇʙ), Sɪᴍᴘsᴏɴ Tᴏᴜʀ 2022.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "u8hAub6T2p",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "aarticle1-v1"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".title": {
+              "margin-bottom": "2rem"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            "a:not([href]):not([tabindex])": {
+              "color": "#fff",
+              "border-radius": "3px"
+            },
+            "a.btn-white:not([href]):not([tabindex])": {
+              "color": "#333"
+            },
+            "textarea.form-control": {
+              "min-height": "188px"
+            }
+          },
+          "_name": "form1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section form1\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"formstyler, datepicker\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#767676\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c1c1c1\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    <input type=\"hidden\" name=\"usedRecaptcha\" value=\"false\"></mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-lg-8\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Email for an \"Info Pack\" &amp; availability</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    Easily add subscribe and contact forms without any server-side integration.\n                </h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div mbr-form class=\"media-container-column col-lg-8\">\n<!--Formbuilder Form-->\n<form action=\"tony@4x4treks.com.au\" name=\"Mobirise Form\" method=\"POST\" class=\"mbr-form form-with-styler\" data-verified=\"tony@4x4treks.com.au\">\n<div class=\"row\">\n<div hidden=\"hidden\" data-form-alert class=\"alert alert-success col-12\">Thanks for contacting us. We'll be in touch soon.</div>\n<div hidden=\"hidden\" data-form-alert-danger class=\"alert alert-danger col-12\"> </div>\n</div>\n<div class=\"dragArea row\">\n<div class=\"col-md-4 form-group\" data-for=\"name\">\n<label mbr-text mbr-theme-style=\"display-7\" for=\"name\" class=\"form-control-label mbr-fonts-style\">Name</label>\n<input type=\"text\" name=\"name\" placeholder=\"*\" data-form-field=\"Name\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\" value>\n</div>\n<div class=\"col-md-4 form-group\" data-for=\"email\">\n<label mbr-text mbr-theme-style=\"display-7\" for=\"email\" class=\"form-control-label mbr-fonts-style\">Email</label>\n<input type=\"email\" name=\"email\" placeholder=\"*\" data-form-field=\"Email\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\" value>\n</div>\n<div data-for=\"phone\" class=\"col-md-4 form-group\">\n<label mbr-text mbr-theme-style=\"display-7\" for=\"phone\" class=\"form-control-label mbr-fonts-style\">Phone</label>\n<input type=\"tel\" name=\"phone\" placeholder=\"*\" data-form-field=\"Phone\" mbr-theme-style=\"display-7\" class=\"form-control\" value>\n</div>\n<div data-for=\"message\" class=\"col-md-12 form-group\">\n<label mbr-text mbr-theme-style=\"display-7\" for=\"message\" class=\"form-control-label mbr-fonts-style\">Message</label>\n<textarea name=\"message\" placeholder=\"Please quote &quot;Desert Loop&quot; in this box as a subject heading\" data-form-field=\"Message\" mbr-theme-style=\"display-7\" class=\"form-control\" required=\"required\"></textarea>\n</div>\n<div class=\"col-md-12 input-group-btn align-center\" mbr-buttons=\"true\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\"><a type=\"submit\" class=\"btn btn-form btn-white-outline\" data-app-placeholder=\"Type Text\">SEND FORM</a></div>\n</div>\n</form><!--Formbuilder Form-->\n</div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "u8hAubeZEf",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "form1-v2"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
+            },
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background": "@overlayColor",
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out",
+              "& when (@gradOverlay)": {
+                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+              }
+            },
+            ".mbr-gallery-item > div:hover": {
+              ".mbr-gallery-title::before": {
+                "background": "transparent !important"
+              },
+              "&:before": {
+                "opacity": "@overlayOpacity !important"
+              }
+            },
+            ".mbr-gallery-title": {
+              "font-size": ".9em",
+              "position": "absolute",
+              "display": "block",
+              "width": "100%",
+              "bottom": "0",
+              "padding": "1rem",
+              "color": "#fff",
+              "z-index": "2",
+              "&:before": {
+                "content": "\" \"",
+                "width": "100%",
+                "height": "100%",
+                "top": "0",
+                "left": "0",
+                "z-index": "-1",
+                "position": "absolute",
+                "background": "@overlayColor !important",
+                "opacity": "@overlayOpacity",
+                "-webkit-transition": "0.2s background ease-in-out",
+                "transition": "0.2s background ease-in-out",
+                "& when (@gradOverlay)": {
+                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+                }
+              }
+            }
+          },
+          "_name": "gallery1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"5\"></div>\n    </div>\n\n</section>",
+          "_isUserblock": true,
+          "_cid": "u8hAuboF4d",
+          "_protectedParams": [
+            "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
+            "gallery"
+          ],
+          "_global": false,
+          "_once": false,
+          "_params": {
+            "text_all": "All",
+            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
+            "gallery": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-1091.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1091-800x444.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Five Beaches Drive, Cape York",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20220508-181007.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20220508-181007-800x534.jpg",
+                "alt": "",
+                "title": "A large goanna on the road to Weipa",
+                "customStyle1": "display-7",
+                "caption": "Log Bridge on the Telegraph Track, Cape York",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-620.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-620-800x533.jpg",
+                "alt": "",
+                "title": "Coloured sands at Elim Beach",
+                "customStyle1": "display-7",
+                "caption": "Log Bridge on the Telegraph Track, Cape York",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-740.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-740-800x453.jpg",
+                "alt": "",
+                "title": "Beach walk at Elim Beach",
+                "customStyle1": "display-7",
+                "caption": "East Coast Headland, Cape York",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-765.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-765-800x533.jpg",
+                "alt": "",
+                "title": "Some of the best times are spent around the campfire",
+                "customStyle1": "display-7",
+                "caption": "Five Beaches Drive, Cape York",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20220528-180847.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20220528-180847-800x451.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Five Beaches Drive, Cape York",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery1-v3"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left",
+              "color": "#000000"
+            }
+          },
+          "_name": "header1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/dji-342-2000x1125.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#7f1933\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><br><br></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\"><br>\n                </h3>\n                <p class=\"mbr-text align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b><br></b><b>WHAT'S INCLUDED?</b><br><br>• Complimentary 3 day pass to Uluru NP<br>• First night's accommodation in a cabin &amp; dinner at Yulara (Uluru town)<br>• Last night's accommodation and dinner at Lasseters Crowne Plaza Hotel in Alice Springs<br>• StarLink Wifi - internet when we're camped remotely<br>• All access permits, National Park entry fees, camping fees and Aboriginal land access and transit permits<br>• Pre-tour help and advice on vehicle and gear setup.<br>• All the arrangements and bookings for the tour (just get yourself, your gear and vehicle to Alice Springs).<br>• Full-time, professional tour guide/4WD instructor with a Cert IV qualification in 4WD training and current remote area first aid certificate.<br>• \"On-tour\" training over the 2-way radio. You will be given help and advice throughout the entire trip. You will be warned of oncoming traffic and hazards. Your guide will co-ordinate dune crossings with oncoming vehicles, talking to them on another UHF channel so there's no confusion about what to do. On difficult sections, your guide will be out of their vehicle to help you and instruct you personally.&nbsp;<br>• Reliable tour leader's vehicle with all safety, recovery, communications and emergency equipment - Starlink, Satphone and Garmin inReach (tracker, emergency beacon &amp; satellite texting), winch, snatch straps, Max Trax etc.<br>• Tyre changing and mechanical assistance; spare 2-way radios.<br>• Night spotlighting sessions for animals; bird/animal ID books and apps.&nbsp;<br><br>\n<b>WHAT'S NOT INCLUDED?</b><br><br><b>&nbsp;•&nbsp;</b>4WD Vehicle, fuel, food (other than stated above), camping gear, insurance (vehicle and personal)<br><br><b>WHAT ARE THE 4X4 VEHICLE REQUIREMENTS?</b><br>- A full list of requirements, as well as the tour inclusions and Ts &amp; Cs is provided with our \"Pre-booking Info Pack\". Email Tony here <a href=\"contact.html\" class=\"text-danger\" target=\"_blank\">tony@4x4treks.com.au</a> to request an Info Pack for \"Central Desert Loop\"<br><br>• A high clearance 4X4 vehicle with low range.<br>\n• Off-road camper trailers are limited to particular specs (ask Tony about this)&nbsp;<br>•  Five Light Truck construction (LT) tyres with over 50% tread remaining. 2nd spare with or without rim recommended.<br>• Fuel range of 800 km.<br> \n• 50 - 80L water storage.<br>• Good quality UHF radio base set<br>• Good quality sand flag with lynch pin base. Not a hose fitting type, and not the spring base type. Bushranger flag from ARB recommended.\n<br>• Tyre pressure gauge.\n<br>• Tyre pressure monitors - TPMS.\n<br>• Good quality air compressor.\n<br>• Some spares are required to be carried (filters, belt etc). A full list is provided on booking.\n<br>• A Mechanical Checklist is to be completed by a qualified mechanic and returned&nbsp; at least 2 weeks prior to the start of the tour.\n<br>• An Medical Form is to be completed by each person in your vehicle and submitted at least 2 weeks before departure.\n<br>• A tent or camp set up that is EASY TO PUT UP AND TAKE DOWN. This should take no longer than 15 mins each time. This will make or break your trip. An awning tent connected to your vehicle in not recommended.&nbsp;<br>• Vehicle Insurance - make sure your insurance company covers your vehicle for off-road driving. NRMA/RACQ etc will not recover your vehicle from remote tracks. Only Club 4X4 Insurance will cover your vehicle recovery costs in remote situations. There is an option with Club 4X4 to get up to $30,000 for remote recoveries. (Our vehicle is insured with Club 4X4 but we are NOT sponsored by them).\n<br>• Travel Insurance - as with any holiday, you should get travel insurance in case of unforeseen circumstances (such as remote medical evacuation).<br>\n<br><b>FUEL CONSUMPTION\n</b><br>\n<br>Desert driving fuel consumption is as follows (NB. indicative only):\n<br>- Diesel utes eg. D-Max, Hilux, Ranger, BT-50 use 14 - 18L/100km,\n<br>- Landrover Discovery 4 uses about 18L diesel/100km\n<br>- Diesel V8 200 Series Landcruiser uses 20 - 22L/100km\n<br>- Petrol 4.6L Nissan Patrol uses close to 28L/100km&nbsp;<br><b><br>CAN I HIRE A 4WD VEHICLE FOR THIS TOUR?</b><br><b>\n</b><br>Yes, from Darwin (return). Ask us about this if interested. Priced from $450-500/day.<br><br><b>WHAT HAPPENS IF THERE IS FLOODING OR ROAD CLOSURES IN AND AROUND THE DESERT AT THE TIME OF OUR TOUR?</b><br>We have alternative itineraries in the event of flooding or track closures, so the tour will go ahead. It is not always possible to run tours as planned in the Outback and desert. This is all part of travel in these remote areas.<br><br><b>WHEN CAN I SEE THE FULL ITINERARY?</b><br><br>The full itinerary is provided to you once your deposit has been paid.&nbsp;<b><br></b></p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-danger\" href=\"https://www.facebook.com/groups/AU4X4TREKSTeam/\" data-app-placeholder=\"Type Text\">\n                        Join our Facebook Team Members' Group to receive special offers and discounts</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_isUserblock": true,
+          "_cid": "u8hAubCWzU",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header1-v4"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".title": {
+              "margin-bottom": "2rem"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            "a:not([href]):not([tabindex])": {
+              "color": "#fff",
+              "border-radius": "3px"
+            },
+            "a.btn-white:not([href]):not([tabindex])": {
+              "color": "#333"
+            },
+            "textarea.form-control": {
+              "min-height": "188px"
+            }
+          },
+          "_name": "form1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section form1\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"formstyler, datepicker\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4-1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#767676\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c1c1c1\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    <input type=\"hidden\" name=\"usedRecaptcha\" value=\"false\"></mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-lg-8\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Email for info and availability</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    Easily add subscribe and contact forms without any server-side integration.\n                </h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div mbr-form class=\"media-container-column col-lg-8\">\n<!--Formbuilder Form-->\n<form action=\"tony@4x4treks.com.au\" name=\"Mobirise Form\" method=\"POST\" class=\"mbr-form form-with-styler\" data-verified=\"tony@4x4treks.com.au\">\n<div class=\"row\">\n<div hidden=\"hidden\" data-form-alert class=\"alert alert-success col-12\">Thanks for contacting us. We'll be in touch soon.</div>\n<div hidden=\"hidden\" data-form-alert-danger class=\"alert alert-danger col-12\"> </div>\n</div>\n<div class=\"dragArea row\">\n<div class=\"col-md-4 form-group\" data-for=\"name\">\n<label mbr-text mbr-theme-style=\"display-7\" for=\"name\" class=\"form-control-label mbr-fonts-style\">Name</label>\n<input type=\"text\" name=\"name\" placeholder=\"*\" data-form-field=\"Name\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\" value>\n</div>\n<div class=\"col-md-4 form-group\" data-for=\"email\">\n<label mbr-text mbr-theme-style=\"display-7\" for=\"email\" class=\"form-control-label mbr-fonts-style\">Email</label>\n<input type=\"email\" name=\"email\" placeholder=\"*\" data-form-field=\"Email\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control\" value>\n</div>\n<div data-for=\"phone\" class=\"col-md-4 form-group\">\n<label mbr-text mbr-theme-style=\"display-7\" for=\"phone\" class=\"form-control-label mbr-fonts-style\">Phone</label>\n<input type=\"tel\" name=\"phone\" placeholder=\"*\" data-form-field=\"Phone\" mbr-theme-style=\"display-7\" class=\"form-control\" value>\n</div>\n<div data-for=\"message\" class=\"col-md-12 form-group\">\n<label mbr-text mbr-theme-style=\"display-7\" for=\"message\" class=\"form-control-label mbr-fonts-style\">Message</label>\n<textarea name=\"message\" placeholder=\"Please quote &quot;Desert Loop&quot; in this box as a subject heading\" data-form-field=\"Message\" mbr-theme-style=\"display-7\" class=\"form-control\" required=\"required\"></textarea>\n</div>\n<div class=\"col-md-12 input-group-btn align-center\" mbr-buttons=\"true\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\"><a type=\"submit\" class=\"btn btn-form btn-white-outline\" data-app-placeholder=\"Type Text\">SEND FORM</a></div>\n</div>\n</form><!--Formbuilder Form-->\n</div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "u8hAuc3K36",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "form1-v6"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background": "linear-gradient(0deg, @color2, @bg-value)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-iconfont-social": {
+              "font-size": "32px",
+              "color": "@iconsColor"
+            },
+            ".social-list": {
+              "a:focus": {
+                "text-decoration": "none"
+              }
+            }
+          },
+          "_name": "social-buttons2",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section group=\"Social\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"SocialLikes\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input inline type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input inline type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        \n        <input type=\"color\" title=\"Icons Color\" name=\"iconsColor\" value=\"#ff3366\"> \n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#6670a9\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" title=\"color2\" name=\"color2\" condition=\"bg.type=='color'\" value=\"#7fdbfd\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-md-8 align-center\">\n                <h2 class=\"pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">FOLLOW US ON FACEBOOK &amp; INSTAGRAM!</h2>\n                <div class=\"social-list pl-0 mb-0\">\n                    <a href=\"https://www.facebook.com/au4x4treks/\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social fa-facebook-square fa\"></span>\n                    </a>\n                    <a href=\"https://www.instagram.com/australian_4x4_treks/?hl=en\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 mbr-iconfont mbr-iconfont-social socicon-instagram socicon\" mbr-if=\"iconsCount > 1\"></span>\n                    </a>\n                    <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 socicon-instagram socicon mbr-iconfont mbr-iconfont-social\" mbr-if=\"iconsCount > 2\"></span>\n                    </a>\n                    <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 socicon-youtube socicon mbr-iconfont mbr-iconfont-social\" mbr-if=\"iconsCount > 3\"></span>\n                    </a>\n                    <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                        <span mbr-icon class=\"px-2 socicon-behance socicon mbr-iconfont mbr-iconfont-social\" mbr-if=\"iconsCount > 4\"></span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "u8hAuceCQC",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "social-buttons2-v7"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".content": {
+              "@media (max-width: 767px)": {
+                "text-align": "center",
+                "> div:not(:last-child)": {
+                  "margin-bottom": "2rem"
+                }
+              }
+            },
+            ".media-wrap": {
+              "@media (max-width: 767px)": {
+                "margin-bottom": "1rem"
+              },
+              ".mbr-iconfont-logo": {
+                "font-size": "7.5rem",
+                "color": "#f36"
+              },
+              "img": {
+                "height": "6rem"
+              }
+            },
+            ".footer-lower": {
+              ".copyright": {
+                "@media (max-width: 767px)": {
+                  "margin-bottom": "1rem",
+                  "text-align": "center"
+                }
+              },
+              "hr": {
+                "margin": "1rem 0",
+                "border-color": "#fff",
+                "opacity": ".05"
+              },
+              ".social-list": {
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "-webkit-flex-wrap": "wrap",
+                "flex-wrap": "wrap",
+                "-webkit-justify-content": "flex-end",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.3rem",
+                  "color": "#fff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "-webkit-transition": ".2s linear",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
+              }
+            },
+            "P": {
+              "color": "#efefef"
+            }
+          },
+          "_name": "footer1",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->  \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked>\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\" selected>4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value>\n            <input type=\"color\" title=\"Background Color\" value=\"#3e2926\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content text-white\">\n            <div class=\"col-12 col-md-3\">\n                <div class=\"media-wrap\">\n                    <a href=\"#top\">\n                        <img src=\"@PROJECT_PATH@/assets/images/logo-white-162x121.png\" alt title=\"Rockhampton Tours and 4WD Training\">\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Address\n                </h5>\n                <p class=\"mbr-text\">1/105 Denham Street&nbsp;<br>Rockhampton<br>Queensland 4700<br>Australia</p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Contacts\n                </h5>\n                <p class=\"mbr-text\"><a href=\"mailto:info@4x4treks.com.au\" class=\"text-white\">info@4x4treks.com.au</a><br><br>Phone:<a href=\"mailto:info@rockhamptontours.com.au\" class=\"text-white\"><br></a><a href=\"tel:+61-475467402\" class=\"text-white\">+61 475 467 402</a><br></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">Quick Links\n                </h5>\n                <p class=\"mbr-text\"><a href=\"index.html\" class=\"text-white\">Tours</a><br><a href=\"about.html#content5-d\" class=\"text-white\">About</a><br><a href=\"contact.html#header1-m\" class=\"text-white\">Contact</a></p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">\n                        © Copyright 2024 Australian 4X4 Treks - All Rights Reserved<br>\n                    </p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://www.facebook.com/rockhamptontours/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-facebook socicon\" style=\"color: rgb(239, 239, 239); fill: rgb(239, 239, 239);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.instagram.com/rockhamptontours/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\" style=\"color: rgb(239, 239, 239); fill: rgb(239, 239, 239);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"#top\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-linkedin socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://www.youtube.com/channel/UCHbB14bfjpac6bwTjD5Hlqw\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-youtube socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "u8hAucrgM2",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "footer1-v8"
         }
       ]
     }
