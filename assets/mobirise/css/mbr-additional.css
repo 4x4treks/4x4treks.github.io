@@ -12442,11 +12442,6 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-tWocquADRP {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/diamantina3.png");
-}
 .cid-sL6W0pmcqS {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -12466,27 +12461,6 @@ section.lazy-placeholder:after {
 }
 .cid-skTKvd2ipI .mbr-text,
 .cid-skTKvd2ipI .mbr-section-btn {
-  text-align: left;
-  color: #000000;
-}
-.cid-sL6WgqTGFH {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #4b3330;
-}
-.cid-sL6WgqTGFH .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-sL6WgqTGFH H2 {
-  color: #ffffff;
-}
-.cid-sIpqKgG7m2 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-sIpqKgG7m2 .mbr-text,
-.cid-sIpqKgG7m2 .mbr-section-btn {
   text-align: left;
   color: #000000;
 }
