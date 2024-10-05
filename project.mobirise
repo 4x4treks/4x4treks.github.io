@@ -112,7 +112,7 @@
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://4x4treks.com.au",
-    "uniqCompNum": 1127,
+    "uniqCompNum": 1132,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "google-analytics": "",
@@ -614,7 +614,7 @@
             }
           },
           "_name": "header3",
-          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"40\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/20230611-165304.jpg\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://youtu.be/RpeIrBXbpQw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#232323\" condition=\"gradientBg && bg.type == 'color'\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4b3330\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/4x4-treks-full-logo2-trans-2.png\" alt=\"AU4X4TREKS logo\" title=\"AU4X4TREKS logo\">\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-1\"><b><br></b>4X4 Treks.Travel<br><br><b>AUSTRALIAN 4X4 TREKS</b><br>Guided Self-Drive 4WD Adventures in Australia &amp; New Zealand&nbsp;</h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-5\">Safely experience scenic and remote 4WD destinations on our carefully planned tag along tours.<br><br>See the most amazing sights. Connect with nature. Test yourself and your vehicle. Take away the risk and hassle by investing in the knowledge and skills of a professional tour arranger and guide.<br><br>Tour Guide Tony Davys is your dedicated full-time professional tour guide with a host of qualifications. Not only are you in for a fun and safe remote expedition, but you will learn a huge amount about the fauna, flora and history of the locations we visit.<br><br>Together with a team of like-minded companions, we will make this your next great adventure.\n<br><br>10% Discount applies for your second and subsequent tours <i>within Australia with Aus 4X4 Treks.</i><br><br>See our upcoming tours below. To receive a pre-booking \"Info Pack\" please email Tony on info@4x4treks.com.au and request one for the relevant tour.&nbsp;<b><br></b></p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"simpson_desert.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">SIMPSON DESERT</a> <a class=\"btn btn-md btn-primary\" href=\"cape_york.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">CAPE YORK</a> <a class=\"btn btn-md btn-primary\" href=\"scotland_treks.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">CANNING STOCK ROUTE</a> <a class=\"btn btn-md btn-primary\" href=\"mongolian_treks.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">KIMBERLEY</a> <a class=\"btn btn-md btn-primary\" href=\"mongolian_treks.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">PILBARA + DIRK HARTOG ISLAND</a>    <a class=\"btn btn-md btn-primary\" href=\"africa.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">NEW ZEALAND - SOUTH ISLAND HIGH COUNTRY</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"40\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/20230611-165304.jpg\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://youtu.be/RpeIrBXbpQw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#232323\" condition=\"gradientBg && bg.type == 'color'\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4b3330\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/4x4-treks-full-logo2-trans-2.png\" alt=\"AU4X4TREKS logo\" title=\"AU4X4TREKS logo\">\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-1\"><b><br></b>4X4 Treks.Travel<br><br><b>AUSTRALIAN 4X4 TREKS</b><br>Guided Self-Drive 4WD Adventures in Australia &amp; New Zealand&nbsp;</h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-5\">Safely experience scenic and remote 4WD destinations on our carefully planned tag along tours.<br><br>See the most amazing sights. Connect with nature. Test yourself and your vehicle. Step outside your comfort zone.<br><br>Take away the risk and hassle by investing in the knowledge and skills of a professional tour arranger and guide.<br><br>Tour Guide Tony Davys is your dedicated full-time professional tour guide with a host of qualifications. Not only are you in for a fun and safe remote expedition, but you will learn a huge amount about the fauna, flora and history of the locations we visit.<br><br>Together with a team of like-minded companions, we will make this your next great adventure.\n<br><br>10% Discount applies for your second and subsequent tours <i>within Australia with Aus 4X4 Treks.</i><br><br>See our upcoming adventures below. To receive a pre-booking \"Info Pack\" please email Tony on info@4x4treks.com.au and request one for the relevant tour.&nbsp;<b><br></b></p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"simpson_desert.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">SIMPSON DESERT</a> <a class=\"btn btn-md btn-primary\" href=\"cape_york.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">CAPE YORK</a> <a class=\"btn btn-md btn-primary\" href=\"scotland_treks.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">CANNING STOCK ROUTE</a> <a class=\"btn btn-md btn-primary\" href=\"mongolian_treks.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">KIMBERLEY</a> <a class=\"btn btn-md btn-primary\" href=\"mongolian_treks.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">PILBARA + DIRK HARTOG ISLAND</a>    <a class=\"btn btn-md btn-primary\" href=\"africa.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">NEW ZEALAND - SOUTH ISLAND HIGH COUNTRY</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_anchor": "header3-g",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -694,7 +694,7 @@
           },
           "_name": "header8",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"header8\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"PlayerVimeo\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Video PopUp\" name=\"showVideoPopUp\">\n        <input type=\"text\" title=\"Modal Video\" name=\"modalVideo\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\" condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Show Description\" name=\"showDescription\" checked condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" value=\"../_images/background4.jpg\" title=\"Background Image\" parallax>\n            <input type=\"color\" value=\"#4b3330\" title=\"Background Color\" selected>\n            <input type=\"video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\" title=\"Background Video\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ff3366\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center py-2 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                        INTRO WITH VIDEO POPUP\n                </h1>\n                <p class=\"mbr-text align-center py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\">\n                        Full-screen intro with background image and video popup.\n                </p>\n                <div class=\"mbr-media show-modal align-center py-2\" mbr-if=\"showVideoPopUp\" data-modal=\".modalWindow\">\n                         <span mbr-icon class=\"mbr-iconfont mbri-play\" style=\"color: rgb(20, 157, 204); fill: rgb(20, 157, 204);\"></span>\n                </div>\n                <div mbr-text class=\"icon-description align-center font-italic pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showDescription && showVideoPopUp\" data-app-selector=\".icon-description\">\n                        Icon's descriptions\n                </div>\n                <div class=\"mbr-section-btn text-center\" mbr-buttons mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-white-outline\" href=\"canning_stock_route.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">CANNING STOCK ROUTE</a> <a class=\"btn btn-md btn-white-outline\" href=\"simpson_desert.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">SIMPSON DESERT</a>    <a class=\"btn btn-md btn-white-outline\" href=\"beadell_highways_trek.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">BEADELL HIGHWAYS TREK</a>   <a class=\"btn btn-md btn-white-outline\" href=\"https://www.seearoundcorners.com/arnhemland\" data-app-placeholder=\"Type Text\" target=\"_blank\">ARNHEM LAND</a>  <a class=\"btn btn-md btn-white-outline\" href=\"new_zealand_treks.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">NZ SOUTH ISLAND HIGH COUNTRY</a> <a class=\"btn btn-md btn-white-outline\" href=\"https://www.offroadlands.com/\" data-app-placeholder=\"Type Text\" target=\"_blank\">HIMALAYAS - NEPAL</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showVideoPopUp\">\n        <div class=\"modalWindow\" style=\"display: none;\">\n            <div class=\"modalWindow-container\">\n                <div class=\"modalWindow-video-container\">\n                    <div class=\"modalWindow-video\">\n                        <iframe width=\"100%\" height=\"100%\" data-src=\"{{modalVideo}}\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"mbri-close mbr-iconfont closeModal\"></span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header8\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"PlayerVimeo\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Video PopUp\" name=\"showVideoPopUp\">\n        <input type=\"text\" title=\"Modal Video\" name=\"modalVideo\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\" condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Show Description\" name=\"showDescription\" checked condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" value=\"../_images/background4.jpg\" title=\"Background Image\" parallax>\n            <input type=\"color\" value=\"#4b3330\" title=\"Background Color\" selected>\n            <input type=\"video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\" title=\"Background Video\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ff3366\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center py-2 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                        Upcoming Adventures</h1>\n                <p class=\"mbr-text align-center py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\">\n                        Full-screen intro with background image and video popup.\n                </p>\n                <div class=\"mbr-media show-modal align-center py-2\" mbr-if=\"showVideoPopUp\" data-modal=\".modalWindow\">\n                         <span mbr-icon class=\"mbr-iconfont mbri-play\" style=\"color: rgb(20, 157, 204); fill: rgb(20, 157, 204);\"></span>\n                </div>\n                <div mbr-text class=\"icon-description align-center font-italic pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showDescription && showVideoPopUp\" data-app-selector=\".icon-description\">\n                        Icon's descriptions\n                </div>\n                <div class=\"mbr-section-btn text-center\" mbr-buttons mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-white-outline\" href=\"canning_stock_route.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">CANNING STOCK ROUTE</a> <a class=\"btn btn-md btn-white-outline\" href=\"simpson_desert.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">SIMPSON DESERT</a>    <a class=\"btn btn-md btn-white-outline\" href=\"beadell_highways_trek.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">BEADELL HIGHWAYS TREK</a>   <a class=\"btn btn-md btn-white-outline\" href=\"https://www.seearoundcorners.com/arnhemland\" data-app-placeholder=\"Type Text\" target=\"_blank\">ARNHEM LAND</a>  <a class=\"btn btn-md btn-white-outline\" href=\"new_zealand_treks.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">NZ SOUTH ISLAND HIGH COUNTRY</a> <a class=\"btn btn-md btn-white-outline\" href=\"https://www.offroadlands.com/\" data-app-placeholder=\"Type Text\" target=\"_blank\">HIMALAYAS - NEPAL</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showVideoPopUp\">\n        <div class=\"modalWindow\" style=\"display: none;\">\n            <div class=\"modalWindow-container\">\n                <div class=\"modalWindow-video-container\">\n                    <div class=\"modalWindow-video\">\n                        <iframe width=\"100%\" height=\"100%\" data-src=\"{{modalVideo}}\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"mbri-close mbr-iconfont closeModal\"></span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "tjgVD4P4EE",
           "_anchor": "header8-jn",
           "_protectedParams": [],
@@ -1309,7 +1309,7 @@
           },
           "_name": "header16",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>4X4 Treks in 2025 - Bookings now open</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">LEARN MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>4X4 Treks in 2025</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">LEARN MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_anchor": "header16-c8",
           "_isUserblock": true,
           "_cid": "sqteWe6PvD",
@@ -1514,7 +1514,7 @@
           },
           "_name": "slider3",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"slider3 voyagem4_slider3 carousel slide testimonials-slider extSlider\" group=\"Sliders & Galleries\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider\" data-interval=\"false\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" inline>\n\t\t<input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" inline>\n\t\t<header>Show/Hide</header>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t<input type=\"checkbox\" title=\"Figure\" name=\"showFigure\" condition=\"showSubtitle\" checked>\n\t\t<input type=\"image\" title=\"Figure\" name=\"figure\" value=\"@PROJECT_PATH@/assets/images/compass.svg\" condition=\"showFigure && showSubtitle\">\n\t\t<header>Slider</header>\n\t\t<input type=\"range\" inline title=\"Count Items\" name=\"testimonialsSlides\" min=\"1\" max=\"10\" step=\"1\" value=\"1\">\n\t\t<input type=\"checkbox\" title=\"Show Indicators\" name=\"showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Show Arrows\" name=\"showArrows\">\n\t\t<input type=\"color\" title=\"Arrows/Indicators Color\" name=\"indicatorsColor\" value=\"#003d59\" condition=\"showArrows || showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n\t\t<input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"6000\" condition=\"showAutoplay\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background.jpg\">\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"2 BG Color\" name=\"bgColor2\" condition=\"bg.type == 'color'\" checked>\n\t\t<input type=\"color\" title=\"2 Background Color\" value=\"#cce4f0\" name=\"twoBgColor\" condition=\"bgColor2 && bg.type == 'color'\">\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\t<div class=\"two__background\"></div>\n\t<div class=\"container-fluid\">\n\n\t\t<div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n\t\t\t<div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n\t\t\t\t<div class=\"carousel-item\">\n\t\t\t\t\t<div class=\"media-container-row\">\n\t\t\t\t\t\t<div class=\"col-12 col-lg-4 offset-lg-1 slider__content\">\n\t\t\t\t\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Simpson Desert Double Crossing. Windorah - Mt Dare -&nbsp; Birdsville. 15 Nights</h4>\n\t\t\t\t\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><div><br></div><div><span style=\"font-size: 1.6rem;\"> </span><span style=\"font-size: 1.6rem;\">$6207 for 1 or 2 people in one vehicle.</span><span style=\"font-size: 1.6rem;\"> </span><span style=\"font-size: 1.6rem;\">No trailers. 8 Vehicles Max.&nbsp;</span><br></div><br><div><span style=\"font-size: 1.6rem;\">• 8 Aug - 22 Aug 2025 (2 Spots Left)</span></div></h3>\n\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\"><b>Motel accommodation and dinner in Windorah to start the tour, dinner at Mt Dare, and dinner, bed and breakfast at the Birdsville Hotel, as well as a scenic flight over the desert and flood plains from Birdsville at the end of the tour.</b><br><br>Join us for an in-depth and un-hurried 15-night tour of the Simpson Desert, featuring a full 10 days in the desert itself.&nbsp;<br><br>This tour is designed to fully immerse you in the remote beauty of the desert, travelling the lesser-used Southern tracks like the WAA Line and Rig Rd, as well as the more well-known spots like Poeppel Corner and the QAA and French Lines.&nbsp;<br><br>After a relaxing soak and 1 night stay at Dalhousie Springs, followed by two nights at Mt Dare to rest and resupply, we'll head to the remote Madigan Line in the north for another five days in the desert before returning to Birdsville for a final celebratory night. After breakfast the following morning, you will be treated to a fantastic scenic flight, capturing some of the country you have just driven from the air, a brilliant way to wrap up your time in the desert<br><br>No off-road driving experience is required, just a sense of adventure (though some camping experience and a good shake-down run of your gear is recommended). Full 4WD instruction will be provided along the way. If you want to truly experience the Simpson Desert, this is the tour for you.<br><br><b>Hire a fully equipped 4WD</b> for this tour in <b>Brisbane </b>from <a href=\"https://www.overlanderadventures.com.au/tag-along-tours\" class=\"text-danger text-primary\" target=\"_blank\">Overlander 4WD Hire</a> and receive our exclusive discount.<b><br></b><br><a href=\"simpson_desert.html\" class=\"text-primary\" target=\"_blank\"><i><b>FIND OUT MORE HERE</b></i></a><br></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-12 col-lg-7\">\n\t\t\t\t\t\t\t<div class=\"slider__image\">\n\t\t\t\t\t\t\t\t<div class=\"img-wrap\">\n\t\t\t\t\t\t\t\t\t<a href=\"simpson_desert.html\"><img src=\"@PROJECT_PATH@/assets/images/hd-simpson-saltlake-1.jpeg\" alt=\"Simpson Desert\" title></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"carousel-indicators\" mbr-if=\"showIndicators\">\n\t\t\t\t<li data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 1\" data-slide-to=\"1\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 2\" data-slide-to=\"2\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 3\" data-slide-to=\"3\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 4\" data-slide-to=\"4\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 5\" data-slide-to=\"5\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 6\" data-slide-to=\"6\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 7\" data-slide-to=\"7\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 8\" data-slide-to=\"8\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 9\" data-slide-to=\"9\"></li>\n\t\t\t</div>\n\n\t\t\t<div class=\"carousel-controls\" mbr-if=\"showArrows\">\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-prev\" role=\"button\" data-slide=\"prev\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-left mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Previous</span>\n\t\t\t\t</a>\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-next\" role=\"button\" data-slide=\"next\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Next</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_customHTML": "<section class=\"slider3 voyagem4_slider3 carousel slide testimonials-slider extSlider\" group=\"Sliders & Galleries\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider\" data-interval=\"false\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" inline>\n\t\t<input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" inline>\n\t\t<header>Show/Hide</header>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t<input type=\"checkbox\" title=\"Figure\" name=\"showFigure\" condition=\"showSubtitle\" checked>\n\t\t<input type=\"image\" title=\"Figure\" name=\"figure\" value=\"@PROJECT_PATH@/assets/images/compass.svg\" condition=\"showFigure && showSubtitle\">\n\t\t<header>Slider</header>\n\t\t<input type=\"range\" inline title=\"Count Items\" name=\"testimonialsSlides\" min=\"1\" max=\"10\" step=\"1\" value=\"1\">\n\t\t<input type=\"checkbox\" title=\"Show Indicators\" name=\"showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Show Arrows\" name=\"showArrows\">\n\t\t<input type=\"color\" title=\"Arrows/Indicators Color\" name=\"indicatorsColor\" value=\"#003d59\" condition=\"showArrows || showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n\t\t<input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"6000\" condition=\"showAutoplay\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background.jpg\">\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"2 BG Color\" name=\"bgColor2\" condition=\"bg.type == 'color'\" checked>\n\t\t<input type=\"color\" title=\"2 Background Color\" value=\"#cce4f0\" name=\"twoBgColor\" condition=\"bgColor2 && bg.type == 'color'\">\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\t<div class=\"two__background\"></div>\n\t<div class=\"container-fluid\">\n\n\t\t<div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n\t\t\t<div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n\t\t\t\t<div class=\"carousel-item\">\n\t\t\t\t\t<div class=\"media-container-row\">\n\t\t\t\t\t\t<div class=\"col-12 col-lg-4 offset-lg-1 slider__content\">\n\t\t\t\t\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">Simpson Desert Double Crossing. Windorah - Mt Dare -&nbsp; Birdsville. 15 Nights</h4>\n\t\t\t\t\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><div><br></div><div><span style=\"font-size: 1.6rem;\"> </span><span style=\"font-size: 1.6rem;\">$6207 for 1 or 2 people in one vehicle.</span><span style=\"font-size: 1.6rem;\"> </span><span style=\"font-size: 1.6rem;\">No trailers. 8 Vehicles Max.&nbsp;</span><br></div><br><div><span style=\"font-size: 1.6rem;\">• 8 Aug - 22 Aug 2025 (2 Places Available)</span></div></h3>\n\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\"><b>Motel accommodation and dinner in Windorah to start the tour, dinner at Mt Dare, and dinner, bed and breakfast at the Birdsville Hotel, as well as a scenic flight over the desert and flood plains from Birdsville at the end of the tour.</b><br><br>Join us for an in-depth and un-hurried 15-night tour of the Simpson Desert, featuring a full 10 days in the desert itself.&nbsp;<br><br>This tour is designed to fully immerse you in the remote beauty of the desert, travelling the lesser-used Southern tracks like the WAA Line and Rig Rd, as well as the more well-known spots like Poeppel Corner and the QAA and French Lines.&nbsp;<br><br>After a relaxing soak and 1 night stay at Dalhousie Springs, followed by two nights at Mt Dare to rest and resupply, we'll head to the remote Madigan Line in the north for another five days in the desert before returning to Birdsville for a final celebratory night. After breakfast the following morning, you will be treated to a fantastic scenic flight, capturing some of the country you have just driven from the air, a brilliant way to wrap up your time in the desert<br><br>No off-road driving experience is required, just a sense of adventure (though some camping experience and a good shake-down run of your gear is recommended). Full 4WD instruction will be provided along the way. If you want to truly experience the Simpson Desert, this is the tour for you.<br><br><b>Hire a fully equipped 4WD</b> for this tour in <b>Brisbane </b>from <a href=\"https://www.overlanderadventures.com.au/tag-along-tours\" class=\"text-danger text-primary\" target=\"_blank\">Overlander 4WD Hire</a> and receive our exclusive discount.<b><br></b><br><a href=\"simpson_desert.html\" class=\"text-primary\" target=\"_blank\"><i><b>FIND OUT MORE HERE</b></i></a><br></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-12 col-lg-7\">\n\t\t\t\t\t\t\t<div class=\"slider__image\">\n\t\t\t\t\t\t\t\t<div class=\"img-wrap\">\n\t\t\t\t\t\t\t\t\t<a href=\"simpson_desert.html\"><img src=\"@PROJECT_PATH@/assets/images/hd-simpson-saltlake-1.jpeg\" alt=\"Simpson Desert\" title></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"carousel-indicators\" mbr-if=\"showIndicators\">\n\t\t\t\t<li data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 1\" data-slide-to=\"1\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 2\" data-slide-to=\"2\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 3\" data-slide-to=\"3\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 4\" data-slide-to=\"4\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 5\" data-slide-to=\"5\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 6\" data-slide-to=\"6\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 7\" data-slide-to=\"7\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 8\" data-slide-to=\"8\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 9\" data-slide-to=\"9\"></li>\n\t\t\t</div>\n\n\t\t\t<div class=\"carousel-controls\" mbr-if=\"showArrows\">\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-prev\" role=\"button\" data-slide=\"prev\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-left mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Previous</span>\n\t\t\t\t</a>\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-next\" role=\"button\" data-slide=\"next\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Next</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
           "_anchor": "slider3-c9",
           "_isUserblock": true,
           "_cid": "sqtg540i6S",
@@ -2058,7 +2058,7 @@
           },
           "_name": "slider3",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"slider3 voyagem4_slider3 carousel slide testimonials-slider extSlider\" group=\"Sliders & Galleries\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider\" data-interval=\"false\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" inline>\n\t\t<input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" inline>\n\t\t<header>Show/Hide</header>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t<input type=\"checkbox\" title=\"Figure\" name=\"showFigure\" condition=\"showSubtitle\" checked>\n\t\t<input type=\"image\" title=\"Figure\" name=\"figure\" value condition=\"showFigure && showSubtitle\">\n\t\t<header>Slider</header>\n\t\t<input type=\"range\" inline title=\"Count Items\" name=\"testimonialsSlides\" min=\"1\" max=\"10\" step=\"1\" value=\"1\">\n\t\t<input type=\"checkbox\" title=\"Show Indicators\" name=\"showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Show Arrows\" name=\"showArrows\">\n\t\t<input type=\"color\" title=\"Arrows/Indicators Color\" name=\"indicatorsColor\" value=\"#003d59\" condition=\"showArrows || showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n\t\t<input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"6000\" condition=\"showAutoplay\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value>\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"2 BG Color\" name=\"bgColor2\" condition=\"bg.type == 'color'\" checked>\n\t\t<input type=\"color\" title=\"2 Background Color\" value=\"#cce4f0\" name=\"twoBgColor\" condition=\"bgColor2 && bg.type == 'color'\">\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\t<div class=\"two__background\"></div>\n\t<div class=\"container-fluid\">\n\n\t\t<div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n\t\t\t<div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n\t\t\t\t<div class=\"carousel-item\">\n\t\t\t\t\t<div class=\"media-container-row\">\n\t\t\t\t\t\t<div class=\"col-12 col-lg-4 offset-lg-1 slider__content\">\n\t\t\t\t\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">New Tour for 2025!<br><br>Beadell Highways Trek. Alice Springs to Coober Pedy.&nbsp;15 Nights</h4>\n\t\t\t\t\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><br>$5775 per vehicle incl. 2 people. 8 Vehicles Max. Off-road Camper Trailers ok.<div><br>• 14 May - 28 May 2025 (4 Spots Left)</div></h3>\n\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Starting with our included first night's accommodation at the Desert Palms Villas and dinner at Lasseters Hotel in Alice Springs, we take on several of the legendary Len Beadell's Central Australian \"Highways\" on this giant \"C-shaped\" trek. From Alice, we find the start of the <b>Gary Junction Highway</b>, following this deep into the desert past some remote Aboriginal Communities all the way into WA, before heading South on the very scenic and seldom travelled <b>Sandy Blight Road</b>. Emerging onto the <b>Great Central Road</b>, we visit the <b>Giles Meteorological Station</b> near Warakurna, and then onto <b>Surveyor General's Corner</b>, on the tri-state border of SA, NT and WA.&nbsp; Popping back out onto the Great Central once more, we refuel at Warburton before tackling the remote <b>Connie Sue Highway</b> Southwards into the <b>Great Victoria Desert</b>. From Neale Junction, it's a 900 km run East on the <b>Anne Beadell Highway</b> through incredibly remote desert country. Along the way, there are several points of interest, including the most remote fuel stop in Australia, Ilkurlka Roadhouse, and the <b>Emu Field Nuclear Test Area</b>. We emerge back out into \"civilisation\" on the Stuart Highway at Coober Pedy, where we will have a night in the underground hotel, and our final dinner together.&nbsp;<br>\n<br>Some off-road driving experience is preferred for this tour - it is very remote and the corrugations can be quite rough.<br><br><a href=\"beadell_highways_trek.html\" class=\"text-danger\" target=\"_blank\">FIND OUT MORE HERE</a><b><br></b><br><b>Email Tony for more information and bookings</b>: <a href=\"contact.html\" class=\"text-danger\" target=\"_blank\">tony@4x4treks.com.au&nbsp;</a><br></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-12 col-lg-7\">\n\t\t\t\t\t\t\t<div class=\"slider__image\">\n\t\t\t\t\t\t\t\t<div class=\"img-wrap\">\n\t\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/20220628-122302.jpg\" alt title>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"carousel-indicators\" mbr-if=\"showIndicators\">\n\t\t\t\t<li data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 1\" data-slide-to=\"1\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 2\" data-slide-to=\"2\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 3\" data-slide-to=\"3\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 4\" data-slide-to=\"4\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 5\" data-slide-to=\"5\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 6\" data-slide-to=\"6\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 7\" data-slide-to=\"7\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 8\" data-slide-to=\"8\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 9\" data-slide-to=\"9\"></li>\n\t\t\t</div>\n\n\t\t\t<div class=\"carousel-controls\" mbr-if=\"showArrows\">\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-prev\" role=\"button\" data-slide=\"prev\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-left mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Previous</span>\n\t\t\t\t</a>\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-next\" role=\"button\" data-slide=\"next\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Next</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_customHTML": "<section class=\"slider3 voyagem4_slider3 carousel slide testimonials-slider extSlider\" group=\"Sliders & Galleries\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider\" data-interval=\"false\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" inline>\n\t\t<input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" inline>\n\t\t<header>Show/Hide</header>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t<input type=\"checkbox\" title=\"Figure\" name=\"showFigure\" condition=\"showSubtitle\" checked>\n\t\t<input type=\"image\" title=\"Figure\" name=\"figure\" value condition=\"showFigure && showSubtitle\">\n\t\t<header>Slider</header>\n\t\t<input type=\"range\" inline title=\"Count Items\" name=\"testimonialsSlides\" min=\"1\" max=\"10\" step=\"1\" value=\"1\">\n\t\t<input type=\"checkbox\" title=\"Show Indicators\" name=\"showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Show Arrows\" name=\"showArrows\">\n\t\t<input type=\"color\" title=\"Arrows/Indicators Color\" name=\"indicatorsColor\" value=\"#003d59\" condition=\"showArrows || showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n\t\t<input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"6000\" condition=\"showAutoplay\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value>\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"2 BG Color\" name=\"bgColor2\" condition=\"bg.type == 'color'\" checked>\n\t\t<input type=\"color\" title=\"2 Background Color\" value=\"#cce4f0\" name=\"twoBgColor\" condition=\"bgColor2 && bg.type == 'color'\">\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\t<div class=\"two__background\"></div>\n\t<div class=\"container-fluid\">\n\n\t\t<div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n\t\t\t<div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n\t\t\t\t<div class=\"carousel-item\">\n\t\t\t\t\t<div class=\"media-container-row\">\n\t\t\t\t\t\t<div class=\"col-12 col-lg-4 offset-lg-1 slider__content\">\n\t\t\t\t\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\"><b>New Tour for 2025!</b><br><br>Beadell Highways Trek. Alice Springs to Coober Pedy.&nbsp;15 Nights</h4>\n\t\t\t\t\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><br>$5775 per vehicle incl. 2 people. 8 Vehicles Max. Off-road Camper Trailers ok.<div><br>• 14 May - 28 May 2025 (4 Places Available)</div></h3>\n\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Starting with our included first night's accommodation at the Desert Palms Villas and dinner at Lasseters Hotel in Alice Springs, we take on several of the legendary Len Beadell's Central Australian \"Highways\" on this giant \"C-shaped\" trek. From Alice, we find the start of the <b>Gary Junction Highway</b>, following this deep into the desert past some remote Aboriginal Communities all the way into WA, before heading South on the very scenic and seldom travelled <b>Sandy Blight Road</b>. Emerging onto the <b>Great Central Road</b>, we visit the <b>Giles Meteorological Station</b> near Warakurna, and then onto <b>Surveyor General's Corner</b>, on the tri-state border of SA, NT and WA.&nbsp; Popping back out onto the Great Central once more, we refuel at Warburton before tackling the remote <b>Connie Sue Highway</b> Southwards into the <b>Great Victoria Desert</b>. From Neale Junction, it's a 900 km run East on the <b>Anne Beadell Highway</b> through incredibly remote desert country. Along the way, there are several points of interest, including the most remote fuel stop in Australia, Ilkurlka Roadhouse, and the <b>Emu Field Nuclear Test Area</b>. We emerge back out into \"civilisation\" on the Stuart Highway at Coober Pedy, where we will have a night in the underground hotel, and our final dinner together.&nbsp;<br>\n<br>Some off-road driving experience is preferred for this tour - it is very remote and the corrugations can be quite rough.<br><br><a href=\"beadell_highways_trek.html\" class=\"text-danger\" target=\"_blank\">FIND OUT MORE HERE</a><b><br></b><br><b>Email Tony for more information and bookings</b>: <a href=\"contact.html\" class=\"text-danger\" target=\"_blank\">tony@4x4treks.com.au&nbsp;</a><br></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-12 col-lg-7\">\n\t\t\t\t\t\t\t<div class=\"slider__image\">\n\t\t\t\t\t\t\t\t<div class=\"img-wrap\">\n\t\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/20220628-122302.jpg\" alt title>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"carousel-indicators\" mbr-if=\"showIndicators\">\n\t\t\t\t<li data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 1\" data-slide-to=\"1\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 2\" data-slide-to=\"2\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 3\" data-slide-to=\"3\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 4\" data-slide-to=\"4\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 5\" data-slide-to=\"5\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 6\" data-slide-to=\"6\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 7\" data-slide-to=\"7\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 8\" data-slide-to=\"8\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 9\" data-slide-to=\"9\"></li>\n\t\t\t</div>\n\n\t\t\t<div class=\"carousel-controls\" mbr-if=\"showArrows\">\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-prev\" role=\"button\" data-slide=\"prev\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-left mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Previous</span>\n\t\t\t\t</a>\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-next\" role=\"button\" data-slide=\"next\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Next</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
           "_anchor": "slider3-ud",
           "_isUserblock": true,
           "_cid": "u853yS6QyR",
@@ -2172,6 +2172,717 @@
         {
           "alias": false,
           "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "overflow": "hidden",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bgColor2) and (@bg-type = 'color')": {
+              ".two__background:before": {
+                "content": "''",
+                "position": "absolute",
+                "top": "0",
+                "right": "0",
+                "max-width": "49%",
+                "width": "100%",
+                "height": "100%",
+                "background-color": "@twoBgColor",
+                "z-index": "0"
+              }
+            },
+            ".carousel-inner when (@showArrows)": {
+              "margin-bottom": "70px"
+            },
+            ".slider__content": {
+              "padding-top": "52px",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#050505",
+              "margin-bottom": "13px",
+              "position": "relative",
+              "z-index": "1",
+              "& when (@showFigure)": {
+                "&:after": {
+                  "content": "''",
+                  "position": "absolute",
+                  "left": "-92px",
+                  "top": "147px",
+                  "width": "85px",
+                  "height": "85px",
+                  "z-index": "-1",
+                  "background-repeat": "no-repeat",
+                  "background-size": "cover",
+                  "background-image": "url(@figure)"
+                }
+              }
+            },
+            ".mbr-section-title": {
+              "margin-bottom": "33px"
+            },
+            ".slider__image": {
+              "margin-left": "11.8%"
+            },
+            ".img-wrap": {
+              "max-width": "100%",
+              "img": {
+                "width": "100%",
+                "object-fit": "cover"
+              }
+            },
+            ".carousel-indicators": {
+              "display": "flex",
+              "flex-direction": "column",
+              "margin": "0",
+              "transition": "all 0.25s",
+              "height": "100%",
+              "width": "50px",
+              "left": "44.5%",
+              "right": "auto",
+              ".active": {
+                "background": "@indicatorsColor",
+                "opacity": "1",
+                "border": "none",
+                "&:before": {
+                  "content": "''",
+                  "display": "block",
+                  "position": "absolute",
+                  "top": "-14px",
+                  "left": "-14px",
+                  "width": "40px",
+                  "height": "40px",
+                  "border-radius": "50%",
+                  "background-color": "inherit",
+                  "opacity": "0.2"
+                }
+              },
+              "li": {
+                "width": "12px",
+                "height": "12px",
+                "border": "none",
+                "margin-bottom": "32px",
+                "box-sizing": "border-box",
+                "background-color": "@indicatorsColor",
+                "border-radius": "50%",
+                "position": "relative",
+                "opacity": "0.2"
+              }
+            },
+            ".carousel-controls": {
+              "a": {
+                "border-radius": "50%",
+                "border": "2px solid @indicatorsColor",
+                "background-color": "transparent",
+                "span": {
+                  "transition": "all 0.3s",
+                  "color": "@indicatorsColor",
+                  "font-size": "18px"
+                },
+                "&:hover": {
+                  ".mobi-mbri-left": {
+                    "transform": "translateX(-5px)"
+                  },
+                  ".mobi-mbri-right": {
+                    "transform": "translateX(5px)"
+                  }
+                }
+              },
+              ".carousel-control-next, .carousel-control-prev": {
+                "opacity": "1",
+                "width": "44px",
+                "height": "44px"
+              },
+              ".carousel-control-next": {
+                "right": "40%",
+                "bottom": "5px",
+                "top": "auto",
+                "left": "auto"
+              },
+              ".carousel-control-prev": {
+                "right": "45%",
+                "bottom": "5px",
+                "top": "auto",
+                "left": "auto"
+              }
+            },
+            "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
+              ".image-element": {
+                "min-width": "50%"
+              },
+              ".media-container-row": {
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".two__background:before": {
+                "max-width": "90%"
+              },
+              ".carousel-indicators": {
+                "flex-direction": "row",
+                "height": "50px",
+                "width": "100%",
+                "left": "auto",
+                "bottom": "0",
+                "right": "auto",
+                "li": {
+                  "margin": "0 16px"
+                }
+              },
+              ".slider__content": {
+                "padding-top": "0",
+                "margin-bottom": "72px"
+              },
+              ".mbr-section-subtitle": {
+                "margin-bottom": "6px",
+                "&:after": {
+                  "content": "none"
+                }
+              },
+              ".mbr-section-title": {
+                "margin-bottom": "18px"
+              },
+              ".slider__image": {
+                "margin-left": "0",
+                "margin-bottom": "100px"
+              },
+              ".img-wrap": {
+                "width": "100%"
+              },
+              ".carousel-controls": {
+                "display": "none"
+              },
+              ".carousel-inner": {
+                "margin-bottom": "0"
+              }
+            },
+            ".mbr-text": {
+              "color": "#000000"
+            }
+          },
+          "_name": "slider3",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"slider3 voyagem4_slider3 carousel slide testimonials-slider extSlider\" group=\"Sliders & Galleries\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider\" data-interval=\"false\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" inline>\n\t\t<input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" inline>\n\t\t<header>Show/Hide</header>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t<input type=\"checkbox\" title=\"Figure\" name=\"showFigure\" condition=\"showSubtitle\" checked>\n\t\t<input type=\"image\" title=\"Figure\" name=\"figure\" value=\"@PROJECT_PATH@/assets/images/compass-1.svg\" condition=\"showFigure && showSubtitle\">\n\t\t<header>Slider</header>\n\t\t<input type=\"range\" inline title=\"Count Items\" name=\"testimonialsSlides\" min=\"1\" max=\"10\" step=\"1\" value=\"1\">\n\t\t<input type=\"checkbox\" title=\"Show Indicators\" name=\"showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Show Arrows\" name=\"showArrows\">\n\t\t<input type=\"color\" title=\"Arrows/Indicators Color\" name=\"indicatorsColor\" value=\"#003d59\" condition=\"showArrows || showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n\t\t<input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"6000\" condition=\"showAutoplay\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value>\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"2 BG Color\" name=\"bgColor2\" condition=\"bg.type == 'color'\" checked>\n\t\t<input type=\"color\" title=\"2 Background Color\" value=\"#cce4f0\" name=\"twoBgColor\" condition=\"bgColor2 && bg.type == 'color'\">\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\t<div class=\"two__background\"></div>\n\t<div class=\"container-fluid\">\n\n\t\t<div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n\t\t\t<div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n\t\t\t\t<div class=\"carousel-item\">\n\t\t\t\t\t<div class=\"media-container-row\">\n\t\t\t\t\t\t<div class=\"col-12 col-lg-4 offset-lg-1 slider__content\">\n\t\t\t\t\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">*Arnhem Land &amp; Kakadu 4WD Discovery Tour<div>21 Days</div></h4>\n\t\t\t\t\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><br><div>• 10 - 30 August 2025</div><div><br><div><b>From </b>$11,500 per vehicle including 2 people</div><br><div>Off-road Camper trailers OK</div></div></h3>\n\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\"><b>*This tour is operated by our trusted affiliate business \"<i>See Around Corners 4WD Tours</i>\"</b><br><br>Experience the diversity of indigenous culture and landscape across Kakadu and Arnhem Land on this once in a lifetime adventure.\n<br>\n<br>Start with a sunset cruise on Yellow Waters before spending a few days exploring the best Kakadu has to offer with your accredited guide.\n<br>\n<br>Then we travel across North West Arnhem Land to visit ancient rock art sites and learn about failed European colonisation at Victoria Settlement.\n<br>\n<br>After regenerating at an idyllic beach side camp, we move on to have a bit of fun with some Jumping Crocodiles before heading  into North East Arnhem Land.\n<br>\n<br>Travelling the Central Arnhem Highway, be amazed by the ancient landscape and giant termite mounds.\n<br>\n<br>In North East Arnhem Land you will experience Yolngu culture first hand.,\n<br>\n<br>Retracing our tracks toward the Stuart Highway, we will experience the Jawoyn culture before finishing our 21 day adventure with a cruise on Nitmiluk Gorge.<br><br>Hire a fully equipped 4WD for this tour in Darwin from <a href=\"https://www.overlanderadventures.com.au/tag-along-tours\" class=\"text-danger\" target=\"_blank\">Overlander 4WD Hire</a> and receive our exclusive discount.<br><br><a href=\"https://www.seearoundcorners.com/arnhemland\" class=\"text-primary\" target=\"_blank\"><b><i>FIND OUT MORE HERE</i></b></a><br></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-12 col-lg-7\">\n\t\t\t\t\t\t\t<div class=\"slider__image\">\n\t\t\t\t\t\t\t\t<div class=\"img-wrap\">\n\t\t\t\t\t\t\t\t\t<a href=\"https://www.seearoundcorners.com/arnhemland\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/sac-1-2475x1650.png\" alt=\"Arnhem Land and Kakadu\" title></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"carousel-indicators\" mbr-if=\"showIndicators\">\n\t\t\t\t<li data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 1\" data-slide-to=\"1\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 2\" data-slide-to=\"2\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 3\" data-slide-to=\"3\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 4\" data-slide-to=\"4\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 5\" data-slide-to=\"5\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 6\" data-slide-to=\"6\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 7\" data-slide-to=\"7\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 8\" data-slide-to=\"8\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 9\" data-slide-to=\"9\"></li>\n\t\t\t</div>\n\n\t\t\t<div class=\"carousel-controls\" mbr-if=\"showArrows\">\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-prev\" role=\"button\" data-slide=\"prev\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-left mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Previous</span>\n\t\t\t\t</a>\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-next\" role=\"button\" data-slide=\"next\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Next</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_anchor": "slider3-lf",
+          "_isUserblock": true,
+          "_cid": "tnMwmjnsxN",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "P": {
+              "color": "#767676"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_name": "header16",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' &amp;&amp; bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"\" parallax=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#4b3330\" selected=\"\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Reviews from our 2023 season</b></p>\n                <div mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">LEARN MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_anchor": "header16-vb",
+          "_isUserblock": true,
+          "_cid": "uqjefIxnyV",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "overflow": "hidden",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bgColor2) and (@bg-type = 'color')": {
+              ".two__background:before": {
+                "content": "''",
+                "position": "absolute",
+                "top": "0",
+                "right": "0",
+                "max-width": "49%",
+                "width": "100%",
+                "height": "100%",
+                "background-color": "@twoBgColor",
+                "z-index": "0"
+              }
+            },
+            ".carousel-inner when (@showArrows)": {
+              "margin-bottom": "70px"
+            },
+            ".slider__content": {
+              "padding-top": "52px",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#050505",
+              "margin-bottom": "13px",
+              "position": "relative",
+              "z-index": "1",
+              "& when (@showFigure)": {
+                "&:after": {
+                  "content": "''",
+                  "position": "absolute",
+                  "left": "-92px",
+                  "top": "147px",
+                  "width": "85px",
+                  "height": "85px",
+                  "z-index": "-1",
+                  "background-repeat": "no-repeat",
+                  "background-size": "cover",
+                  "background-image": "url(@figure)"
+                }
+              }
+            },
+            ".mbr-section-title": {
+              "margin-bottom": "33px"
+            },
+            ".slider__image": {
+              "margin-left": "11.8%"
+            },
+            ".img-wrap": {
+              "max-width": "100%",
+              "img": {
+                "width": "100%",
+                "object-fit": "cover"
+              }
+            },
+            ".carousel-indicators": {
+              "display": "flex",
+              "flex-direction": "column",
+              "margin": "0",
+              "transition": "all 0.25s",
+              "height": "100%",
+              "width": "50px",
+              "left": "44.5%",
+              "right": "auto",
+              ".active": {
+                "background": "@indicatorsColor",
+                "opacity": "1",
+                "border": "none",
+                "&:before": {
+                  "content": "''",
+                  "display": "block",
+                  "position": "absolute",
+                  "top": "-14px",
+                  "left": "-14px",
+                  "width": "40px",
+                  "height": "40px",
+                  "border-radius": "50%",
+                  "background-color": "inherit",
+                  "opacity": "0.2"
+                }
+              },
+              "li": {
+                "width": "12px",
+                "height": "12px",
+                "border": "none",
+                "margin-bottom": "32px",
+                "box-sizing": "border-box",
+                "background-color": "@indicatorsColor",
+                "border-radius": "50%",
+                "position": "relative",
+                "opacity": "0.2"
+              }
+            },
+            ".carousel-controls": {
+              "a": {
+                "border-radius": "50%",
+                "border": "2px solid @indicatorsColor",
+                "background-color": "transparent",
+                "span": {
+                  "transition": "all 0.3s",
+                  "color": "@indicatorsColor",
+                  "font-size": "18px"
+                },
+                "&:hover": {
+                  ".mobi-mbri-left": {
+                    "transform": "translateX(-5px)"
+                  },
+                  ".mobi-mbri-right": {
+                    "transform": "translateX(5px)"
+                  }
+                }
+              },
+              ".carousel-control-next, .carousel-control-prev": {
+                "opacity": "1",
+                "width": "44px",
+                "height": "44px"
+              },
+              ".carousel-control-next": {
+                "right": "40%",
+                "bottom": "5px",
+                "top": "auto",
+                "left": "auto"
+              },
+              ".carousel-control-prev": {
+                "right": "45%",
+                "bottom": "5px",
+                "top": "auto",
+                "left": "auto"
+              }
+            },
+            "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
+              ".image-element": {
+                "min-width": "50%"
+              },
+              ".media-container-row": {
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".two__background:before": {
+                "max-width": "90%"
+              },
+              ".carousel-indicators": {
+                "flex-direction": "row",
+                "height": "50px",
+                "width": "100%",
+                "left": "auto",
+                "bottom": "0",
+                "right": "auto",
+                "li": {
+                  "margin": "0 16px"
+                }
+              },
+              ".slider__content": {
+                "padding-top": "0",
+                "margin-bottom": "72px"
+              },
+              ".mbr-section-subtitle": {
+                "margin-bottom": "6px",
+                "&:after": {
+                  "content": "none"
+                }
+              },
+              ".mbr-section-title": {
+                "margin-bottom": "18px"
+              },
+              ".slider__image": {
+                "margin-left": "0",
+                "margin-bottom": "100px"
+              },
+              ".img-wrap": {
+                "width": "100%"
+              },
+              ".carousel-controls": {
+                "display": "none"
+              },
+              ".carousel-inner": {
+                "margin-bottom": "0"
+              }
+            },
+            ".mbr-text": {
+              "color": "#000000"
+            }
+          },
+          "_name": "slider3",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"slider3 voyagem4_slider3 carousel slide testimonials-slider extSlider\" group=\"Sliders & Galleries\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider\" data-interval=\"false\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" inline>\n\t\t<input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" inline>\n\t\t<header>Show/Hide</header>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t<input type=\"checkbox\" title=\"Figure\" name=\"showFigure\" condition=\"showSubtitle\" checked>\n\t\t<input type=\"image\" title=\"Figure\" name=\"figure\" value condition=\"showFigure && showSubtitle\">\n\t\t<header>Slider</header>\n\t\t<input type=\"range\" inline title=\"Count Items\" name=\"testimonialsSlides\" min=\"1\" max=\"10\" step=\"1\" value=\"1\">\n\t\t<input type=\"checkbox\" title=\"Show Indicators\" name=\"showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Show Arrows\" name=\"showArrows\">\n\t\t<input type=\"color\" title=\"Arrows/Indicators Color\" name=\"indicatorsColor\" value=\"#003d59\" condition=\"showArrows || showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n\t\t<input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"6000\" condition=\"showAutoplay\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value>\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"2 BG Color\" name=\"bgColor2\" condition=\"bg.type == 'color'\" checked>\n\t\t<input type=\"color\" title=\"2 Background Color\" value=\"#cce4f0\" name=\"twoBgColor\" condition=\"bgColor2 && bg.type == 'color'\">\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\t<div class=\"two__background\"></div>\n\t<div class=\"container-fluid\">\n\n\t\t<div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n\t\t\t<div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n\t\t\t\t<div class=\"carousel-item\">\n\t\t\t\t\t<div class=\"media-container-row\">\n\t\t\t\t\t\t<div class=\"col-12 col-lg-4 offset-lg-1 slider__content\">\n\t\t\t\t\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">*East Arnhem Land Explorer 10 Days</h4>\n\t\t\t\t\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><br><div>• 3 - 12 September 2025</div><div><br><div><b>From </b>$7500 per vehicle including 2 people</div><br><div>Off-road Camper trailers OK (2 nights in tent)</div></div></h3>\n\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\"><b>*This tour is operated by our trusted affiliate business \"<i>See Around Corners 4WD Tours</i>\"</b><br><br>Embark on a unique 10-day adventure along the Central Arnhem Highway, leading to the homelands of the Yolngu people in East Arnhem Land.\n<br>\n<br>We will split our time between Nhulunbuy and one of the local homelands. You will experience local beaches including Macassan and Little Bondi as well and Daliwuy Bay.\n<br>\n<br>Gain deep insights to the local Yolngu culture with a walking tour with a senior elder. As well as visiting the world famous art gallery at Yirrkala as part of your tour of the Nhulunbuy and Yirrkala town.\n<br>\n<br>There will be some fun to be had with a day trip to Bremer Island to explore remote beaches and enjoy a swim.\n<br>\n<br>Camping overnight in a local homeland, you will gain an appreciation of this unique Australian landscape.\n<br>\n<br>Our journey is a unique immersion into East Arnhem Land, complemented by carefully selected \"must-do\" experiences.\n<br>\n<br>This trip is designed to accommodate all levels of 4WD and camping experience. It is off-road camper trailer friendly, with just two nights where a tent will be required. Your comfort and safety are our top priorities as you embark on this once-in-a-lifetime adventure into the heart of Arnhem Land<br><br>Hire a fully equipped 4WD for this tour in Darwin from <a href=\"https://www.overlanderadventures.com.au/tag-along-tours\" class=\"text-danger\" target=\"_blank\">Overlander 4WD Hire</a> and receive our exclusive discount.<br><br><a href=\"https://www.seearoundcorners.com/arnhemland-1\" class=\"text-primary\" target=\"_blank\"><b><i>FIND OUT MORE HERE</i></b></a><br></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-12 col-lg-7\">\n\t\t\t\t\t\t\t<div class=\"slider__image\">\n\t\t\t\t\t\t\t\t<div class=\"img-wrap\">\n\t\t\t\t\t\t\t\t\t<a href=\"https://www.seearoundcorners.com/arnhemland-1\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/sac3-1.jpeg\" alt=\"Arnhem Land \" title></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"carousel-indicators\" mbr-if=\"showIndicators\">\n\t\t\t\t<li data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 1\" data-slide-to=\"1\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 2\" data-slide-to=\"2\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 3\" data-slide-to=\"3\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 4\" data-slide-to=\"4\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 5\" data-slide-to=\"5\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 6\" data-slide-to=\"6\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 7\" data-slide-to=\"7\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 8\" data-slide-to=\"8\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 9\" data-slide-to=\"9\"></li>\n\t\t\t</div>\n\n\t\t\t<div class=\"carousel-controls\" mbr-if=\"showArrows\">\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-prev\" role=\"button\" data-slide=\"prev\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-left mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Previous</span>\n\t\t\t\t</a>\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-next\" role=\"button\" data-slide=\"next\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Next</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_anchor": "slider3-ve",
+          "_isUserblock": true,
+          "_cid": "uqjj2wVYtW",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "P": {
+              "color": "#767676"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_name": "header16",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' &amp;&amp; bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"\" parallax=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#4b3330\" selected=\"\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Reviews from our 2023 season</b></p>\n                <div mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">LEARN MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_anchor": "header16-vf",
+          "_isUserblock": true,
+          "_cid": "uqjj3HtF65",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "overflow": "hidden",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bgColor2) and (@bg-type = 'color')": {
+              ".two__background:before": {
+                "content": "''",
+                "position": "absolute",
+                "top": "0",
+                "right": "0",
+                "max-width": "49%",
+                "width": "100%",
+                "height": "100%",
+                "background-color": "@twoBgColor",
+                "z-index": "0"
+              }
+            },
+            ".carousel-inner when (@showArrows)": {
+              "margin-bottom": "70px"
+            },
+            ".slider__content": {
+              "padding-top": "52px",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#050505",
+              "margin-bottom": "13px",
+              "position": "relative",
+              "z-index": "1",
+              "& when (@showFigure)": {
+                "&:after": {
+                  "content": "''",
+                  "position": "absolute",
+                  "left": "-92px",
+                  "top": "147px",
+                  "width": "85px",
+                  "height": "85px",
+                  "z-index": "-1",
+                  "background-repeat": "no-repeat",
+                  "background-size": "cover",
+                  "background-image": "url(@figure)"
+                }
+              }
+            },
+            ".mbr-section-title": {
+              "margin-bottom": "33px"
+            },
+            ".slider__image": {
+              "margin-left": "11.8%"
+            },
+            ".img-wrap": {
+              "max-width": "100%",
+              "img": {
+                "width": "100%",
+                "object-fit": "cover"
+              }
+            },
+            ".carousel-indicators": {
+              "display": "flex",
+              "flex-direction": "column",
+              "margin": "0",
+              "transition": "all 0.25s",
+              "height": "100%",
+              "width": "50px",
+              "left": "44.5%",
+              "right": "auto",
+              ".active": {
+                "background": "@indicatorsColor",
+                "opacity": "1",
+                "border": "none",
+                "&:before": {
+                  "content": "''",
+                  "display": "block",
+                  "position": "absolute",
+                  "top": "-14px",
+                  "left": "-14px",
+                  "width": "40px",
+                  "height": "40px",
+                  "border-radius": "50%",
+                  "background-color": "inherit",
+                  "opacity": "0.2"
+                }
+              },
+              "li": {
+                "width": "12px",
+                "height": "12px",
+                "border": "none",
+                "margin-bottom": "32px",
+                "box-sizing": "border-box",
+                "background-color": "@indicatorsColor",
+                "border-radius": "50%",
+                "position": "relative",
+                "opacity": "0.2"
+              }
+            },
+            ".carousel-controls": {
+              "a": {
+                "border-radius": "50%",
+                "border": "2px solid @indicatorsColor",
+                "background-color": "transparent",
+                "span": {
+                  "transition": "all 0.3s",
+                  "color": "@indicatorsColor",
+                  "font-size": "18px"
+                },
+                "&:hover": {
+                  ".mobi-mbri-left": {
+                    "transform": "translateX(-5px)"
+                  },
+                  ".mobi-mbri-right": {
+                    "transform": "translateX(5px)"
+                  }
+                }
+              },
+              ".carousel-control-next, .carousel-control-prev": {
+                "opacity": "1",
+                "width": "44px",
+                "height": "44px"
+              },
+              ".carousel-control-next": {
+                "right": "40%",
+                "bottom": "5px",
+                "top": "auto",
+                "left": "auto"
+              },
+              ".carousel-control-prev": {
+                "right": "45%",
+                "bottom": "5px",
+                "top": "auto",
+                "left": "auto"
+              }
+            },
+            "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
+              ".image-element": {
+                "min-width": "50%"
+              },
+              ".media-container-row": {
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".two__background:before": {
+                "max-width": "90%"
+              },
+              ".carousel-indicators": {
+                "flex-direction": "row",
+                "height": "50px",
+                "width": "100%",
+                "left": "auto",
+                "bottom": "0",
+                "right": "auto",
+                "li": {
+                  "margin": "0 16px"
+                }
+              },
+              ".slider__content": {
+                "padding-top": "0",
+                "margin-bottom": "72px"
+              },
+              ".mbr-section-subtitle": {
+                "margin-bottom": "6px",
+                "&:after": {
+                  "content": "none"
+                }
+              },
+              ".mbr-section-title": {
+                "margin-bottom": "18px"
+              },
+              ".slider__image": {
+                "margin-left": "0",
+                "margin-bottom": "100px"
+              },
+              ".img-wrap": {
+                "width": "100%"
+              },
+              ".carousel-controls": {
+                "display": "none"
+              },
+              ".carousel-inner": {
+                "margin-bottom": "0"
+              }
+            },
+            ".mbr-text": {
+              "color": "#000000"
+            }
+          },
+          "_name": "slider3",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"slider3 voyagem4_slider3 carousel slide testimonials-slider extSlider\" group=\"Sliders & Galleries\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider\" data-interval=\"false\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" inline>\n\t\t<input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" inline>\n\t\t<header>Show/Hide</header>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t<input type=\"checkbox\" title=\"Figure\" name=\"showFigure\" condition=\"showSubtitle\" checked>\n\t\t<input type=\"image\" title=\"Figure\" name=\"figure\" value condition=\"showFigure && showSubtitle\">\n\t\t<header>Slider</header>\n\t\t<input type=\"range\" inline title=\"Count Items\" name=\"testimonialsSlides\" min=\"1\" max=\"10\" step=\"1\" value=\"1\">\n\t\t<input type=\"checkbox\" title=\"Show Indicators\" name=\"showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Show Arrows\" name=\"showArrows\">\n\t\t<input type=\"color\" title=\"Arrows/Indicators Color\" name=\"indicatorsColor\" value=\"#003d59\" condition=\"showArrows || showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n\t\t<input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"6000\" condition=\"showAutoplay\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value>\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"2 BG Color\" name=\"bgColor2\" condition=\"bg.type == 'color'\" checked>\n\t\t<input type=\"color\" title=\"2 Background Color\" value=\"#cce4f0\" name=\"twoBgColor\" condition=\"bgColor2 && bg.type == 'color'\">\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\t<div class=\"two__background\"></div>\n\t<div class=\"container-fluid\">\n\n\t\t<div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n\t\t\t<div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n\t\t\t\t<div class=\"carousel-item\">\n\t\t\t\t\t<div class=\"media-container-row\">\n\t\t\t\t\t\t<div class=\"col-12 col-lg-4 offset-lg-1 slider__content\">\n\t\t\t\t\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">*Kimberley 4WD Wanderer Tour<div>26 Days</div></h4>\n\t\t\t\t\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><br><div><span style=\"font-size: 1.6rem;\">• 7 July - 1 August</span><br></div><div><br><div><b>From </b>$8250 per vehicle including 2 people</div><br><div>Off-road Camper trailers OK</div></div></h3>\n\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\"><b>*This tour is operated by our trusted affiliate business \"<i>See Around Corners 4WD Tours</i>\"</b><br><br>We travel through the best the Kimberley has to offer.  Ticking off iconic locations while avoiding the crowds.  Key highlights include -  Wolfe Creek, Old Halls Creek, Purnululu, Kununurra, Lake  Argyle, Karunjie Track, El Questro, Home Valley Station, Gibb River Road, Mitchell Falls, Kalumburu, Bell Gorge, Mt Elizabeth Station, Mt Hart Wilderness Lodge, Windjana Gorge and Tunnel Creek.<br><br>This is the ultimate trip to the Kimberley at a relaxed pace with multiple nights in specific, out of the way places, that are not crowded.<br><br>Hire a fully equipped 4WD for this tour in Darwin from <a href=\"https://www.overlanderadventures.com.au/tag-along-tours\" class=\"text-danger\" target=\"_blank\">Overlander 4WD Hire</a> and receive our exclusive discount.<br><br><a href=\"https://www.seearoundcorners.com/kimberley\" class=\"text-primary\" target=\"_blank\"><b><i>FIND OUT MORE HERE</i></b></a><br></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-12 col-lg-7\">\n\t\t\t\t\t\t\t<div class=\"slider__image\">\n\t\t\t\t\t\t\t\t<div class=\"img-wrap\">\n\t\t\t\t\t\t\t\t\t<a href=\"https://www.seearoundcorners.com/kimberley\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/sac2.jpg\" alt=\"Kimberley\" title></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"carousel-indicators\" mbr-if=\"showIndicators\">\n\t\t\t\t<li data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 1\" data-slide-to=\"1\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 2\" data-slide-to=\"2\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 3\" data-slide-to=\"3\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 4\" data-slide-to=\"4\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 5\" data-slide-to=\"5\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 6\" data-slide-to=\"6\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 7\" data-slide-to=\"7\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 8\" data-slide-to=\"8\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 9\" data-slide-to=\"9\"></li>\n\t\t\t</div>\n\n\t\t\t<div class=\"carousel-controls\" mbr-if=\"showArrows\">\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-prev\" role=\"button\" data-slide=\"prev\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-left mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Previous</span>\n\t\t\t\t</a>\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-next\" role=\"button\" data-slide=\"next\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Next</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_anchor": "slider3-vc",
+          "_isUserblock": true,
+          "_cid": "uqjeovJiuM",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "P": {
+              "color": "#767676"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          },
+          "_name": "header16",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' &amp;&amp; bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"\" parallax=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#4b3330\" selected=\"\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Reviews from our 2023 season</b></p>\n                <div mbr-buttons=\"\" mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">LEARN MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_anchor": "header16-vd",
+          "_isUserblock": true,
+          "_cid": "uqjepGD2Do",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
             "& when not (@fullScreen)": {
               "padding-top": "(@paddingTop * 15px)",
               "padding-bottom": "(@paddingBottom * 15px)"
@@ -2192,7 +2903,7 @@
           },
           "_name": "header16",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>&nbsp;South Island 4X4 Treks</b><br><b>Accommodated Tour</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">LEARN MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                    FULL WIDTH INTRO\n                </h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>&nbsp;South Island 4X4 Treks</b><br><b>Accommodated Tour - 2026 Tour Bookings Now Open</b></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">LEARN MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_anchor": "header16-mb",
           "_isUserblock": true,
           "_cid": "trVsYH7Uct",
@@ -2397,325 +3108,10 @@
           },
           "_name": "slider3",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"slider3 voyagem4_slider3 carousel slide testimonials-slider extSlider\" group=\"Sliders & Galleries\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider\" data-interval=\"false\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" inline>\n\t\t<input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" inline>\n\t\t<header>Show/Hide</header>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t<input type=\"checkbox\" title=\"Figure\" name=\"showFigure\" condition=\"showSubtitle\" checked>\n\t\t<input type=\"image\" title=\"Figure\" name=\"figure\" value=\"@PROJECT_PATH@/assets/images/compass-1.svg\" condition=\"showFigure && showSubtitle\">\n\t\t<header>Slider</header>\n\t\t<input type=\"range\" inline title=\"Count Items\" name=\"testimonialsSlides\" min=\"1\" max=\"10\" step=\"1\" value=\"1\">\n\t\t<input type=\"checkbox\" title=\"Show Indicators\" name=\"showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Show Arrows\" name=\"showArrows\">\n\t\t<input type=\"color\" title=\"Arrows/Indicators Color\" name=\"indicatorsColor\" value=\"#003d59\" condition=\"showArrows || showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n\t\t<input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"6000\" condition=\"showAutoplay\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value>\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"2 BG Color\" name=\"bgColor2\" condition=\"bg.type == 'color'\" checked>\n\t\t<input type=\"color\" title=\"2 Background Color\" value=\"#cce4f0\" name=\"twoBgColor\" condition=\"bgColor2 && bg.type == 'color'\">\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\t<div class=\"two__background\"></div>\n\t<div class=\"container-fluid\">\n\n\t\t<div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n\t\t\t<div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n\t\t\t\t<div class=\"carousel-item\">\n\t\t\t\t\t<div class=\"media-container-row\">\n\t\t\t\t\t\t<div class=\"col-12 col-lg-4 offset-lg-1 slider__content\">\n\t\t\t\t\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">New Zealand South Island High Country - Accommodated &amp; Fully Catered 4WD Tour. Christchurch to Queenstown.&nbsp;11 Nights</h4>\n\t\t\t\t\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><br>Includes 12 day 4WD Hire.&nbsp;5 Vehicles Maximum<br><br><b>2025 Tours - SOLD OUT</b><b><br></b><b><br></b>25 Jan - 5 Feb (<b>SOLD OUT</b>)<br> 11 - 22 Feb (<b>SOLD OUT</b>).<br><br><b>2026 Tours - Bookings now open</b><br>$15,508 per couple/twin share<br><br>Tours starting 11th Feb, 1st March, &amp; 19th March.&nbsp;</h3>\n\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Embark on the premier High Country Tag Along Tour in New Zealand with our unparalleled offering. No other operator offers such excellent accommodation, meals and experiences, making this the tour for adventurers wanting to \"rough it in style\".<br><br>Our tour includes spectacular off-road driving during the day, picnic lunches \"on the hill\", and very comfortable farm stay, lodge, motel and hotel accommodation at night, along with delicious meals.<br><br> You will be accompanied at all times by your qualified guide, Tony. He's a Kiwi with an intimate knowledge and experience of the South Island High Country, so you will get to see the countryside through his eyes.<br><br>It's not all about four wheel driving though, with the itinerary including an informative tram tour of Christchurch City, a 50 min scenic flight over and around the highest mountains in NZ, a 2 hour jetboat tour up an incredible mountain valley, and our final dinner overlooking Queenstown and Lake Wakatipu at the Stratosfare Restaurant up the gondola!<br><br>The 4WD tracks have been selected for their scenery over technical difficulty, however, some of the driving will definitely get your heart racing!<br><br>The tour includes vehicle hire for 12 days, but you can extend your rental if you want to do some extra exploring while you're there. It's also fully catered, so you don't have to worry about how to keep your food cold during the day.<br><br>Flights to and from Christchurch are not included in the tour cost. <br><br><b>LIVE IN NEW ZEALAND AND/OR HAVE YOUR OWN VEHICLE?</b>&nbsp;If you have your own vehicle in NZ, you are welcome to come along. We will amend the tour price accordingly.<br><br><b>HOW ABOUT A PRIVATE TOUR OPTION?</b>&nbsp;If you get a group of up to 10 people together, we can arrange a tour with all manner of optional extras and varied itineraries depending on what you would like to do (prices vary).&nbsp;<br><br><a href=\"new_zealand_treks.html\" class=\"text-primary\" target=\"_blank\"><i><b>FIND OUT MORE HERE</b></i></a><br></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-12 col-lg-7\">\n\t\t\t\t\t\t\t<div class=\"slider__image\">\n\t\t\t\t\t\t\t\t<div class=\"img-wrap\">\n\t\t\t\t\t\t\t\t\t<a href=\"new_zealand_treks.html\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/426375173-429970526086996-7550948171091640066-n.jpg\" alt=\"NZ High Country\" title></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"carousel-indicators\" mbr-if=\"showIndicators\">\n\t\t\t\t<li data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 1\" data-slide-to=\"1\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 2\" data-slide-to=\"2\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 3\" data-slide-to=\"3\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 4\" data-slide-to=\"4\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 5\" data-slide-to=\"5\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 6\" data-slide-to=\"6\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 7\" data-slide-to=\"7\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 8\" data-slide-to=\"8\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 9\" data-slide-to=\"9\"></li>\n\t\t\t</div>\n\n\t\t\t<div class=\"carousel-controls\" mbr-if=\"showArrows\">\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-prev\" role=\"button\" data-slide=\"prev\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-left mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Previous</span>\n\t\t\t\t</a>\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-next\" role=\"button\" data-slide=\"next\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Next</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_customHTML": "<section class=\"slider3 voyagem4_slider3 carousel slide testimonials-slider extSlider\" group=\"Sliders & Galleries\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider\" data-interval=\"false\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" inline>\n\t\t<input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" inline>\n\t\t<header>Show/Hide</header>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t<input type=\"checkbox\" title=\"Figure\" name=\"showFigure\" condition=\"showSubtitle\" checked>\n\t\t<input type=\"image\" title=\"Figure\" name=\"figure\" value=\"@PROJECT_PATH@/assets/images/compass-1.svg\" condition=\"showFigure && showSubtitle\">\n\t\t<header>Slider</header>\n\t\t<input type=\"range\" inline title=\"Count Items\" name=\"testimonialsSlides\" min=\"1\" max=\"10\" step=\"1\" value=\"1\">\n\t\t<input type=\"checkbox\" title=\"Show Indicators\" name=\"showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Show Arrows\" name=\"showArrows\">\n\t\t<input type=\"color\" title=\"Arrows/Indicators Color\" name=\"indicatorsColor\" value=\"#003d59\" condition=\"showArrows || showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n\t\t<input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"6000\" condition=\"showAutoplay\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value>\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"2 BG Color\" name=\"bgColor2\" condition=\"bg.type == 'color'\" checked>\n\t\t<input type=\"color\" title=\"2 Background Color\" value=\"#cce4f0\" name=\"twoBgColor\" condition=\"bgColor2 && bg.type == 'color'\">\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\t<div class=\"two__background\"></div>\n\t<div class=\"container-fluid\">\n\n\t\t<div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n\t\t\t<div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n\t\t\t\t<div class=\"carousel-item\">\n\t\t\t\t\t<div class=\"media-container-row\">\n\t\t\t\t\t\t<div class=\"col-12 col-lg-4 offset-lg-1 slider__content\">\n\t\t\t\t\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">New Zealand South Island High Country - Accommodated &amp; Fully Catered 4WD Tour. Christchurch to Queenstown.&nbsp;11 Nights</h4>\n\t\t\t\t\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><br>Includes 12 day 4WD Hire.&nbsp;5 Vehicles Maximum<br><br><b>2025 Tours - SOLD OUT</b><b><br></b><b><br></b>25 Jan - 5 Feb (<b>SOLD OUT</b>)<br> 11 - 22 Feb (<b>SOLD OUT</b>).<br><br><b>2026 Tours - Bookings now open</b><br>$15,508 per couple/twin share<br><br>Tours starting 11th Feb, 1st March, &amp; 19th March.&nbsp;</h3>\n\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Embark on the premier High Country Tag Along Tour in New Zealand with our unparalleled offering. No other operator offers such excellent accommodation, meals and experiences, making this the tour for adventurers wanting to \"rough it in style\".<br><br>Our tour includes spectacular off-road driving during the day, picnic lunches \"on the hill\", and very comfortable farm stay, lodge, motel and hotel accommodation at night, along with delicious meals.<br><br> You will be accompanied at all times by your qualified guide, Tony. He's a Kiwi with an intimate knowledge and experience of the South Island High Country, so you will get to see the countryside through his eyes.<br><br>It's not all about four wheel driving though, with the itinerary including an informative tram tour of Christchurch City, a 50 min scenic flight over and around the highest mountains in NZ, a 2 hour jetboat tour up an incredible mountain valley, and our final dinner overlooking Queenstown and Lake Wakatipu at the Stratosfare Restaurant up the gondola!<br><br>The 4WD tracks have been selected for their scenery over technical difficulty, however, some of the driving will definitely get your heart racing!<br><br>The tour includes vehicle hire for 12 days, but you can extend your rental if you want to do some extra exploring while you're there. It's also fully catered, so you don't have to worry about how to keep your food cold during the day.<br><br>Flights to and from Christchurch are not included in the tour cost. <br><br><b>DO YOU LIVE IN NEW ZEALAND AND/OR HAVE YOUR OWN VEHICLE?</b>&nbsp;If you have your own vehicle in NZ, you are welcome to come along. We will amend the tour price accordingly.<br><br><b>HOW ABOUT A PRIVATE TOUR OPTION?</b>&nbsp;If you get a group of up to 10 people together, we can arrange a tour with all manner of optional extras and varied itineraries depending on what you would like to do (prices vary).&nbsp;<br><br><a href=\"new_zealand_treks.html\" class=\"text-primary\" target=\"_blank\"><i><b>FIND OUT MORE HERE</b></i></a><br></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-12 col-lg-7\">\n\t\t\t\t\t\t\t<div class=\"slider__image\">\n\t\t\t\t\t\t\t\t<div class=\"img-wrap\">\n\t\t\t\t\t\t\t\t\t<a href=\"new_zealand_treks.html\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/426375173-429970526086996-7550948171091640066-n.jpg\" alt=\"NZ High Country\" title></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"carousel-indicators\" mbr-if=\"showIndicators\">\n\t\t\t\t<li data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 1\" data-slide-to=\"1\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 2\" data-slide-to=\"2\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 3\" data-slide-to=\"3\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 4\" data-slide-to=\"4\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 5\" data-slide-to=\"5\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 6\" data-slide-to=\"6\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 7\" data-slide-to=\"7\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 8\" data-slide-to=\"8\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 9\" data-slide-to=\"9\"></li>\n\t\t\t</div>\n\n\t\t\t<div class=\"carousel-controls\" mbr-if=\"showArrows\">\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-prev\" role=\"button\" data-slide=\"prev\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-left mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Previous</span>\n\t\t\t\t</a>\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-next\" role=\"button\" data-slide=\"next\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Next</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
           "_anchor": "slider3-me",
           "_isUserblock": true,
           "_cid": "trVtLc1lQa",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "P": {
-              "color": "#767676"
-            },
-            "H1": {
-              "color": "#ffffff"
-            }
-          },
-          "_name": "header16",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#3e2926\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\">Join our Private Facebook Team Members Group for special offers <br>&amp; advanced notifications</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"></p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-primary\" href=\"https://www.facebook.com/groups/AU4X4TREKSTeam/\" data-app-placeholder=\"Type Text\">Join Facebook Team</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
-          "_anchor": "header16-mc",
-          "_isUserblock": true,
-          "_cid": "trVt8USTgI",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
-            "overflow": "hidden",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bgColor2) and (@bg-type = 'color')": {
-              ".two__background:before": {
-                "content": "''",
-                "position": "absolute",
-                "top": "0",
-                "right": "0",
-                "max-width": "49%",
-                "width": "100%",
-                "height": "100%",
-                "background-color": "@twoBgColor",
-                "z-index": "0"
-              }
-            },
-            ".carousel-inner when (@showArrows)": {
-              "margin-bottom": "70px"
-            },
-            ".slider__content": {
-              "padding-top": "52px",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#050505",
-              "margin-bottom": "13px",
-              "position": "relative",
-              "z-index": "1",
-              "& when (@showFigure)": {
-                "&:after": {
-                  "content": "''",
-                  "position": "absolute",
-                  "left": "-92px",
-                  "top": "147px",
-                  "width": "85px",
-                  "height": "85px",
-                  "z-index": "-1",
-                  "background-repeat": "no-repeat",
-                  "background-size": "cover",
-                  "background-image": "url(@figure)"
-                }
-              }
-            },
-            ".mbr-section-title": {
-              "margin-bottom": "33px"
-            },
-            ".slider__image": {
-              "margin-left": "11.8%"
-            },
-            ".img-wrap": {
-              "max-width": "100%",
-              "img": {
-                "width": "100%",
-                "object-fit": "cover"
-              }
-            },
-            ".carousel-indicators": {
-              "display": "flex",
-              "flex-direction": "column",
-              "margin": "0",
-              "transition": "all 0.25s",
-              "height": "100%",
-              "width": "50px",
-              "left": "44.5%",
-              "right": "auto",
-              ".active": {
-                "background": "@indicatorsColor",
-                "opacity": "1",
-                "border": "none",
-                "&:before": {
-                  "content": "''",
-                  "display": "block",
-                  "position": "absolute",
-                  "top": "-14px",
-                  "left": "-14px",
-                  "width": "40px",
-                  "height": "40px",
-                  "border-radius": "50%",
-                  "background-color": "inherit",
-                  "opacity": "0.2"
-                }
-              },
-              "li": {
-                "width": "12px",
-                "height": "12px",
-                "border": "none",
-                "margin-bottom": "32px",
-                "box-sizing": "border-box",
-                "background-color": "@indicatorsColor",
-                "border-radius": "50%",
-                "position": "relative",
-                "opacity": "0.2"
-              }
-            },
-            ".carousel-controls": {
-              "a": {
-                "border-radius": "50%",
-                "border": "2px solid @indicatorsColor",
-                "background-color": "transparent",
-                "span": {
-                  "transition": "all 0.3s",
-                  "color": "@indicatorsColor",
-                  "font-size": "18px"
-                },
-                "&:hover": {
-                  ".mobi-mbri-left": {
-                    "transform": "translateX(-5px)"
-                  },
-                  ".mobi-mbri-right": {
-                    "transform": "translateX(5px)"
-                  }
-                }
-              },
-              ".carousel-control-next, .carousel-control-prev": {
-                "opacity": "1",
-                "width": "44px",
-                "height": "44px"
-              },
-              ".carousel-control-next": {
-                "right": "40%",
-                "bottom": "5px",
-                "top": "auto",
-                "left": "auto"
-              },
-              ".carousel-control-prev": {
-                "right": "45%",
-                "bottom": "5px",
-                "top": "auto",
-                "left": "auto"
-              }
-            },
-            "@media screen and (~'-ms-high-contrast: active'), (~'-ms-high-contrast: none')": {
-              ".image-element": {
-                "min-width": "50%"
-              },
-              ".media-container-row": {
-                "width": "100%"
-              }
-            },
-            "@media (max-width: 991px)": {
-              ".two__background:before": {
-                "max-width": "90%"
-              },
-              ".carousel-indicators": {
-                "flex-direction": "row",
-                "height": "50px",
-                "width": "100%",
-                "left": "auto",
-                "bottom": "0",
-                "right": "auto",
-                "li": {
-                  "margin": "0 16px"
-                }
-              },
-              ".slider__content": {
-                "padding-top": "0",
-                "margin-bottom": "72px"
-              },
-              ".mbr-section-subtitle": {
-                "margin-bottom": "6px",
-                "&:after": {
-                  "content": "none"
-                }
-              },
-              ".mbr-section-title": {
-                "margin-bottom": "18px"
-              },
-              ".slider__image": {
-                "margin-left": "0",
-                "margin-bottom": "100px"
-              },
-              ".img-wrap": {
-                "width": "100%"
-              },
-              ".carousel-controls": {
-                "display": "none"
-              },
-              ".carousel-inner": {
-                "margin-bottom": "0"
-              }
-            },
-            ".mbr-text": {
-              "color": "#000000"
-            }
-          },
-          "_name": "slider3",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"slider3 voyagem4_slider3 carousel slide testimonials-slider extSlider\" group=\"Sliders & Galleries\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\" plugins=\"BootstrapCarouselSwipe,mbr-testimonials-slider\" data-interval=\"false\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" inline>\n\t\t<input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\" inline>\n\t\t<header>Show/Hide</header>\n\t\t<input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n\t\t<input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n\t\t<input type=\"checkbox\" title=\"Figure\" name=\"showFigure\" condition=\"showSubtitle\" checked>\n\t\t<input type=\"image\" title=\"Figure\" name=\"figure\" value=\"@PROJECT_PATH@/assets/images/compass-1.svg\" condition=\"showFigure && showSubtitle\">\n\t\t<header>Slider</header>\n\t\t<input type=\"range\" inline title=\"Count Items\" name=\"testimonialsSlides\" min=\"1\" max=\"10\" step=\"1\" value=\"1\">\n\t\t<input type=\"checkbox\" title=\"Show Indicators\" name=\"showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Show Arrows\" name=\"showArrows\">\n\t\t<input type=\"color\" title=\"Arrows/Indicators Color\" name=\"indicatorsColor\" value=\"#003d59\" condition=\"showArrows || showIndicators\">\n\t\t<input type=\"checkbox\" title=\"Autoplay\" name=\"showAutoplay\">\n\t\t<input type=\"range\" inline title=\"Autoplay Interval (ms)\" name=\"interval\" min=\"1000\" max=\"8000\" step=\"1000\" value=\"6000\" condition=\"showAutoplay\">\n\t\t<header>Background</header>\n\t\t<fieldset type=\"background\" name=\"bg\" parallax>\n\t\t\t<input type=\"image\" title=\"Image\" value>\n\t\t\t<input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n\t\t\t<input type=\"video\" title=\"Video\" value=\"https://www.youtube.com/watch?v=pjiVuLVqWQg\">\n\t\t</fieldset>\n\t\t<input type=\"checkbox\" title=\"2 BG Color\" name=\"bgColor2\" condition=\"bg.type == 'color'\" checked>\n\t\t<input type=\"color\" title=\"2 Background Color\" value=\"#cce4f0\" name=\"twoBgColor\" condition=\"bgColor2 && bg.type == 'color'\">\n\t\t<input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n\t\t<input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay&&bg.type !== 'color'\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n\t</div>\n\t<div class=\"two__background\"></div>\n\t<div class=\"container-fluid\">\n\n\t\t<div class=\"carousel slide\" role=\"listbox\" data-pause=\"true\" data-keyboard=\"false\" data-ride=\"{{showAutoplay ? 'carousel' : 'false'}}\" data-interval=\"{{showAutoplay ? interval : 'false'}}\">\n\t\t\t<div mbr-list mbr-list-grow=\"testimonialsSlides\" class=\"carousel-inner\">\n\t\t\t\t<div class=\"carousel-item\">\n\t\t\t\t\t<div class=\"media-container-row\">\n\t\t\t\t\t\t<div class=\"col-12 col-lg-4 offset-lg-1 slider__content\">\n\t\t\t\t\t\t\t<h4 class=\"mbr-section-subtitle mbr-regular mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">*Arnhem Land &amp; Kakadu 4WD Discovery Tour<div>21 Days</div></h4>\n\t\t\t\t\t\t\t<h3 class=\"mbr-section-title mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><br><div>• 11 - 31 August <b>2025</b></div><div><br><div><b>From </b>$11,500 per vehicle including 2 people</div><br><div>Off-road Camper trailers OK</div></div></h3>\n\t\t\t\t\t\t\t<p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\"><b>*This tour is operated by our trusted affiliate business \"<i>See Around Corners 4WD Tours</i>\"</b><br><br>Throughout 21 days we venture across Kakadu National Park, Garig Gunak Barlu National Park and North East Arnhem.\n<br>\n<br>Experiencing the iconic scenery of places like Ubirr and Corroboree Billabong, as well as taking a dive into the culture and art work of the Bininj-Kunwok, North West and Yolgnu  of North East Arnhem Land.\n<br>\n<br>Be amazed by incredible scenery and spotting wildlife such as estuarine (saltwater) crocodile, buffalo, dolphins, dugongs in their own environment.\n<br>\n<br>This is a true adventure, exploring the best Arnhem Land and Kakadu have to offer.<br><br>Hire a fully equipped 4WD for this tour in Darwin from <a href=\"https://www.overlanderadventures.com.au/tag-along-tours\" class=\"text-danger\" target=\"_blank\">Overlander 4WD Hire</a> and receive our exclusive discount.<br><br><a href=\"https://www.seearoundcorners.com/arnhemland\" class=\"text-primary\" target=\"_blank\"><b><i>FIND OUT MORE HERE</i></b></a><br></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-12 col-lg-7\">\n\t\t\t\t\t\t\t<div class=\"slider__image\">\n\t\t\t\t\t\t\t\t<div class=\"img-wrap\">\n\t\t\t\t\t\t\t\t\t<a href=\"https://www.seearoundcorners.com/arnhemland\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/sac-1-2475x1650.png\" alt=\"Arnhem Land and Kakadu\" title></a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<div class=\"carousel-indicators\" mbr-if=\"showIndicators\">\n\t\t\t\t<li data-slide-to=\"0\" class=\"active\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 1\" data-slide-to=\"1\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 2\" data-slide-to=\"2\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 3\" data-slide-to=\"3\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 4\" data-slide-to=\"4\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 5\" data-slide-to=\"5\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 6\" data-slide-to=\"6\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 7\" data-slide-to=\"7\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 8\" data-slide-to=\"8\"></li>\n\t\t\t\t<li mbr-if=\"testimonialsSlides> 9\" data-slide-to=\"9\"></li>\n\t\t\t</div>\n\n\t\t\t<div class=\"carousel-controls\" mbr-if=\"showArrows\">\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-prev\" role=\"button\" data-slide=\"prev\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-left mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Previous</span>\n\t\t\t\t</a>\n\t\t\t\t<a data-app-prevent-settings class=\"carousel-control carousel-control-next\" role=\"button\" data-slide=\"next\">\n\t\t\t\t\t<span aria-hidden=\"true\" class=\"mbr-iconfont mobi-mbri-right mobi-mbri\"></span>\n\t\t\t\t\t<span class=\"sr-only\">Next</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
-          "_anchor": "slider3-lf",
-          "_isUserblock": true,
-          "_cid": "tnMwmjnsxN",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".mbr-media span": {
-              "font-size": "48px",
-              "cursor": "pointer",
-              "background-color": "#ffffff",
-              "border-radius": "50%",
-              "width": "6rem",
-              "height": "6rem",
-              "line-height": "6rem",
-              "position": "relative",
-              "display": "inline-block",
-              "transition": "all 0.25s",
-              "color": "#353535",
-              "&.mbri-play:before": {
-                "position": "absolute",
-                "left": "50%",
-                "-webkit-transform": "translateX(-35%)",
-                "-moz-transform": "translateX(-35%)",
-                "-ms-transform": "translateX(-35%)",
-                "-o-transform": "translateX(-35%)",
-                "transform": "translateX(-35%)"
-              }
-            },
-            ".modalWindow": {
-              "position": "fixed",
-              "z-index": "5000",
-              "left": "0",
-              "top": "0",
-              "background-color": "rgba(61, 61, 61, 0.65)",
-              "width": "100%",
-              "height": "100%",
-              ".modalWindow-container": {
-                "display": "table-cell",
-                "vertical-align": "middle"
-              },
-              ".modalWindow-video": {
-                "height": "calc(80vw / 1.778)",
-                "width": "80vw",
-                "margin": "0 auto"
-              }
-            },
-            "a.close": {
-              "position": "absolute",
-              "right": "4vw",
-              "top": "4vh",
-              "color": "#ffffff",
-              "z-index": "5000000",
-              "font-size": "37px",
-              "background": "#000",
-              "padding": "20px",
-              "border-radius": "50%",
-              "&:hover": {
-                "color": "#ffffff"
-              }
-            }
-          },
-          "_name": "header8",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"header8\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"PlayerVimeo\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Video PopUp\" name=\"showVideoPopUp\">\n        <input type=\"text\" title=\"Modal Video\" name=\"modalVideo\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\" condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Show Description\" name=\"showDescription\" checked condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" value=\"@PROJECT_PATH@/assets/images/background4.jpg\" title=\"Background Image\" parallax>\n            <input type=\"color\" value=\"#4b3330\" title=\"Background Color\" selected>\n            <input type=\"video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\" title=\"Background Video\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ff3366\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center py-2 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                        INTRO WITH VIDEO POPUP\n                </h1>\n                <p class=\"mbr-text align-center py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\">\n                        Full-screen intro with background image and video popup.\n                </p>\n                <div class=\"mbr-media show-modal align-center py-2\" mbr-if=\"showVideoPopUp\" data-modal=\".modalWindow\">\n                         <span mbr-icon class=\"mbr-iconfont mbri-play\" style=\"color: rgb(20, 157, 204); fill: rgb(20, 157, 204);\"></span>\n                </div>\n                <div mbr-text class=\"icon-description align-center font-italic pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showDescription && showVideoPopUp\" data-app-selector=\".icon-description\">\n                        Icon's descriptions\n                </div>\n                <div class=\"mbr-section-btn text-center\" mbr-buttons mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-primary\" href=\"canning_stock_route.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">CANNING STOCK ROUTE</a> <a class=\"btn btn-md btn-primary\" href=\"simpson_desert.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">SIMPSON DESERT</a> <a class=\"btn btn-md btn-primary\" href=\"cape_york.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">CAPE YORK</a> <a class=\"btn btn-md btn-primary\" href=\"index.html\" data-app-placeholder=\"Type Text\">KIMBERLEY - coming soon</a> <a class=\"btn btn-md btn-primary\" href=\"index.html\" data-app-placeholder=\"Type Text\">PILBARA + DIRK HARTOG - coming soon</a> <a class=\"btn btn-md btn-primary\" href=\"new_zealand_treks.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">NZ SOUTH ISLAND - Coming soon</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showVideoPopUp\">\n        <div class=\"modalWindow\" style=\"display: none;\">\n            <div class=\"modalWindow-container\">\n                <div class=\"modalWindow-video-container\">\n                    <div class=\"modalWindow-video\">\n                        <iframe width=\"100%\" height=\"100%\" data-src=\"{{modalVideo}}\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"mbri-close mbr-iconfont closeModal\"></span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "header8-js",
-          "_isUserblock": true,
-          "_cid": "tjUkRBuOH3",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
