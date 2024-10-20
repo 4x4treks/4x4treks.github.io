@@ -115,7 +115,7 @@
     "uniqCompNum": 1149,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
-    "google-analytics": "",
+    "google-analytics": "<!-- Google tag (gtag.js) event -->\n<script>\n  gtag('event', 'conversion_event_page_view', {\n    // <event_parameters>\n  });\n</script>\n",
     "modified": "2020-05-06T09:04:32.816Z",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlert": false,
@@ -124,7 +124,7 @@
     "publishChangesOnly": true,
     "global_header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WCQ6D2D');</script>\n<!-- End Google Tag Manager -->",
     "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WCQ6D2D\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
-    "mbrsiteDomain": "uqr88ymlce",
+    "mbrsiteDomain": "pri4pfs0xg",
     "cssOptimize": true,
     "lazyLoad": false
   },
@@ -737,11 +737,11 @@
           "_sourceTheme": "mobirise4",
           "_customHTML": "<section class=\"testimonials3\" group=\"Testimonials\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"55\">\n\n      <fieldset type=\"background\" name=\"bg\" parallax>\n        <input type=\"image\" title=\"Background Image\" value=\"../_images/background5.jpg\">\n        <input type=\"color\" title=\"Background Color\" value=\"#f3f4f6\" selected>\n        <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n      </fieldset>\n      <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n      <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n      <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"media-content px-3 align-self-center mbr-white py-2\">\n                <p class=\"mbr-text testimonial-text mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".testimonial-text\">\n                   Your Guide, Tony</p>\n                <p class=\"mbr-author-name pt-4 mb-2 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-author-name\"></p>\n                <p class=\"mbr-author-desc mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-author-desc\">A surprising fact is that in Australia, tag along tour guides are not required to be accredited. Therefore, we think it’s important you know that <b>Tony is Savannah Guides</b> accredited, <b>EcoGuide Australia</b> accredited, and <b>Tour Guides Australia</b> accredited (these all require an accreditation process, not just a paid membership).\n<br>\n<br>Tony also holds a <b>Cert IV in Training and Assessment in 4WD Instruction</b>, a <b>Degree in Tourism</b> and a <b>Masters Degree in Wildlife Management</b>. In addition to this, our business is the <b>only tag along tour operator</b> in Australia approved under the <b>Savannah Guides Enterprise</b> accreditation scheme.\n<br>\n<br><b>What does all this mean to you?</b> It means that when you come along on one of our tours, you are in for the best possible experience, and that your safety is our paramount concern.&nbsp;&nbsp;<br><br>To learn more about Tony's experience, please follow <a href=\"about.html\" class=\"text-danger\" target=\"_blank\">this link</a><br></p>\n            </div>\n\n            <div class=\"mbr-figure pl-lg-5\" mbr-style=\"{'width':mediaSize + '%'}\">\n              <img src=\"@PROJECT_PATH@/assets/images/screenshot-20230616-140142-gallery-1.jpg\" alt=\"Tour guide Tony Davys\">\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "urpvC6kNuB",
+          "_anchor": "testimonials3-vw",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "testimonials3-vw"
+          "_params": {}
         },
         {
           "alias": false,
