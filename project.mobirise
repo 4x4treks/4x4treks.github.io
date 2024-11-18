@@ -132,8 +132,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Australian 4X4 Treks - 4WD Tag Along Tours - Simpson Desert | Canning Stock Route | Cape York | NZ South Island | Kimberley | Arnhem Land",
-        "meta_descr": "4WD Tag Along Self Drive Tours to Remote & Inspiring Locations in Australia and New Zealand",
+        "title": "Australian 4X4 Treks - 4WD Adventures in Australia & New Zealand - Simpson Desert | Canning Stock Route | Beadell Highways | NZ South Island | Kimberley | Arnhem Land",
+        "meta_descr": "Guided Tag Along & Ride Along Passenger 4WD Adventures in Australia & New Zealand",
         "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BSMTVCCB5N\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BSMTVCCB5N');\n</script><meta name=\"facebook-domain-verification\" content=\"8iir43u86vu5cqt2b64rv1f3u3biuq\" />",
         "footer_custom": "",
         "html_before": "",
