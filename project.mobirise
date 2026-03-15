@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Australian 4X4 Treks",
-    "currentPage": "index.html",
+    "currentPage": "simpson_desert.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -12175,7 +12175,7 @@
         "meta_descr": "Join us for a unique 15 night tour exploring the Simpson Desert. Spend a full 10 days in the desert, more than any other tour company, immersing yourself in the remoteness of the region while also enjoying some downtime at Birdsville, Dalhousie Springs, and Mt Dare.",
         "title": "Simpson Desert Double Crossing 4WD Tag Along Tour - The Greatest Simpson Desert Experience",
         "order": 8,
-        "meta_image": "@PROJECT_PATH@/assets/images/img-241-2000x1333.jpg",
+        "meta_image": "@PROJECT_PATH@/assets/images/img-1374.jpg",
         "header_custom": ""
       },
       "components": [
