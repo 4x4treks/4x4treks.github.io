@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Australian 4X4 Treks",
-    "currentPage": "index.html",
+    "currentPage": "new_zealand_treks.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -133,12 +133,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Australian 4X4 Treks - 4WD Adventures in Australia & New Zealand - Simpson Desert | Canning Stock Route | Beadell Highways | NZ South Island | Kimberley | Arnhem Land",
-        "meta_descr": "Guided Tag Along & Ride Along Passenger 4WD Adventures in Australia & New Zealand",
+        "title": "Guided 4WD Tag Along Tours Australia & NZ | Australian 4X4 Treks",
+        "meta_descr": "Join Savannah Guide accredited 4WD tag along tours across Australia & NZ. Premium remote outback expeditions led by expert wildlife & 4WD guide Tony Davys.",
         "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BSMTVCCB5N\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BSMTVCCB5N');\n</script><meta name=\"facebook-domain-verification\" content=\"8iir43u86vu5cqt2b64rv1f3u3biuq\" />",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/20230611-165304.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/dscn7934.jpg"
       },
       "components": [
         {
@@ -4810,11 +4810,11 @@
     },
     "new_zealand_treks.html": {
       "settings": {
-        "meta_descr": "Join us for a breathtaking journey through New Zealand's South Island High Country. Experience incredible scenery on this self-drive adventure, while spending the evenings in comfort with resort style accommodation and gorgeous food.",
-        "title": "New Zealand High Country Tag-along 4WD Experience",
+        "meta_descr": "12-night accommodated & catered 4WD tour across New Zealand's South Island backcountry. Premium Christchurch to Queenstown tag along adventure. Capped at 5 vehicles.",
+        "title": "2027 NZ South Island High Country 4WD Tour | Australian 4X4 Treks",
         "order": "10",
         "header_custom": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/20090422-out-there-z1c5512-69-2000x1333-800x450.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/20230323-154132.jpg"
       },
       "components": [
         {
@@ -9363,8 +9363,8 @@
     },
     "canning_stock_route.html": {
       "settings": {
-        "meta_descr": "This is as remote as you can get in Australia. Traverse the four deserts of central Western Australia on this legendary overland tour. 24 nights gives you time to take in your surroundings and appreciate the ever-changing environment. Includes the Tanami Track, Canning Stock Route, the Great Central Road, Kata Tjuta and Uluru (The Olgas and Ayers Rock).",
-        "title": "Canning Stock Route 4WD Tag-along Tour - The Ultimate Desert Experience",
+        "meta_descr": "Experience the ultimate 23-night Canning Stock Route 4WD tag along expedition (South to North). Fully guided with Savannah Guides accreditation. Download Info Pack!",
+        "title": "2027 Canning Stock Route Tag Along 4WD Tour | Australian 4X4 Treks",
         "order": "7",
         "meta_image": "@PROJECT_PATH@/assets/images/prado-on-canning-w-blurred-rego.jpg",
         "header_custom": ""
@@ -10860,10 +10860,10 @@
     },
     "simpson_desert.html": {
       "settings": {
-        "meta_descr": "Join us for a unique 15 night tour exploring the Simpson Desert. Spend a full 10 days in the desert, more than any other tour company, immersing yourself in the remoteness of the region while also enjoying some downtime at Birdsville, Dalhousie Springs, and Mt Dare.",
-        "title": "Simpson Desert Double Crossing 4WD Tag Along Tour - The Greatest Simpson Desert Experience",
+        "meta_descr": "14-night Simpson Desert double crossing 4WD tour including the Madigan Line & Birdsville Hotel. Guided tag along adventure with expert remote 4WD instruction.",
+        "title": "2027 Simpson Desert Double Crossing 4WD Tour | Australian 4X4 Treks",
         "order": "5",
-        "meta_image": "@PROJECT_PATH@/assets/images/img-1374.jpg",
+        "meta_image": "@PROJECT_PATH@/assets/images/dscn8565.jpg",
         "header_custom": ""
       },
       "components": [
@@ -16715,10 +16715,10 @@
     },
     "centre_to_sea.html": {
       "settings": {
-        "meta_descr": "From Alice Springs to 80 Mile Beach in WA, and all the way back via some amazing National Parks, remote desert tracks, and bucket list locations, this trek promises to be an absolute epic! While it's still in the planning phase, we're doing a reconnaissance trip late in the 2025 season, so we'll be ready to show you the most amazing places come May 2026.",
-        "title": "Centre to the Sea (and back!) Tour",
+        "meta_descr": "25-night Alice Springs to Ningaloo (and back) 4WD tour traversing 5 Len Beadell tracks & WA National Parks. Fully guided remote desert tag along adventure. Download Info Pack!",
+        "title": "2027 Centre to Sea 4WD Tag Along Expedition | Australian 4X4 Treks",
         "order": "9",
-        "meta_image": "@PROJECT_PATH@/assets/images/prado-on-canning-w-blurred-rego.jpg",
+        "meta_image": "@PROJECT_PATH@/assets/images/0b968748-8d30-4a62-b5b9-b8d7e2b26530.jpg",
         "header_custom": ""
       },
       "components": [
@@ -18212,8 +18212,8 @@
     },
     "alice-to-oombi.html": {
       "settings": {
-        "meta_descr": "Ultimate 2027 Kimberley 4WD expedition: Alice Springs to Kununurra featuring the Bungle Bungles, Mitchell Falls, Gibb River Road, and the legendary Oombi Track.",
-        "title": "Alice to Oombi - Kimberley Magic",
+        "meta_descr": "Exclusive 12 days on the legendary Oombi Track plus Mitchell Falls, Bungles & Tanami. 26-night premium Kimberley 4WD tag along tour. Download Info Pack today!",
+        "title": "2027 Kimberley Oombi Track 4WD Tag Along Tour | Australian 4X4 Treks",
         "order": "8",
         "meta_image": "@PROJECT_PATH@/assets/images/ec6370ac-21ea-4ec8-9f80-31e5210d886d.jpg",
         "header_custom": ""
