@@ -10,7 +10,7 @@ body {
   font-size: 6.08rem;
 }
 .display-2 {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Noto Sans HK', sans-serif;
   font-size: 2.8rem;
   font-display: swap;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Noto Sans HK', sans-serif;
   font-size: 1.6rem;
   font-display: swap;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 2.56rem;
 }
 .display-7 {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -540,7 +540,7 @@ a:hover {
   border-radius: 100px;
 }
 .form-control {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -1188,6 +1188,7 @@ section.lazy-placeholder:after {
 .cid-vud460FPXX .mbr-text,
 .cid-vud460FPXX .item .mbr-section-btn {
   text-align: left;
+  color: #080808;
 }
 .cid-vud460FPXX .content-head {
   max-width: 800px;
@@ -2321,6 +2322,9 @@ section.lazy-placeholder:after {
 }
 .cid-tt5s7JvCyF a.close:hover {
   color: #ffffff;
+}
+.cid-vuGiR8WboV {
+  background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-rUoZv7Atia .navbar {
   padding: .5rem 0;
