@@ -1088,15 +1088,9 @@ section.lazy-placeholder:after {
 .cid-rUjfRIVTJF {
   background-image: url("../../../assets/images/car-salt.jpg");
 }
-.cid-rUjfRIVTJF .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-rUjfRIVTJF .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
